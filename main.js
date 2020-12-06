@@ -278,6 +278,7 @@ client.on('message', message => {
                     message.channel.send('EXORCIST BOB LARSON 5 :star: ');
                 } else if (ran == 3) {
                     message.channel.send('ALT MIXSY 5 :star: ');
+                    message.channel.send('wowee');
                 } else if (ran == 4) {
                     message.channel.send('GEMINI ABBY 5 :star: ');
                 } else if (ran == 5) {
