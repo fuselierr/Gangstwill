@@ -409,6 +409,8 @@ client.on('message', message => {
             for (i = 0; i < c.length; i++) {
                 message.channel.send(i + 1 + ". " + ppl[pc.indexOf(c[i])] + ", $" + c[i])
             }
+            e = [];
+            c = [];
         } else if (args[0] === 'start') {
             if (ppl.includes(message.author.id)) {
                 message.channel.send('WTH man you already started');
