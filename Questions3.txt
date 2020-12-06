@@ -1,0 +1,2061 @@
+FTV	1.	The Pharisees » and Sadducees came… (Club 300)
+		A:	to Jesus and tested him by asking him to show them a sign from heaven. [M 16:1]
+
+INT	2.	Asking him » to show them what? (Club 300)
+		A:	A sign from heaven. [M 16:1]
+
+MA	3.	Who tested him by » asking him to show them a sign from heaven? (Club 300)
+		A:	The Pharisees and Sadducees. [M 16:1]
+
+CVR	4.	According to Matthew chapter 16 verse 2, » the sky is what?
+		A:	Red. [M 16:2]
+
+CVR	5.	According to Matthew chapter 16 verse 2, » what is red?
+		A:	The sky. [M 16:2]
+
+INT	6.	What weather? »
+		A:	Fair weather. [M 16:2]
+
+INT	7.	When evening comes, » you say, what?
+		A:	It will be fair weather, for the sky is red. [M 16:2]
+
+CR	8.	According to Matthew chapter 16, you cannot » what?
+		A:	Interpret the signs of the times. [M 16:3]
+
+CR	9.	According to Matthew chapter 16, you cannot » what?
+		A:	Interpret the signs of the times. [M 16:3]
+
+INT	10.	Interpret » the appearance of what?
+		A:	The sky. [M 16:3]
+
+INT	11.	What is red and » overcast?
+		A:	The sky. [M 16:3]
+
+INT	12.	You know how to » interpret what?
+		A:	The appearance of the sky. [M 16:3]
+
+INT	13.	What signs? »
+		A:	The signs of the times. [M 16:3]
+
+MA	14.	Interpret » what?
+		A:	The appearance of the sky; the signs of the times. [M 16:3]
+
+CR	15.	According to Matthew chapter 16, who left » them and went away?
+		A:	Jesus. [M 16:4]
+
+CRMA	16.	According to Matthew chapter 16, what generation? »
+		A:	A wicked and adulterous generation. [M 16:4]
+
+CVR	17.	According to Matthew chapter 16 verse 4, » what sign?
+		A:	The sign of Jonah. [M 16:4]
+
+INT	18.	Looks for » what?
+		A:	A sign. [M 16:4]
+
+Q	19.	Quote Matthew 16:4.
+		A:	A wicked and adulterous generation looks for a sign, but none will be given it except the sign of Jonah.” Jesus then left them and went away. [M 16:4]
+
+CR	20.	According to Matthew chapter 16, they went » where?
+		A:	Across the lake. [M 16:5]
+
+INT	21.	Forgot » to what?
+		A:	Take bread. [M 16:5]
+
+INT	22.	The disciples forgot » to take bread when?
+		A:	When they went across the lake. [M 16:5]
+
+CVR	23.	According to Matthew chapter 16 verse 6, » be on your guard against what? (Club 300)
+		A:	The yeast of the Pharisees and Sadducees. [M 16:6]
+
+CVRMA	24.	According to Matthew chapter 16 verse 6, » the yeast of whom? (Club 300)
+		A:	The Pharisees and Sadducees. [M 16:6]
+
+Q	25.	Quote Matthew 16:6. (Club 300)
+		A:	“Be careful,” Jesus said to them. “Be on your guard against the yeast of the Pharisees and Sadducees.” [M 16:6]
+
+INT	26.	They discussed this among themselves and said what?
+		A:	It is because we didn't bring any bread. [M 16:7]
+
+INT	27.	Talking among » yourselves about what?
+		A:	Having no bread. [M 16:8]
+
+CRMA	28.	According to Matthew chapter 16, five » what?
+		A:	Loaves; thousand. [M 16:9]
+
+FTV	29.	Do you still » not understand?…
+		A:	Don’t you remember the five loaves for the five thousand, and how many basketfuls you gathered? [M 16:9]
+
+MA	30.	Don’t you remember » what?
+		A:	The five loaves for the five thousand, and how many basketfuls you gathered. [M 16:9]
+
+CR	31.	According to Matthew chapter 16, seven » what?
+		A:	Loaves. [M 16:10]
+
+CR	32.	According to Matthew chapter 16, how is » it what?
+		A:	You don't understand that I was not talking to you about bread. [M 16:11]
+
+CVR	33.	According to Matthew chapter 16 verse 11, » be what?
+		A:	On your guard against the yeast of the Pharisees and Sadducees. [M 16:11]
+
+CVR	34.	According to Matthew chapter 16 verse 11, » be on your guard against what?
+		A:	The yeast of the Pharisees and Sadducees. [M 16:11]
+
+CVRMA	35.	According to Matthew chapter 16 verse 11, » the yeast of whom?
+		A:	The Pharisees and Sadducees. [M 16:11]
+
+INT	36.	You don't understand » what?
+		A:	That I was not talking to you about bread. [M 16:11]
+
+INT	37.	I was not » talking to you about what?
+		A:	Bread. [M 16:11]
+
+FTV	38.	Then they understood » that he… (Club 300)
+		A:	was not telling them to guard against the yeast used in bread, but against the teaching of the Pharisees and Sadducees. [M 16:12]
+
+INT	39.	The yeast used » in what? (Club 300)
+		A:	Bread. [M 16:12]
+
+CR	40.	According to Matthew chapter 16, the region of what?
+		A:	The region of Caesarea Philippi. [M 16:13]
+
+SIT	41.	Who said it, to whom was it said, when was it said?: Who do people » say the Son of Man is?
+		A:	When Jesus came to the region of Caesarea Philippi, he asked his disciples. [M 16:13]
+
+CR	42.	According to Matthew chapter 16, which John? »
+		A:	John the Baptist. [M 16:14]
+
+FT	43.	“Some say » John the Baptist…
+		A:	others say Elijah; and still others, Jeremiah or one of the prophets.” [M 16:14]
+
+INT	44.	Some say » who?
+		A:	John the Baptist. [M 16:14]
+
+CVR	45.	According to Matthew chapter 16 verse 16, » the Son of whom? (Club 150)
+		A:	The living God. [M 16:16]
+
+CVR	46.	According to Matthew chapter 16 verse 16, » which God? (Club 150)
+		A:	The living God. [M 16:16]
+
+Q	47.	Quote Matthew 16:16. (Club 150)
+		A:	Simon Peter answered, “You are the Messiah, the Son of the living God.” [M 16:16]
+
+SIT	48.	Who said it, to whom was it said?: You are the Messiah, » the Son of the living God. (Club 150)
+		A:	Simon Peter answered; to Jesus [M 16:16]
+
+CR	49.	According to Matthew chapter 16, blessed » are you why?
+		A:	For this was not revealed to you by flesh and blood, but by my Father in heaven. [M 16:17]
+
+FT	50.	“Blessed are you, Simon » son…
+		A:	of Jonah, for this was not revealed to you by flesh and blood, but by my Father in heaven. [M 16:17]
+
+INT	51.	Simon son » of whom?
+		A:	Jonah. [M 16:17]
+
+INT	52.	Which son of Jonah? »
+		A:	Simon son of Jonah. [M 16:17]
+
+MA	53.	This was not » revealed to you by what?
+		A:	Flesh and blood. [M 16:17]
+
+CVR	54.	According to Matthew chapter 16 verse 18, » I tell you what? (Club 150)
+		A:	That you are Peter. [M 16:18]
+
+CVR	55.	According to Matthew chapter 16 verse 18, » you are who? (Club 150)
+		A:	Peter. [M 16:18]
+
+FTV	56.	And I » tell you that… (Club 150)
+		A:	you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it. [M 16:18]
+
+INT	57.	I will build » my church where? (Club 150)
+		A:	On this rock. [M 16:18]
+
+INT	58.	What gates? » (Club 150)
+		A:	The gates of Hades. [M 16:18]
+
+INT	59.	Will not overcome » what? (Club 150)
+		A:	It (my church). [M 16:18]
+
+CR	60.	According to Matthew chapter 16, I will give » you what? (Club 300)
+		A:	The keys of the kingdom of heaven. [M 16:19]
+
+CR	61.	According to Matthew chapter 16, what will be bound » in heaven? (Club 300)
+		A:	Whatever you bind on earth. [M 16:19]
+
+CR	62.	According to Matthew chapter 16, what will be loosed » in heaven? (Club 300)
+		A:	Whatever you loose on earth. [M 16:19]
+
+CVR	63.	According to Matthew chapter 16 verse 19, » what kingdom? (Club 300)
+		A:	The kingdom of heaven. [M 16:19]
+
+INT	64.	What keys? » (Club 300)
+		A:	The keys of the kingdom of heaven. [M 16:19]
+
+Q	65.	Quote Matthew 16:19. (Club 300)
+		A:	I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” [M 16:19]
+
+CVR	66.	According to Matthew chapter 16 verse 20, » he was what?
+		A:	The Messiah. [M 16:20]
+
+INT	67.	He ordered his » disciples not to what?
+		A:	Tell anyone that he was the Messiah. [M 16:20]
+
+INT	68.	Not to tell anyone » what?
+		A:	That he was the Messiah. [M 16:20]
+
+CR	69.	According to Matthew chapter 16, be raised » to life when? (Club 300)
+		A:	On the third day. [M 16:21]
+
+CR	70.	According to Matthew chapter 16, Jesus began » to what? (Club 300)
+		A:	Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief priests and the teachers of the law, and that he must be killed and on the third day be raised to life. [M 16:21]
+
+INT	71.	He must go » where? (Club 300)
+		A:	To Jerusalem. [M 16:21]
+
+MA	72.	Suffer many » things at the hands of whom? (Club 300)
+		A:	The elders, the chief priests and the teachers of the law. [M 16:21]
+
+INT	73.	Who took him aside? »
+		A:	Peter. [M 16:22]
+
+SIT	74.	Who said it, to whom was it said, how was it said?: Never, » Lord! This shall never happen to you!
+		A:	Peter took him (Jesus) aside and began to rebuke him. [M 16:22]
+
+CR	75.	According to Matthew chapter 16, merely » what? (Club 150)
+		A:	Human concerns. [M 16:23]
+
+CR	76.	According to Matthew chapter 16, you do » not what? (Club 150)
+		A:	Have in mind the concerns of God. [M 16:23]
+
+INT	77.	Get behind » me, who? (Club 150)
+		A:	Satan. [M 16:23]
+
+INT	78.	What block? » (Club 150)
+		A:	A stumbling block to me. [M 16:23]
+
+SIT	79.	Who said it, to whom was it said?: Get behind » me, Satan! You are a stumbling block to me; you do not have in mind the concerns of God, but merely human concerns. (Club 150)
+		A:	Jesus to Peter. [M 16:23]
+
+FT	80.	“Whoever wants to be my » … (Club 150)
+		A:	disciple must deny themselves and take up their cross and follow me. [M 16:24]
+
+INT	81.	Who must deny » themselves? (Club 150)
+		A:	Whoever wants to be my disciple. [M 16:24]
+
+MA	82.	Whoever wants to be my » disciple must what? (Club 150)
+		A:	Deny themselves and take up their cross and follow me. [M 16:24]
+
+Q	83.	Quote Matthew 16:24. (Club 150)
+		A:	Then Jesus said to his disciples, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me. [M 16:24]
+
+SIT	84.	Who said it, to whom was it said?: Whoever wants » to be my disciple must deny themselves and take up their cross and follow me. (Club 150)
+		A:	Jesus to his disciples. [M 16:24]
+
+CR	85.	According to Matthew chapter 16, who will lose » it? (Club 150)
+		A:	Whoever wants to save their life. [M 16:25]
+
+CR	86.	According to Matthew chapter 16, loses » their life why? (Club 150)
+		A:	For me. [M 16:25]
+
+CVR	87.	According to Matthew chapter 16 verse 25, » wants to what? (Club 150)
+		A:	Save their life. [M 16:25]
+
+INT	88.	Wants to save » what? (Club 150)
+		A:	Their life. [M 16:25]
+
+Q	89.	Quote Matthew 16:25. (Club 150)
+		A:	For whoever wants to save their life will lose it, but whoever loses their life for me will find it. [M 16:25]
+
+FTV	90.	What good » will it be… (Club 150)
+		A:	for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul? [M 16:26]
+
+INT	91.	In exchange » for what? (Club 150)
+		A:	Their soul. [M 16:26]
+
+INT	92.	Forfeit » what? (Club 150)
+		A:	Their soul. [M 16:26]
+
+CR	93.	According to Matthew chapter 16, going » to what? (Club 150)
+		A:	Come in his Father's glory with his angels. [M 16:27]
+
+CR	94.	According to Matthew chapter 16, according » to what? (Club 150)
+		A:	What they have done. [M 16:27]
+
+CVR	95.	According to Matthew chapter 16 verse 27, » the Son of whom? (Club 150)
+		A:	Man. [M 16:27]
+
+INT	96.	Going to come » in what? (Club 150)
+		A:	His Father’s glory. [M 16:27]
+
+INT	97.	Whose glory? » (Club 150)
+		A:	His (the Son of Man) Father’s glory. [M 16:27]
+
+Q	98.	Quote Matthew 16:27. (Club 150)
+		A:	For the Son of Man is going to come in his Father’s glory with his angels, and then he will reward each person according to what they have done. [M 16:27]
+
+INT	99.	Will not taste » what? (Club 300)
+		A:	Death. [M 16:28]
+
+INT	100.	Who will not taste » death before they see the Son of Man coming in his kingdom? (Club 300)
+		A:	Some who are standing here. [M 16:28]
+
+CVR	101.	According to Matthew chapter 17 verse 1, » which John?
+		A:	John the brother of James. [M 17:1]
+
+INT	102.	Jesus took with » him Peter, James and John the brother of James when?
+		A:	After six days. [M 17:1]
+
+INT	103.	Led them » where?
+		A:	Up a high mountain. [M 17:1]
+
+CR	104.	According to Matthew chapter 17, his clothes what? (Club 150)
+		A:	Became as white as the light. [M 17:2]
+
+CR	105.	According to Matthew chapter 17, whose face? » (Club 150)
+		A:	His (Jesus) face. [M 17:2]
+
+CVR	106.	According to Matthew chapter 17 verse 2, » he was what? (Club 150)
+		A:	Transfigured before them. [M 17:2]
+
+INT	107.	His face shone » like what? (Club 150)
+		A:	The sun. [M 17:2]
+
+INT	108.	His clothes became » what? (Club 150)
+		A:	As white as the light. [M 17:2]
+
+INT	109.	What became as » white as the light? (Club 150)
+		A:	His clothes. [M 17:2]
+
+Q	110.	Quote Matthew 17:2. (Club 150)
+		A:	There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. [M 17:2]
+
+FTV	111.	Just then there » appeared before… (Club 300)
+		A:	them Moses and Elijah, talking with Jesus. [M 17:3]
+
+INT	112.	Talking with » whom? (Club 300)
+		A:	Jesus. [M 17:3]
+
+MA	113.	There appeared » before them whom? (Club 300)
+		A:	Moses and Elijah. [M 17:3]
+
+CR	114.	According to Matthew chapter 17, what is good? »
+		A:	It is good for us to be here. [M 17:4]
+
+CR	115.	According to Matthew chapter 17, three » what?
+		A:	Shelters. [M 17:4]
+
+FT	116.	“Lord, it » is good for…
+		A:	us to be here. If you wish, I will put up three shelters—one for you, one for Moses and one for Elijah.” [M 17:4]
+
+MA	117.	Three shelters— » one for whom?
+		A:	You; Moses; Elijah. [M 17:4]
+
+CR	118.	According to Matthew chapter 17, what voice? » (Club 150)
+		A:	A voice from the cloud. [M 17:5]
+
+CR	119.	According to Matthew chapter 17, this is » who? (Club 150)
+		A:	My Son. [M 17:5]
+
+CR	120.	According to Matthew chapter 17, listen » to whom? (Club 150)
+		A:	Him (my Son). [M 17:5]
+
+INT	121.	A bright » cloud what? (Club 150)
+		A:	Covered them. [M 17:5]
+
+INT	122.	A bright » what? (Club 150)
+		A:	Cloud. [M 17:5]
+
+INT	123.	A bright » cloud covered them when? (Club 150)
+		A:	While he was still speaking. [M 17:5]
+
+Q	124.	Quote Matthew 17:5. (Club 150)
+		A:	While he was still speaking, a bright cloud covered them, and a voice from the cloud said, “This is my Son, whom I love; with him I am well pleased. Listen to him!” [M 17:5]
+
+CR	125.	According to Matthew chapter 17, who heard » this?
+		A:	The disciples. [M 17:6]
+
+INT	126.	They fell » how?
+		A:	Facedown to the ground. [M 17:6]
+
+QT	127.	Quote Matthew 17:6-7.
+		A:	When the disciples heard this, they fell facedown to the ground, terrified. But Jesus came and touched them. “Get up,” he said. “Don’t be afraid.” [M 17:6]
+
+FTV	128.	But Jesus came » and touched…
+		A:	them. “Get up,” he said. “Don’t be afraid.” [M 17:7]
+
+INT	129.	Who came and touched » them?
+		A:	Jesus. [M 17:7]
+
+INT	130.	When they looked » up, they saw no one except whom?
+		A:	Jesus. [M 17:8]
+
+CR	131.	According to Matthew chapter 17, who has been » raised from the dead?
+		A:	The Son of Man. [M 17:9]
+
+INT	132.	Jesus instructed » them when?
+		A:	As they were coming down the mountain. [M 17:9]
+
+INT	133.	Don't tell anyone what » you have seen, until what?
+		A:	The Son of Man has been raised from the dead. [M 17:9]
+
+SIT	134.	Who said it, when was it said, how was it said?: Don’t tell » anyone what you have seen, until the Son of Man has been raised from the dead.
+		A:	As they were coming down the mountain, Jesus instructed them. [M 17:9]
+
+CR	135.	According to Matthew chapter 17, which teachers? »
+		A:	The teachers of the law. [M 17:10]
+
+FT	136.	“Why then » do the teachers…
+		A:	of the law say that Elijah must come first?” [M 17:10]
+
+INT	137.	Who say that Elijah » must come first?
+		A:	The teachers of the law. [M 17:10]
+
+CVR	138.	According to Matthew chapter 17 verse 11, » to be what?
+		A:	Sure. [M 17:11]
+
+FT	139.	“To » be sure, Elijah comes…
+		A:	and will restore all things. [M 17:11]
+
+INT	140.	Who will restore » all things?
+		A:	Elijah. [M 17:11]
+
+CR	141.	According to Matthew chapter 17, in the » same way what? (Club 300)
+		A:	The Son of Man is going to suffer at their hands. [M 17:12]
+
+CVR	142.	According to Matthew chapter 17 verse 12, » I tell you what? (Club 300)
+		A:	Elijah has already come. [M 17:12]
+
+INT	143.	Elijah has » already come, and they did not what? (Club 300)
+		A:	Recognize him. [M 17:12]
+
+INT	144.	Elijah has » what? (Club 300)
+		A:	Already come. [M 17:12]
+
+INT	145.	Going to suffer » how? (Club 300)
+		A:	At their hands. [M 17:12]
+
+INT	146.	Who is going to suffer » at their hands? (Club 300)
+		A:	The Son of Man. [M 17:12]
+
+Q	147.	Quote Matthew 17:12. (Club 300)
+		A:	But I tell you, Elijah has already come, and they did not recognize him, but have done to him everything they wished. In the same way the Son of Man is going to suffer at their hands.” [M 17:12]
+
+CVR	148.	According to Matthew chapter 17 verse 13, » he was what?
+		A:	Talking to them about John the Baptist. [M 17:13]
+
+CVR	149.	According to Matthew chapter 17 verse 13, » which John?
+		A:	John the Baptist. [M 17:13]
+
+INT	150.	The disciples understood » what?
+		A:	That he was talking to them about John the Baptist. [M 17:13]
+
+INT	151.	He was talking to » them about whom?
+		A:	John the Baptist. [M 17:13]
+
+Q	152.	Quote Matthew 17:13.
+		A:	Then the disciples understood that he was talking to them about John the Baptist. [M 17:13]
+
+CR	153.	According to Matthew chapter 17, who knelt » before him?
+		A:	A man. [M 17:14]
+
+INT	154.	A man approached » Jesus when?
+		A:	When they came to the crowd. [M 17:14]
+
+CR	155.	According to Matthew chapter 17, have mercy » on whom?
+		A:	My son. [M 17:15]
+
+CR	156.	According to Matthew chapter 17, suffering » how?
+		A:	Greatly. [M 17:15]
+
+INT	157.	He has seizures » and is what?
+		A:	Suffering greatly. [M 17:15]
+
+INT	158.	Have mercy on my » son why?
+		A:	He has seizures and is suffering greatly. [M 17:15]
+
+MA	159.	He often » falls into what?
+		A:	The fire or into the water. [M 17:15]
+
+MA	160.	He often » falls into what?
+		A:	The fire; the water. [M 17:15]
+
+INT	161.	I brought » him to your disciples, but they could not what?
+		A:	Heal him. [M 17:16]
+
+INT	162.	They could not » heal whom?
+		A:	Him (my son). [M 17:16]
+
+CRMA	163.	According to Matthew chapter 17, what generation? »
+		A:	You unbelieving and perverse generation. [M 17:17]
+
+FTV	164.	“You unbelieving » and perverse generation,”…
+		A:	Jesus replied, “how long shall I stay with you? How long shall I put up with you? Bring the boy here to me.” [M 17:17]
+
+INT	165.	You unbelieving » and perverse what?
+		A:	Generation. [M 17:17]
+
+SIT	166.	Who said it?: You unbelieving » and perverse generation, how long shall I stay with you? How long shall I put up with you? Bring the boy here to me.
+		A:	Jesus. [M 17:17]
+
+CR	167.	According to Matthew chapter 17, who was healed? »
+		A:	He (the boy). [M 17:18]
+
+CR	168.	According to Matthew chapter 17, at that » moment what?
+		A:	He was healed. [M 17:18]
+
+INT	169.	It came » out of whom?
+		A:	The boy. [M 17:18]
+
+INT	170.	He was healed » when?
+		A:	At that moment. [M 17:18]
+
+CR	171.	According to Matthew chapter 17, the disciples came » to Jesus how?
+		A:	In private. [M 17:19]
+
+SIT	172.	Who said it, to whom was it said, how was it said?: Why couldn’t » we drive it out?
+		A:	The disciples came to Jesus in private and asked. [M 17:19]
+
+CR	173.	According to Matthew chapter 17, you can » say to this mountain, what? (Club 150)
+		A:	Move from here to there. [M 17:20]
+
+CR	174.	According to Matthew chapter 17, if you have » what? (Club 150)
+		A:	Faith as small as a mustard seed. [M 17:20]
+
+CR	175.	According to Matthew chapter 17, it will » what? (Club 150)
+		A:	Move. [M 17:20]
+
+CRMA	176.	According to Matthew chapter 17, what faith? » (Club 150)
+		A:	So little faith; faith as small as a mustard seed. [M 17:20]
+
+CVR	177.	According to Matthew chapter 17 verse 20, » I tell you what? (Club 150)
+		A:	If you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move. [M 17:20]
+
+INT	178.	Nothing will » be what? (Club 150)
+		A:	Impossible for you. [M 17:20]
+
+INT	179.	If you have faith as » small as what? (Club 150)
+		A:	A mustard seed. [M 17:20]
+
+INT	180.	Move » where? (Club 150)
+		A:	From here to there. [M 17:20]
+
+INT	181.	What will move? » (Club 150)
+		A:	It (this mountain). [M 17:20]
+
+Q	182.	Quote Matthew 17:20. (Club 150)
+		A:	He replied, “Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.” [M 17:20]
+
+CVR	183.	According to Matthew chapter 17 verse 22, » the Son of Man is going to what? (Club 300)
+		A:	Be delivered into the hands of men. [M 17:22]
+
+F2V	184.	When they came together » in… (Club 300)
+		A:	Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men. They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief. [M 17:22]
+
+INT	185.	Going to be » delivered into what? (Club 300)
+		A:	The hands of men. [M 17:22]
+
+INT	186.	Who is going to be » delivered into the hands of men? (Club 300)
+		A:	The Son of Man. [M 17:22]
+
+SIT	187.	Who said it, to whom was it said, where was it said?: The Son of Man is » going to be delivered into the hands of men. They will kill him, and on the third day he will be raised to life. (Club 300)
+		A:	When they came together in Galilee, he (Jesus) said to them (the disciples). [M 17:22]
+
+CR	188.	According to Matthew chapter 17, they will » what? (Club 300)
+		A:	Kill him. [M 17:23]
+
+CR	189.	According to Matthew chapter 17, on the » third day he will be what? (Club 300)
+		A:	Raised to life. [M 17:23]
+
+CR	190.	According to Matthew chapter 17, he will » be raised to life when? (Club 300)
+		A:	On the third day. [M 17:23]
+
+CR	191.	According to Matthew chapter 17, filled » with what? (Club 300)
+		A:	Grief. [M 17:23]
+
+INT	192.	The disciples were » what? (Club 300)
+		A:	Filled with grief. [M 17:23]
+
+INT	193.	The disciples were » filled with what? (Club 300)
+		A:	Grief. [M 17:23]
+
+Q	194.	Quote Matthew 17:23. (Club 300)
+		A:	They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief. [M 17:23]
+
+INT	195.	The collectors » of what?
+		A:	The two-drachma temple tax. [M 17:24]
+
+INT	196.	The two-drachma » what?
+		A:	Temple tax. [M 17:24]
+
+INT	197.	The collectors » of the two-drachma temple tax came to whom?
+		A:	Peter. [M 17:24]
+
+MA	198.	Who arrived in » Capernaum?
+		A:	Jesus and his disciples. [M 17:24]
+
+Q	199.	Quote Matthew 17:24.
+		A:	After Jesus and his disciples arrived in Capernaum, the collectors of the two-drachma temple tax came to Peter and asked, “Doesn’t your teacher pay the temple tax?” [M 17:24]
+
+SIT	200.	Who said it, to whom was it said, where was it said?: Doesn’t » your teacher pay the temple tax?
+		A:	After Jesus and his disciples arrived in Capernaum, the collectors of the two-drachma temple tax came to Peter and asked. [M 17:24]
+
+CR	201.	According to Matthew chapter 17, what kings? »
+		A:	The kings of the earth. [M 17:25]
+
+CVR	202.	According to Matthew chapter 17 verse 25, » whose children?
+		A:	Their (the kings of the earth) own children. [M 17:25]
+
+INT	203.	Peter came into » what?
+		A:	The house. [M 17:25]
+
+INT	204.	The first to » what?
+		A:	Speak. [M 17:25]
+
+INT	205.	Jesus was the » first to speak when?
+		A:	When Peter came into the house. [M 17:25]
+
+FTV	206.	“Then the children » are exempt…
+		A:	Jesus said to him. “But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours.” [M 17:26]
+
+INT	207.	The children are » what?
+		A:	Exempt. [M 17:26]
+
+INT	208.	Who are exempt? »
+		A:	The children. [M 17:26]
+
+CR	209.	According to Matthew chapter 17, take » what?
+		A:	The first fish you catch. [M 17:27]
+
+CR	210.	According to Matthew chapter 17, whose mouth? »
+		A:	Its (the first fish you catch) mouth. [M 17:27]
+
+CR	211.	According to Matthew chapter 17, what coin? »
+		A:	A four-drachma coin. [M 17:27]
+
+CVR	212.	According to Matthew chapter 17 verse 27, » the first what?
+		A:	Fish you catch. [M 17:27]
+
+CVRMA	213.	According to Matthew chapter 17 verse 27, » whose tax?
+		A:	My tax and yours. [M 17:27]
+
+INT	214.	So that we » may not cause what?
+		A:	Offense. [M 17:27]
+
+INT	215.	Throw out » what?
+		A:	Your line. [M 17:27]
+
+MA	216.	Take it » and give it to them for what?
+		A:	My tax and yours. [M 17:27]
+
+CR	217.	According to Matthew chapter 18, at that » time what?
+		A:	The disciples came to Jesus and asked, "Who, then, is the greatest in the kingdom of heaven?". [M 18:1]
+
+CR	218.	According to Matthew chapter 18, at that » time what?
+		A:	The disciples came to Jesus and asked, "Who is the greatest in the kingdom of heaven?". [M 18:1]
+
+CR	219.	According to Matthew chapter 18, at that » time what?
+		A:	The disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of heaven? [M 18:1]
+
+CVR	220.	According to Matthew chapter 18 verse 1, the » greatest where?
+		A:	In the kingdom of heaven. [M 18:1]
+
+CVR	221.	According to Matthew chapter 18 verse 1, what » kingdom?
+		A:	The kingdom of heaven. [M 18:1]
+
+MA	222.	At that time the » disciples what?
+		A:	Came to Jesus and asked, "Who, then, is the greatest in the kingdom of heaven?". [M 18:1]
+
+SIT	223.	Who said it, to whom was it said?: Who, then, is » the greatest in the kingdom of heaven?
+		A:	The disciples came to Jesus and asked. [M 18:1]
+
+CR	224.	According to Matthew chapter 18, a little » what?
+		A:	Child. [M 18:2]
+
+INT	225.	Who called a little » child to him?
+		A:	He (Jesus). [M 18:2]
+
+INT	226.	Placed the child » where?
+		A:	Among them. [M 18:2]
+
+CVR	227.	According to Matthew chapter 18 verse 3, truly » I tell you what? (Club 150)
+		A:	Unless you change and become like little children, you will never enter the kingdom of heaven. [M 18:3]
+
+CVR	228.	According to Matthew chapter 18 verse 3, I » tell you what? (Club 150)
+		A:	Unless you change and become like little children, you will never enter the kingdom of heaven. [M 18:3]
+
+CVRMA	229.	According to Matthew chapter 18 verse 3, » unless you what? (Club 150)
+		A:	Change and become like little children. [M 18:3]
+
+FT	230.	“Truly I tell you, unless » … (Club 150)
+		A:	you change and become like little children, you will never enter the kingdom of heaven. [M 18:3]
+
+INT	231.	Become like » whom? (Club 150)
+		A:	Little children. [M 18:3]
+
+SIT	232.	Who said it, to whom was it said?: Truly I tell you, unless » you change and become like little children, you will never enter the kingdom of heaven. (Club 150)
+		A:	He (Jesus) said; to the disciples. [M 18:3]
+
+CVR	233.	According to Matthew chapter 18 verse 4, the » greatest where? (Club 300)
+		A:	In the kingdom of heaven. [M 18:4]
+
+CVR	234.	According to Matthew chapter 18 verse 4, who » is the greatest in the kingdom of heaven? (Club 300)
+		A:	Whoever takes the lowly position of this child. [M 18:4]
+
+FTV	235.	Therefore, whoever » takes the lowly… (Club 300)
+		A:	position of this child is the greatest in the kingdom of heaven. [M 18:4]
+
+INT	236.	Whoever takes » the lowly position of this child is what? (Club 300)
+		A:	The greatest in the kingdom of heaven. [M 18:4]
+
+INT	237.	Whoever takes » the lowly position of this child is what? (Club 300)
+		A:	The greatest in the kingdom of heaven. [M 18:4]
+
+INT	238.	Whoever welcomes one » such child in my name welcomes whom? (Club 300)
+		A:	Me. [M 18:5]
+
+CR	239.	According to Matthew chapter 18, what would be » better? (Club 150)
+		A:	It would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea. [M 18:6]
+
+CR	240.	According to Matthew chapter 18, a large » what? (Club 150)
+		A:	Millstone. [M 18:6]
+
+CR	241.	According to Matthew chapter 18, a large » what? (Club 150)
+		A:	Millstone. [M 18:6]
+
+INT	242.	Drowned » where? (Club 150)
+		A:	In the depths of the sea. [M 18:6]
+
+INT	243.	The depths » of what? (Club 150)
+		A:	The sea. [M 18:6]
+
+INT	244.	What millstone? » (Club 150)
+		A:	A large millstone. [M 18:6]
+
+INT	245.	What hung » around their neck? (Club 150)
+		A:	A large millstone. [M 18:6]
+
+INT	246.	The depths » of what? (Club 150)
+		A:	The sea. [M 18:6]
+
+Q	247.	Quote Matthew 18:6. (Club 150)
+		A:	“If anyone causes one of these little ones—those who believe in me—to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea. [M 18:6]
+
+CR	248.	According to Matthew chapter 18, what things? » (Club 150)
+		A:	The things that cause people to stumble. [M 18:7]
+
+CRMA	249.	According to Matthew chapter 18, woe » to whom? (Club 150)
+		A:	The world; the person through whom they come. [M 18:7]
+
+CRMA	250.	According to Matthew chapter 18, woe » to what? (Club 150)
+		A:	Woe to the world because of the things that cause people to sin! Woe to the man through whom they come! [M 18:7]
+
+FTV	251.	Woe to the » world because… (Club 150)
+		A:	of the things that cause people to stumble! Such things must come, but woe to the person through whom they come! [M 18:7]
+
+INT	252.	Woe to the world » why? (Club 150)
+		A:	Because of the things that cause people to stumble. [M 18:7]
+
+CR	253.	According to Matthew chapter 18, cut » it off and throw it away when?
+		A:	If your hand or your foot causes you to stumble. [M 18:8]
+
+CR	254.	According to Matthew chapter 18, eternal » what?
+		A:	Fire. [M 18:8]
+
+CVR	255.	According to Matthew chapter 18 verse 8, what is » better?
+		A:	It is better for you to enter life maimed or crippled than to have two hands or two feet and be thrown into eternal fire. [M 18:8]
+
+CVR	256.	According to Matthew chapter 18 verse 8, what is » better?
+		A:	It is better for you to enter life maimed or crippled than to have two hands or two feet and be thrown into eternal fire. [M 18:8]
+
+FTV	257.	If your hand » or your…
+		A:	foot causes you to stumble, cut it off and throw it away. It is better for you to enter life maimed or crippled than to have two hands or two feet and be thrown into eternal fire. [M 18:8]
+
+INT	258.	To have two hands » or two feet and be what?
+		A:	Thrown into eternal fire. [M 18:8]
+
+CVR	259.	According to Matthew chapter 18 verse 9, throw » it away when?
+		A:	If your eye causes you to stumble. [M 18:9]
+
+CVR	260.	According to Matthew chapter 18 verse 9, thrown » into what?
+		A:	The fire of hell. [M 18:9]
+
+CVR	261.	According to Matthew chapter 18 verse 9, what is » better?
+		A:	It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell. [M 18:9]
+
+CVR	262.	According to Matthew chapter 18 verse 9, better » for you to enter life how?
+		A:	With one eye. [M 18:9]
+
+INT	263.	If your eye » causes you to what?
+		A:	Stumble. [M 18:9]
+
+MA	264.	if your eye » causes you to stumble, what?
+		A:	Gouge it out and throw it away. [M 18:9]
+
+CR	265.	According to Matthew chapter 18, which angels? » (Club 300)
+		A:	Their angels in heaven. [M 18:10]
+
+CR	266.	According to Matthew chapter 18, do not » what? (Club 300)
+		A:	Despise one of these little ones. [M 18:10]
+
+CVR	267.	According to Matthew chapter 18 verse 10, I » tell you what? (Club 300)
+		A:	That their angels in heaven always see the face of my Father in heaven. [M 18:10]
+
+CVR	268.	According to Matthew chapter 18 verse 10, I » tell you what? (Club 300)
+		A:	That their angels in heaven always see the face of my Father in heaven. [M 18:10]
+
+INT	269.	See that you do » not despise whom? (Club 300)
+		A:	One of these little ones. [M 18:10]
+
+INT	270.	Their angels » in heaven always see what? (Club 300)
+		A:	The face of my Father in heaven. [M 18:10]
+
+Q	271.	Quote Matthew 18:10. (Club 300)
+		A:	“See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven. [M 18:10]
+
+CR	272.	According to Matthew chapter 18, will he » not what? (Club 300)
+		A:	Leave the ninety-nine on the hills and go to look for the one that wandered off. [M 18:12]
+
+CVR	273.	According to Matthew chapter 18 verse 12, » a hundred what? (Club 300)
+		A:	Sheep. [M 18:12]
+
+FTV	274.	“What do you think? If » … (Club 300)
+		A:	a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off? [M 18:12]
+
+INT	275.	If a man owns » a hundred sheep, and one of them wanders away, will he not what? (Club 300)
+		A:	Leave the ninety-nine on the hills and go to look for the one that wandered off. [M 18:12]
+
+INT	276.	If a man owns » what? (Club 300)
+		A:	A hundred sheep. [M 18:12]
+
+INT	277.	Will he not leave » the ninety-nine where? (Club 300)
+		A:	On the hills. [M 18:12]
+
+INT	278.	Go to look for » whom? (Club 300)
+		A:	The one that wandered off. [M 18:12]
+
+CVR	279.	According to Matthew chapter 18 verse 13, truly » I tell you what?
+		A:	He is happier about that one sheep than about the ninety-nine that did not wander off. [M 18:13]
+
+CVR	280.	According to Matthew chapter 18 verse 13, which ninety-nine? »
+		A:	The ninety-nine that did not wander off. [M 18:13]
+
+INT	281.	The ninety-nine that » did not what?
+		A:	Wander off. [M 18:13]
+
+INT	282.	He is happier » about what?
+		A:	That one sheep. [M 18:13]
+
+Q	283.	Quote Matthew 18:13.
+		A:	And if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off. [M 18:13]
+
+CR	284.	According to Matthew chapter 18, in the same » way what? (Club 150)
+		A:	Your Father in heaven is not willing that any of these little ones should perish. [M 18:14]
+
+FTV	285.	In the same way your » … (Club 150)
+		A:	Father in heaven is not willing that any of these little ones should perish. [M 18:14]
+
+INT	286.	Who is not willing » that any of these little ones should perish? (Club 150)
+		A:	Your Father in heaven. [M 18:14]
+
+CVR	287.	According to Matthew chapter 18 verse 15, » you have what? (Club 300)
+		A:	Won them over. [M 18:15]
+
+INT	288.	Go and point » out what? (Club 300)
+		A:	Their fault. [M 18:15]
+
+INT	289.	If they listen » to you, what? (Club 300)
+		A:	You have won them over. [M 18:15]
+
+INT	290.	You have won » them over when? (Club 300)
+		A:	If they listen to you. [M 18:15]
+
+Q	291.	Quote Matthew 18:15. (Club 300)
+		A:	“If your brother or sister sins, go and point out their fault, just between the two of you. If they listen to you, you have won them over. [M 18:15]
+
+CR	292.	According to Matthew chapter 18, what testimony? (Club 300)
+		A:	The testimony of two or three witnesses. [M 18:16]
+
+CR	293.	According to Matthew chapter 18, every » what? (Club 300)
+		A:	Matter. [M 18:16]
+
+FTV	294.	But if they » will not… (Club 300)
+		A:	listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ [M 18:16]
+
+INT	295.	Take one » or two others along when? (Club 300)
+		A:	If they will not listen. [M 18:16]
+
+INT	296.	Take one » or two others along why? (Club 300)
+		A:	So that 'every matter may be established by the testimony of two or three witnesses'. [M 18:16]
+
+INT	297.	What may be established » by the testimony of two or three witnesses? (Club 300)
+		A:	Every matter. [M 18:16]
+
+MA	298.	The testimony » of whom? (Club 300)
+		A:	Two or three witnesses. [M 18:16]
+
+INT	299.	If they still » refuse to listen, what? (Club 300)
+		A:	Tell it to the church. [M 18:17]
+
+INT	300.	If they still » refuse to listen, what? (Club 300)
+		A:	Tell it to the church. [M 18:17]
+
+INT	301.	Tell it » to whom? (Club 300)
+		A:	The church. [M 18:17]
+
+INT	302.	Refuse » to listen even to whom? (Club 300)
+		A:	The church. [M 18:17]
+
+INT	303.	If they refuse » to listen even to the church, what? (Club 300)
+		A:	Treat them as you would a pagan or a tax collector. [M 18:17]
+
+MA	304.	Treat them » as you would whom? (Club 300)
+		A:	A pagan or a tax collector. [M 18:17]
+
+Q	305.	Quote Matthew 18:17. (Club 300)
+		A:	If they still refuse to listen, tell it to the church; and if they refuse to listen even to the church, treat them as you would a pagan or a tax collector. [M 18:17]
+
+CR	306.	According to Matthew chapter 18, what will be bound » in heaven? (Club 150)
+		A:	Whatever you bind on earth. [M 18:18]
+
+CR	307.	According to Matthew chapter 18, what will be loosed » in heaven? (Club 150)
+		A:	Whatever you loose on earth. [M 18:18]
+
+CVRMA	308.	According to Matthew chapter 18 verse 18, » truly I tell you what? (Club 150)
+		A:	Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven. [M 18:18]
+
+CVRMA	309.	According to Matthew chapter 18 verse 18, » will be what? (Club 150)
+		A:	Bound in heaven; loosed in heaven. [M 18:18]
+
+FTV	310.	“Truly I tell you, whatever » … (Club 150)
+		A:	you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven. [M 18:18]
+
+CVR	311.	According to Matthew chapter 18 verse 19, I » tell you what? (Club 150)
+		A:	That if two of you on earth agree about anything you ask for, it will be done for them by my Father in heaven. [M 18:19]
+
+CVR	312.	According to Matthew chapter 18 verse 19, truly » I tell you what? (Club 150)
+		A:	If two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. [M 18:19]
+
+INT	313.	If two » of you on earth agree about anything they ask for, it will be done for them by whom? (Club 150)
+		A:	My Father in heaven. [M 18:19]
+
+INT	314.	If two » of you on earth agree about what? (Club 150)
+		A:	Anything they ask for. [M 18:19]
+
+INT	315.	It will be done for » them by my Father in heaven when? (Club 150)
+		A:	If two of you on earth agree about anything they ask for. [M 18:19]
+
+Q	316.	Quote Matthew 18:19. (Club 150)
+		A:	“Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. [M 18:19]
+
+FTV	317.	For where two » or three… (Club 150)
+		A:	gather in my name, there am I with them.” [M 18:20]
+
+INT	318.	Where two » or three gather in my name, what? (Club 150)
+		A:	There am I with them. [M 18:20]
+
+CVR	319.	According to Matthew chapter 18 verse 21, who » came to Jesus? (Club 300)
+		A:	Peter. [M 18:21]
+
+CVR	320.	According to Matthew chapter 18 verse 21, who » came to Jesus? (Club 300)
+		A:	Peter. [M 18:21]
+
+INT	321.	Peter came to » whom? (Club 300)
+		A:	Jesus. [M 18:21]
+
+QT	322.	Quote Matthew 18:21-22. (Club 300)
+		A:	Then Peter came to Jesus and asked, “Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?” Jesus answered, “I tell you, not seven times, but seventy-seven times. [M 18:21]
+
+SIT	323.	Who said it, to whom was it said, how was it said?: Lord, how » many times shall I forgive my brother or sister who sins against me? Up to seven times? (Club 300)
+		A:	Peter came to Jesus and asked [M 18:21]
+
+SIT	324.	Who said it, to whom was it said?: Lord, how » many times shall I forgive my brother or sister who sins against me? Up to seven times? (Club 300)
+		A:	Peter to Jesus. [M 18:21]
+
+CVR	325.	According to Matthew chapter 18 verse 22, I » tell you what?
+		A:	Not seven times, but seventy-seven times. [M 18:22]
+
+CVR	326.	According to Matthew chapter 18 verse 22, seven » what?
+		A:	Times. [M 18:22]
+
+INT	327.	Not seven » times, but what?
+		A:	Seventy-Seven times. [M 18:22]
+
+SIT	328.	Who said it, to whom was it said?: I tell you, not » seven times, but seventy-seven times.
+		A:	Jesus answered; to Peter. [M 18:22]
+
+CR	329.	According to Matthew chapter 18, the kingdom of heaven is » like what?
+		A:	A king who wanted to settle accounts with his servants. [M 18:23]
+
+CR	330.	According to Matthew chapter 18, what king? »
+		A:	A king who wanted to settle accounts with his servants. [M 18:23]
+
+CR	331.	According to Matthew chapter 18, the kingdom of heaven is » like what?
+		A:	A king who wanted to settle accounts with his servants. [M 18:23]
+
+CR	332.	According to Matthew chapter 18, the kingdom of heaven is » like what?
+		A:	A king who wanted to settle accounts with his servants. [M 18:23]
+
+INT	333.	Wanted to settle » accounts with whom?
+		A:	His servants. [M 18:23]
+
+CVR	334.	According to Matthew chapter 18 verse 24, what » man?
+		A:	A man who owed him ten thousand bags of gold. [M 18:24]
+
+CVR	335.	According to Matthew chapter 18 verse 24, owed » him what?
+		A:	Ten thousand bags of gold. [M 18:24]
+
+INT	336.	Ten thousand » bags of what?
+		A:	Gold. [M 18:24]
+
+INT	337.	Ten thousand » what?
+		A:	Bags of gold. [M 18:24]
+
+INT	338.	Ten thousand » bags of what?
+		A:	Gold. [M 18:24]
+
+QT	339.	Quote Matthew 18:24-25.
+		A:	As he began the settlement, a man who owed him ten thousand bags of gold was brought to him. Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt. [M 18:24]
+
+CR	340.	According to Matthew chapter 18, he was » not what?
+		A:	Able to pay. [M 18:25]
+
+INT	341.	The master ordered » what?
+		A:	That he and his wife and his children and all that he had be sold to repay the debt. [M 18:25]
+
+INT	342.	Be sold » why?
+		A:	To repay the debt. [M 18:25]
+
+MA	343.	What be sold » to repay the debt?
+		A:	He and his wife and his children and all that he had. [M 18:25]
+
+CVR	344.	According to Matthew chapter 18 verse 26, I » will what?
+		A:	Pay back everything. [M 18:26]
+
+INT	345.	Who fell on » his knees?
+		A:	The servant. [M 18:26]
+
+INT	346.	I will pay back » what?
+		A:	Everything. [M 18:26]
+
+CR	347.	According to Matthew chapter 18, let » him what?
+		A:	Go. [M 18:27]
+
+CVR	348.	According to Matthew chapter 18 verse 27, » canceled what?
+		A:	The debt. [M 18:27]
+
+FTV	349.	The servant’s » master took pity…
+		A:	on him, canceled the debt and let him go. [M 18:27]
+
+INT	350.	Who took pity » on him?
+		A:	The servant’s master. [M 18:27]
+
+INT	351.	Who canceled the » debt?
+		A:	The servant’s master. [M 18:27]
+
+MA	352.	The servant's » master what?
+		A:	Took pity on him, canceled the debt and let him go. [M 18:27]
+
+CR	353.	According to Matthew chapter 18, began to » what?
+		A:	Choke him. [M 18:28]
+
+CVR	354.	According to Matthew chapter 18 verse 28, pay » back what?
+		A:	What you owe me. [M 18:28]
+
+INT	355.	He grabbed » him and began to what?
+		A:	Choke him. [M 18:28]
+
+INT	356.	He found » whom?
+		A:	One of his fellow servants who owed him a hundred silver coins. [M 18:28]
+
+INT	357.	He grabbed » whom?
+		A:	Him (one of his fellow servants who owed him a hundred silver coins). [M 18:28]
+
+INT	358.	Who grabbed » him?
+		A:	He (that servant). [M 18:28]
+
+INT	359.	Who demanded? »
+		A:	He (that servant). [M 18:28]
+
+SIT	360.	Who said it, to whom was it said, how was it said?: Pay » back what you owe me!
+		A:	He (that servant) demanded; to one of his fellow servants who owed him a hundred silver coins. [M 18:28]
+
+CR	361.	According to Matthew chapter 18, who begged him? »
+		A:	His fellow servant. [M 18:29]
+
+CVR	362.	According to Matthew chapter 18 verse 29, which » servant?
+		A:	His fellow servant. [M 18:29]
+
+CVR	363.	According to Matthew chapter 18 verse 29, I » will what?
+		A:	Pay it back. [M 18:29]
+
+INT	364.	Who fell to » his knees?
+		A:	His fellow servant. [M 18:29]
+
+CVR	365.	According to Matthew chapter 18 verse 30, » thrown into what?
+		A:	Prison. [M 18:30]
+
+INT	366.	Had the » man thrown where?
+		A:	Into prison. [M 18:30]
+
+INT	367.	Thrown into prison until » he could what?
+		A:	Pay the debt. [M 18:30]
+
+CVR	368.	According to Matthew chapter 18 verse 31, whose » master?
+		A:	Their (the other servants) master. [M 18:31]
+
+INT	369.	Who saw what » had happened?
+		A:	The other servants. [M 18:31]
+
+INT	370.	Who were outraged? »
+		A:	They (the other servants). [M 18:31]
+
+MA	371.	When the other » servants saw what had happened, they what?
+		A:	Were outraged and went and told their master everything that had happened. [M 18:31]
+
+Q	372.	Quote Matthew 18:31.
+		A:	When the other servants saw what had happened, they were outraged and went and told their master everything that had happened. [M 18:31]
+
+CVR	373.	According to Matthew chapter 18 verse 32, what » debt?
+		A:	All that debt of yours. [M 18:32]
+
+INT	374.	I canceled » all that debt of yours why?
+		A:	Because you begged me to. [M 18:32]
+
+INT	375.	The master called » whom?
+		A:	The servant. [M 18:32]
+
+INT	376.	I canceled » all that debt of yours why?
+		A:	Because you begged me to. [M 18:32]
+
+FTV	377.	Shouldn’t » you have had mercy…
+		A:	on your fellow servant just as I had on you?’ [M 18:33]
+
+INT	378.	Shouldn't » you have had what?
+		A:	Mercy on your fellow servant. [M 18:33]
+
+INT	379.	Had mercy » on your fellow servant how?
+		A:	Just as I had on you. [M 18:33]
+
+CR	380.	According to Matthew chapter 18, handed » him over to whom?
+		A:	The jailers. [M 18:34]
+
+CR	381.	According to Matthew chapter 18, handed » him over to whom?
+		A:	The jailers. [M 18:34]
+
+INT	382.	In anger » his master handed him over to the jailers to be tortured, until he should what?
+		A:	Pay back all he owed. [M 18:34]
+
+INT	383.	To be tortured » when?
+		A:	Until he should pay back all he owed. [M 18:34]
+
+CVR	384.	According to Matthew chapter 18 verse 35, which » Father? (Club 150)
+		A:	My heavenly Father. [M 18:35]
+
+CVR	385.	According to Matthew chapter 18 verse 35, treat » whom? (Club 150)
+		A:	Each of you. [M 18:35]
+
+CVRMA	386.	According to Matthew chapter 18 verse 35, » forgive whom? (Club 150)
+		A:	Your brother or sister. [M 18:35]
+
+INT	387.	Forgive your brother » or sister how? (Club 150)
+		A:	From your heart. [M 18:35]
+
+Q	388.	Quote Matthew 18:35. (Club 150)
+		A:	“This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart.” [M 18:35]
+
+CR	389.	According to Matthew chapter 19, Jesus had » finished what?
+		A:	Saying these things. [M 19:1]
+
+CR	390.	According to Matthew chapter 19, who had finished » saying these things?
+		A:	Jesus. [M 19:1]
+
+CR	391.	According to Matthew chapter 19, what region?
+		A:	The region of Judea. [M 19:1]
+
+CR	392.	The other » side of what?
+		A:	The Jordan. [M 19:1]
+
+CR	393.	According to Matthew chapter 19, the region » of what?
+		A:	The region of Judea. [M 19:1]
+
+INT	394.	Who went into the region » of Judea?
+		A:	He (Jesus). [M 19:1]
+
+INT	395.	He left Galilee » and went where?
+		A:	Into the region of Judea. [M 19:1]
+
+CR	396.	According to Matthew chapter 19, large » crowds followed whom?
+		A:	Him (Jesus). [M 19:2]
+
+CR	397.	According to Matthew chapter 19, he healed » whom?
+		A:	Them (large crowds). [M 19:2]
+
+CR	398.	According to Matthew chapter 19, who healed » them?
+		A:	He (Jesus). [M 19:2]
+
+CR	399.	According to Matthew chapter 19, who came to » him?
+		A:	Some Pharisees. [M 19:3]
+
+CR	400.	According to Matthew chapter 19, who came to » him?
+		A:	Some Pharisees. [M 19:3]
+
+INT	401.	Is it lawful for » what?
+		A:	A man to divorce his wife for any and every reason. [M 19:3]
+
+INT	402.	For a man » to divorce whom?
+		A:	His wife. [M 19:3]
+
+Q	403.	Quote Matthew 19:3.
+		A:	Some Pharisees came to him to test him. They asked, “Is it lawful for a man to divorce his wife for any and every reason?” [M 19:3]
+
+CR	404.	According to Matthew chapter 19, haven't » you read what?
+		A:	That at the beginning the Creator 'made them male and female,' and said, 'For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh. [M 19:4]
+
+INT	405.	The Creator » 'made them male and female' when?
+		A:	At the beginning. [M 19:4]
+
+MA	406.	At the beginning » the Creator what?
+		A:	'Made them male and female,' and said, 'For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh'. [M 19:4]
+
+INT	407.	United » to whom?
+		A:	His wife. [M 19:5]
+
+INT	408.	Be united » to whom?
+		A:	His wife. [M 19:5]
+
+INT	409.	United » to whom?
+		A:	His wife. [M 19:5]
+
+MA	410.	For this reason » what?
+		A:	A man will leave his father and mother and be united to his wife, and the two will become one flesh. [M 19:5]
+
+MA	411.	A man will » what?
+		A:	Leave his father and mother and be united to his wife. [M 19:5]
+
+CR	412.	According to Matthew chapter 19, God has » what? (Club 150)
+		A:	Joined together. [M 19:6]
+
+FTV	413.	So they are » no longer… (Club 150)
+		A:	two, but one flesh. Therefore what God has joined together, let no one separate.” [M 19:6]
+
+INT	414.	So they are » no longer two, but what? (Club 150)
+		A:	One flesh. [M 19:6]
+
+INT	415.	They are no longer » what? (Club 150)
+		A:	Two. [M 19:6]
+
+INT	416.	Let no » one separate what? (Club 150)
+		A:	What God has joined together. [M 19:6]
+
+INT	417.	What God has » joined together, let no one what? (Club 150)
+		A:	Separate. [M 19:6]
+
+F2V	418.	“Why then,” » they asked, “did…
+		A:	Moses command that a man give his wife a certificate of divorce and send her away?” Jesus replied, “Moses permitted you to divorce your wives because your hearts were hard. But it was not this way from the beginning. [M 19:7]
+
+MA	419.	Command that » a man what?
+		A:	Give his wife a certificate of divorce and send her away. [M 19:7]
+
+INT	420.	Moses permitted » you to divorce your wives why? (Club 300)
+		A:	Because your hearts were hard. [M 19:8]
+
+INT	421.	Moses permitted » you to what? (Club 300)
+		A:	Divorce your wives. [M 19:8]
+
+INT	422.	Your hearts were » what? (Club 300)
+		A:	Hard. [M 19:8]
+
+INT	423.	What were hard? » (Club 300)
+		A:	Your hearts. [M 19:8]
+
+SIT	424.	Who said it?: Moses permitted » you to divorce your wives because your hearts were hard. But it was not this way from the beginning. (Club 300)
+		A:	Jesus. [M 19:8]
+
+CR	425.	According to Matthew chapter 19, divorces » whom? (Club 150)
+		A:	His wife. [M 19:9]
+
+CR	426.	According to Matthew chapter 19, marries » whom? (Club 150)
+		A:	Another woman. [M 19:9]
+
+CR	427.	According to Matthew chapter 19, who commits » adultery? (Club 150)
+		A:	Anyone who divorces his wife, except for sexual immorality, and marries another woman. [M 19:9]
+
+Q	428.	Quote Matthew 19:9. (Club 150)
+		A:	I tell you that anyone who divorces his wife, except for sexual immorality, and marries another woman commits adultery.” [M 19:9]
+
+CR	429.	According to Matthew chapter 19, what is better? »
+		A:	It is better not to marry. [M 19:10]
+
+INT	430.	It is better not » to what?
+		A:	Marry. [M 19:10]
+
+INT	431.	It is better not » to marry when?
+		A:	If this is the situation between a husband and wife. [M 19:10]
+
+MA	432.	The situation » between whom?
+		A:	A husband and wife. [M 19:10]
+
+INT	433.	Not everyone can » accept this word, but only who?
+		A:	Those to whom it has been given. [M 19:11]
+
+INT	434.	Who can accept this word? »
+		A:	Those to whom it has been given. [M 19:11]
+
+CR	435.	According to Matthew chapter 19, the sake » of what?
+		A:	The kingdom of heaven. [M 19:12]
+
+CVR	436.	According to Matthew chapter 19 verse 12, » what kingdom?
+		A:	The kingdom of heaven. [M 19:12]
+
+INT	437.	Been made » eunuchs by whom?
+		A:	Others. [M 19:12]
+
+INT	438.	Choose » to what?
+		A:	Live like eunuchs. [M 19:12]
+
+INT	439.	Who should accept » it?
+		A:	The one who can accept this. [M 19:12]
+
+CR	440.	According to Matthew chapter 19, people » brought whom?
+		A:	Little children. [M 19:13]
+
+CR	441.	According to Matthew chapter 19, people » brought whom?
+		A:	Little children. [M 19:13]
+
+CVR	442.	According to Matthew chapter 19 verse 13, what » children?
+		A:	Little children. [M 19:13]
+
+INT	443.	People brought little » children to Jesus why?
+		A:	For him to place his hands on them and pray for them. [M 19:13]
+
+MA	444.	Then people » brought little children to Jesus for him to what?
+		A:	Place his hands on them and pray for them. [M 19:13]
+
+Q	445.	Quote Matthew 19:13.
+		A:	Then people brought little children to Jesus for him to place his hands on them and pray for them. But the disciples rebuked them. [M 19:13]
+
+CR	446.	According to Matthew chapter 19, do not » what? (Club 150)
+		A:	Hinder them. [M 19:14]
+
+FT	447.	“Let the little » children come… (Club 150)
+		A:	to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” [M 19:14]
+
+INT	448.	Let the little » children what? (Club 150)
+		A:	Come to me. [M 19:14]
+
+INT	449.	Do not hinder » whom? (Club 150)
+		A:	Them (the little children). [M 19:14]
+
+INT	450.	Belongs » to whom? (Club 150)
+		A:	Such as these. [M 19:14]
+
+INT	451.	What belongs » to such as these? (Club 150)
+		A:	The kingdom of heaven. [M 19:14]
+
+SIT	452.	Who said it?: “Let the little » children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” (Club 150)
+		A:	Jesus [M 19:14]
+
+SIT	453.	Who said it?: Let the » little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these. (Club 150)
+		A:	Jesus. [M 19:14]
+
+INT	454.	A man came » up to whom? (Club 300)
+		A:	Jesus. [M 19:16]
+
+INT	455.	Who came up to » Jesus? (Club 300)
+		A:	A man. [M 19:16]
+
+Q	456.	Quote Matthew 19:16. (Club 300)
+		A:	Just then a man came up to Jesus and asked, “Teacher, what good thing must I do to get eternal life?” [M 19:16]
+
+SIT	457.	Who said it, how was it said?: Teacher, what » good thing must I do to get eternal life? (Club 300)
+		A:	A man came up to Jesus and asked. [M 19:16]
+
+CR	458.	According to Matthew chapter 19, who is good? » (Club 150)
+		A:	There is only One who is good. [M 19:17]
+
+CR	459.	According to Matthew chapter 19, keep » what? (Club 150)
+		A:	The commandments. [M 19:17]
+
+CVR	460.	According to Matthew chapter 19 verse 17, if » you want to what? (Club 150)
+		A:	Enter life. [M 19:17]
+
+CVR	461.	According to Matthew chapter 19 verse 17, enter » what? (Club 150)
+		A:	Life. [M 19:17]
+
+FTV	462.	“Why do you ask » me… (Club 150)
+		A:	about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.” [M 19:17]
+
+INT	463.	If you want to enter » what? (Club 150)
+		A:	Life. [M 19:17]
+
+INT	464.	If you want to enter » life, what? (Club 150)
+		A:	Keep the commandments. [M 19:17]
+
+SIT	465.	Who said it?: “Why do you ask » me about what is good? There is only One who is good. If you want to enter life, keep the commandments.” (Club 150)
+		A:	Jesus. [M 19:17]
+
+SIT	466.	Who said it?: There is » only One who is good. If you want to enter life, keep the commandments. (Club 150)
+		A:	Jesus. [M 19:17]
+
+CR	467.	According to Matthew chapter 19, you shall » not commit what?
+		A:	Adultery. [M 19:18]
+
+CR	468.	According to Matthew chapter 19, what testimony? »
+		A:	False testimony. [M 19:18]
+
+CR	469.	According to Matthew chapter 19, false » what?
+		A:	Testimony. [M 19:18]
+
+CRMA	470.	According to Matthew chapter 19 verse 18, you shall » not what?
+		A:	You shall not murder, you shall not commit adultery, you shall not steal, you shall not give false testimony. [M 19:18]
+
+SIT	471.	Who said it?: ‘You shall not murder, you » shall not commit adultery, you shall not steal, you shall not give false testimony, honor your father and mother,’ and ‘love your neighbor as yourself.’
+		A:	Jesus. [M 19:18]
+
+CR	472.	According to Matthew chapter 19, love whom?
+		A:	Your neighbor. [M 19:19]
+
+CRMA	473.	According to Matthew chapter 19, honor » whom?
+		A:	Your father and mother. [M 19:19]
+
+FTV	474.	“All these » I have kept,”…
+		A:	the young man said. “What do I still lack?” [M 19:20]
+
+SIT	475.	Who said it, to whom was it said?: All these » I have kept. What do I still lack?
+		A:	The young man said; to Jesus. [M 19:20]
+
+CR	476.	According to Matthew chapter 19, give to » whom? (Club 300)
+		A:	The poor. [M 19:21]
+
+CR	477.	According to Matthew chapter 19, you will » have what? (Club 300)
+		A:	Treasure in heaven. [M 19:21]
+
+FTN	478.	“If you want to be » … (Club 300)
+		A:	perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.” When the young man heard this, he went away sad, because he had great wealth. [M 19:21]
+
+INT	479.	Sell » your possessions and what? (Club 300)
+		A:	Give to the poor. [M 19:21]
+
+INT	480.	If you want to be » what? (Club 300)
+		A:	Perfect. [M 19:21]
+
+MA	481.	If you want » to be perfect, what? (Club 300)
+		A:	Go, sell your possessions and give to the poor. [M 19:21]
+
+Q	482.	Quote Matthew 19:21. (Club 300)
+		A:	Jesus answered, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.” [M 19:21]
+
+CR	483.	According to Matthew chapter 19, great » what?
+		A:	Wealth. [M 19:22]
+
+CR	484.	According to Matthew chapter 19, great » what?
+		A:	Wealth. [M 19:22]
+
+CVR	485.	According to Matthew chapter 19 verse 22, he » had what?
+		A:	Great wealth. [M 19:22]
+
+CVR	486.	According to Matthew chapter 19 verse 22, who » heard this?
+		A:	The young man. [M 19:22]
+
+CVR	487.	According to Matthew chapter 19 verse 22, he » had what?
+		A:	Great wealth. [M 19:22]
+
+INT	488.	When the young » man heard this, he went away sad, why?
+		A:	Because he had great wealth. [M 19:22]
+
+INT	489.	Who went away sad? »
+		A:	He (the young man). [M 19:22]
+
+INT	490.	What wealth? »
+		A:	Great wealth. [M 19:22]
+
+CVR	491.	According to Matthew chapter 19 verse 23, I » tell you what? (Club 300)
+		A:	It is hard for someone who is rich to enter the kingdom of heaven. [M 19:23]
+
+CVR	492.	According to Matthew chapter 19 verse 23, enter » what? (Club 300)
+		A:	The kingdom of heaven. [M 19:23]
+
+INT	493.	It is hard » for someone who is rich to what? (Club 300)
+		A:	Enter the kingdom of heaven. [M 19:23]
+
+INT	494.	It is hard » for whom? (Club 300)
+		A:	Someone who is rich. [M 19:23]
+
+Q	495.	Quote Matthew 19:23. (Club 300)
+		A:	Then Jesus said to his disciples, “Truly I tell you, it is hard for someone who is rich to enter the kingdom of heaven. [M 19:23]
+
+CVR	496.	According to Matthew chapter 19 verse 24, I tell you what?
+		A:	It is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God. [M 19:24]
+
+FTV	497.	Again I » tell you, it…
+		A:	is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.” [M 19:24]
+
+INT	498.	It is easier » for a camel to go through the eye of a needle than for what?
+		A:	Someone who is rich to enter the kingdom of God. [M 19:24]
+
+INT	499.	Easier for » a camel to go through the eye of a needle than what?
+		A:	For someone who is rich to enter the kingdom of God. [M 19:24]
+
+CVR	500.	According to Matthew chapter 19 verse 25, » who heard this? (Club 300)
+		A:	The disciples. [M 19:25]
+
+INT	501.	They were greatly » what? (Club 300)
+		A:	Astonished. [M 19:25]
+
+QT	502.	Quote Matthew 19:25-26. (Club 300)
+		A:	When the disciples heard this, they were greatly astonished and asked, “Who then can be saved?” Jesus looked at them and said, “With man this is impossible, but with God all things are possible.” [M 19:25]
+
+SIT	503.	Who said it?: Who then can » be saved? (Club 300)
+		A:	The disciples. [M 19:25]
+
+CVR	504.	According to Matthew chapter 19 verse 26, » this is what? (Club 150)
+		A:	Impossible. [M 19:26]
+
+INT	505.	Jesus looked » at whom? (Club 150)
+		A:	Them (the disciples). [M 19:26]
+
+INT	506.	Who looked at » them? (Club 150)
+		A:	Jesus. [M 19:26]
+
+INT	507.	With God » all things are what? (Club 150)
+		A:	Possible. [M 19:26]
+
+INT	508.	All things are » what? (Club 150)
+		A:	Possible. [M 19:26]
+
+SIT	509.	Who said it, to whom was it said, how was it said?: With man » this is impossible, but with God all things are possible. (Club 150)
+		A:	Jesus looked at them (the disciples) and said. [M 19:26]
+
+SIT	510.	Who said it, to whom was it said, how was it said?: With » man this is impossible, but with God all things are possible. (Club 150)
+		A:	Jesus looked at them (the disciples) and said. [M 19:26]
+
+CR	511.	According to Matthew chapter 19, who answered him? »
+		A:	Peter. [M 19:27]
+
+CR	512.	According to Matthew chapter 19, we have » what?
+		A:	Left everything to follow you. [M 19:27]
+
+FT	513.	“We have left » everything to…
+		A:	follow you! What then will there be for us?” [M 19:27]
+
+INT	514.	We have left » everything why?
+		A:	To follow you. [M 19:27]
+
+Q	515.	Quote Matthew 19:27.
+		A:	Peter answered him, “We have left everything to follow you! What then will there be for us?” [M 19:27]
+
+SIT	516.	Who said it, to whom was it said?: We have left » everything to follow you! What then will there be for us?
+		A:	Peter to Jesus. [M 19:27]
+
+CR	517.	According to Matthew chapter 19, Son » of whom? (Club 300)
+		A:	Man. [M 19:28]
+
+INT	518.	At the renewal » of all things, when the Son of Man sits on his glorious throne, you who have followed me will also what? (Club 300)
+		A:	Sit on twelve thrones, judging the twelve tribes of Israel. [M 19:28]
+
+INT	519.	The renewal » of what? (Club 300)
+		A:	All things. [M 19:28]
+
+INT	520.	The Son of Man sits » where? (Club 300)
+		A:	On his glorious throne. [M 19:28]
+
+INT	521.	Who will also sit » on twelve thrones? (Club 300)
+		A:	You who have followed me. [M 19:28]
+
+INT	522.	You who have followed » me will also sit on twelve thrones when? (Club 300)
+		A:	At the renewal of all things, when the Son of Man sits on his glorious throne. [M 19:28]
+
+INT	523.	You who have » followed me will also sit where? (Club 300)
+		A:	On twelve thrones. [M 19:28]
+
+Q	524.	Quote Matthew 19:28. (Club 300)
+		A:	Jesus said to them, “Truly I tell you, at the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. [M 19:28]
+
+SIT	525.	Who said it, to whom was it said?: Truly I tell you, at » the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. (Club 300)
+		A:	Jesus said to them (the disciples). [M 19:28]
+
+CR	526.	According to Matthew chapter 19, will receive » what? (Club 150)
+		A:	A hundred times as much. [M 19:29]
+
+CVR	527.	According to Matthew chapter 19 verse 29, » what life? (Club 150)
+		A:	Eternal life. [M 19:29]
+
+CVRMA	528.	According to Matthew chapter 19 verse 29, » left what? (Club 150)
+		A:	Houses or brothers or sisters or father or mother or wife or children or fields. [M 19:29]
+
+FTV	529.	And everyone » who has left… (Club 150)
+		A:	houses or brothers or sisters or father or mother or wife or children or fields for my sake will receive a hundred times as much and will inherit eternal life. [M 19:29]
+
+INT	530.	Left houses » why? (Club 150)
+		A:	For my sake. [M 19:29]
+
+MA	531.	Everyone who has » left what? (Club 150)
+		A:	Houses or brothers or sisters or father or mother or wife or children or fields. [M 19:29]
+
+CR	532.	According to Matthew chapter 19, who will be » last? (Club 150)
+		A:	Many who are first. [M 19:30]
+
+CR	533.	According to Matthew chapter 19, who will be » first? (Club 150)
+		A:	Many who are last. [M 19:30]
+
+INT	534.	Many who are » first will be what? (Club 150)
+		A:	Last. [M 19:30]
+
+INT	535.	Many who are » last will be what? (Club 150)
+		A:	First. [M 19:30]
+
+Q	536.	Quote Matthew 19:30. (Club 150)
+		A:	But many who are first will be last, and many who are last will be first. [M 19:30]
+
+CR	537.	According to Matthew chapter 20, the kingdom » of heaven is like what?
+		A:	A landowner who went out early in the morning to hire workers for his vineyard. [M 20:1]
+
+CR	538.	According to Matthew chapter 20, the kingdom » of heaven is like what?
+		A:	A landowner who went out early in the morning to hire workers for his vineyard. [M 20:1]
+
+CVR	539.	According to Matthew chapter 20 verse 1, what kingdom? »
+		A:	The kingdom of heaven. [M 20:1]
+
+CVR	540.	According to Matthew chapter 20 verse 1, whose » vineyard?
+		A:	His (a landowner) vineyard. [M 20:1]
+
+INT	541.	To hire » workers for what?
+		A:	His vineyard. [M 20:1]
+
+INT	542.	Who went out early » in the morning?
+		A:	A landowner. [M 20:1]
+
+Q	543.	Quote Matthew 20:1.
+		A:	“For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. [M 20:1]
+
+CVR	544.	According to Matthew chapter 20 verse 2, » pay them what?
+		A:	A denarius. [M 20:2]
+
+INT	545.	He agreed » to pay them what?
+		A:	A denarius for the day. [M 20:2]
+
+INT	546.	Who agreed » to pay them a denarius for the day?
+		A:	He (a landowner). [M 20:2]
+
+F2V	547.	“About nine » in the morning…
+		A:	he went out and saw others standing in the marketplace doing nothing. He told them, ‘You also go and work in my vineyard, and I will pay you whatever is right.’ [M 20:3]
+
+INT	548.	Standing in the marketplace » doing what?
+		A:	Nothing. [M 20:3]
+
+INT	549.	Who went out and saw » others standing in the marketplace?
+		A:	He (a landowner). [M 20:3]
+
+MA	550.	About nine » in the morning he what?
+		A:	Went out and saw others standing in the marketplace doing nothing. [M 20:3]
+
+CVR	551.	According to Matthew chapter 20 verse 4, » you also go and work where?
+		A:	In my vineyard. [M 20:4]
+
+CVR	552.	According to Matthew chapter 20 verse 5, when in » the afternoon?
+		A:	About three in the afternoon. [M 20:5]
+
+MA	553.	Did the same » thing when?
+		A:	About noon and about three in the afternoon. [M 20:5]
+
+CR	554.	According to Matthew chapter 20, standing here » when?
+		A:	All day long. [M 20:6]
+
+CR	555.	According to Matthew chapter 20, no » one what?
+		A:	Has hired us. [M 20:7]
+
+CR	556.	According to Matthew chapter 20, when evening » came what? (Club 150)
+		A:	When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, beginning with the last ones hired and going on to the first. [M 20:8]
+
+CVR	557.	According to Matthew chapter 20 verse 8, » pay them what? (Club 150)
+		A:	Their wages. [M 20:8]
+
+INT	558.	Whose foreman? » (Club 150)
+		A:	His (the owner of the vineyard). [M 20:8]
+
+INT	559.	Beginning with » whom? (Club 150)
+		A:	The last ones hired. [M 20:8]
+
+MA	560.	Pay them their » wages, how? (Club 150)
+		A:	Beginning with the last ones hired and going on to the first. [M 20:8]
+
+Q	561.	Quote Matthew 20:8. (Club 150)
+		A:	“When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, beginning with the last ones hired and going on to the first.’ [M 20:8]
+
+SIT	562.	Who said it, to whom was it said, when was it said?: Call the workers » and pay them their wages, beginning with the last ones hired and going on to the first. (Club 150)
+		A:	When evening came, the owner of the vineyard said to his foreman. [M 20:8]
+
+SIT	563.	Who said it, to whom was it said, when was it said?: Call the » workers and pay them their wages, beginning with the last ones hired and going on to the first. (Club 150)
+		A:	When evening came, the owner of the vineyard said to his foreman. [M 20:8]
+
+CVR	564.	According to Matthew chapter 20 verse 9, which » workers?
+		A:	The workers who were hired about five in the afternoon. [M 20:9]
+
+INT	565.	Each received » what?
+		A:	A denarius. [M 20:9]
+
+INT	566.	Who came and each » received a denarius?
+		A:	The workers who were hired about five in the afternoon. [M 20:9]
+
+INT	567.	But each » one of them also received what?
+		A:	A denarius. [M 20:10]
+
+INT	568.	They expected » to receive what?
+		A:	More. [M 20:10]
+
+INT	569.	Each one » of them also received what?
+		A:	A denarius. [M 20:10]
+
+INT	570.	Who also received » a denarius?
+		A:	Each one of them. [M 20:10]
+
+Q	571.	Quote Matthew 20:10.
+		A:	So when those came who were hired first, they expected to receive more. But each one of them also received a denarius. [M 20:10]
+
+CR	572.	According to Matthew chapter 20, began » to what?
+		A:	Grumble against the landowner. [M 20:11]
+
+INT	573.	Began to grumble » against whom?
+		A:	The landowner. [M 20:11]
+
+INT	574.	Who began to grumble » against the landowner?
+		A:	They (those…who were hired first). [M 20:11]
+
+CVR	575.	According to Matthew chapter 20 verse 12, » hired when?
+		A:	Last. [M 20:12]
+
+INT	576.	These who » were hired last worked what?
+		A:	Only one hour. [M 20:12]
+
+INT	577.	Worked » what?
+		A:	Only one hour. [M 20:12]
+
+INT	578.	Borne » the burden of what?
+		A:	The work. [M 20:12]
+
+INT	579.	The heat » of what?
+		A:	The day. [M 20:12]
+
+MA	580.	Equal » to us who have borne what?
+		A:	The burden of the work and the heat of the day. [M 20:12]
+
+FTV	581.	“But he answered » one of… (Club 300)
+		A:	them, ‘I am not being unfair to you, friend. Didn’t you agree to work for a denarius? [M 20:13]
+
+INT	582.	I am not being » what? (Club 300)
+		A:	Unfair to you. [M 20:13]
+
+INT	583.	Didn’t you agree » to work for what? (Club 300)
+		A:	A denarius. [M 20:13]
+
+SIT	584.	Who said it?: I am not being » unfair to you, friend. Didn’t you agree to work for a denarius? (Club 300)
+		A:	He (the landowner).. [M 20:13]
+
+CVR	585.	According to Matthew chapter 20 verse 14, » hired when?
+		A:	Last. [M 20:14]
+
+FTV	586.	Take your » pay and go.…
+		A:	I want to give the one who was hired last the same as I gave you. [M 20:14]
+
+INT	587.	Take your pay » and what?
+		A:	Go. [M 20:14]
+
+INT	588.	I want to » give the one who was hired last what?
+		A:	The same as I gave you. [M 20:14]
+
+CR	589.	According to Matthew chapter 20, are you » what?
+		A:	Envious. [M 20:15]
+
+CR	590.	According to Matthew chapter 20, are you » what?
+		A:	Envious. [M 20:15]
+
+INT	591.	Or are » you envious why?
+		A:	Because I am generous. [M 20:15]
+
+INT	592.	Envious » why?
+		A:	Because I am generous. [M 20:15]
+
+CR	593.	According to Matthew chapter 20, who will be last? » (Club 150)
+		A:	The first. [M 20:16]
+
+INT	594.	So the last » will be first, and the first will be what? (Club 150)
+		A:	Last. [M 20:16]
+
+INT	595.	The last will » be what? (Club 150)
+		A:	First. [M 20:16]
+
+Q	596.	Quote Matthew 20:16. (Club 150)
+		A:	“So the last will be first, and the first will be last.” [M 20:16]
+
+CR	597.	According to Matthew chapter 20, he took » whom? (Club 300)
+		A:	The Twelve. [M 20:17]
+
+INT	598.	He took the Twelve » where? (Club 300)
+		A:	Aside. [M 20:17]
+
+INT	599.	Who took the Twelve » aside? (Club 300)
+		A:	He (Jesus). [M 20:17]
+
+SIT	600.	Who said it, to whom was it said, how was it said?: We are » going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. (Club 300)
+		A:	He (Jesus) took the Twelve aside and said to them. [M 20:17]
+
+CVR	601.	According to Matthew chapter 20 verse 18, Son » of whom? (Club 150)
+		A:	Man. [M 20:18]
+
+CVR	602.	According to Matthew chapter 20 verse 18, the Son of Man what? » (Club 150)
+		A:	Will be delivered over to the chief priests and the teachers of the law. [M 20:18]
+
+F2V	603.	“We are » going up to… (Club 150)
+		A:	Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. They will condemn him to death and will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!” [M 20:18]
+
+INT	604.	They will condemn » him to what? (Club 150)
+		A:	Death. [M 20:18]
+
+MA	605.	Who will condemn » him to death? (Club 150)
+		A:	They (the chief priests and the teachers of the law). [M 20:18]
+
+MA	606.	Delivered over » to whom? (Club 150)
+		A:	The chief priests and the teachers of the law. [M 20:18]
+
+CR	607.	According to Matthew chapter 20, who will be raised » to life? (Club 150)
+		A:	He (the Son of Man). [M 20:19]
+
+CR	608.	According to Matthew chapter 20, on the third » day what? (Club 150)
+		A:	He will be raised to life. [M 20:19]
+
+CRMA	609.	According to Matthew chapter 20, hand » him over why? (Club 150)
+		A:	To be mocked and flogged and crucified. [M 20:19]
+
+CR	610.	According to Matthew chapter 20, the mother » of whom?
+		A:	Zebedee’s sons. [M 20:20]
+
+CR	611.	According to Matthew chapter 20, whose mother? »
+		A:	The mother of Zebedee’s sons. [M 20:20]
+
+INT	612.	Who asked a » favor of him?
+		A:	The mother of Zebedee’s sons. [M 20:20]
+
+INT	613.	Asked a » favor of whom?
+		A:	Him (Jesus). [M 20:20]
+
+INT	614.	Who asked a » favor of him?
+		A:	The mother of Zebedee’s sons. [M 20:20]
+
+CVR	615.	According to Matthew chapter 20 verse 21, » grant what? (Club 150)
+		A:	That one of these two sons of mine may sit at your right and the other at your left in your kingdom. [M 20:21]
+
+FTN	616.	“Grant that » one of these… (Club 150)
+		A:	two sons of mine may sit at your right and the other at your left in your kingdom.” “You don’t know what you are asking,” Jesus said to them. “Can you drink the cup I am going to drink?” “We can,” they answered. [M 20:21]
+
+INT	617.	Sit at your » right where? (Club 150)
+		A:	In your kingdom. [M 20:21]
+
+SIT	618.	Who said it, to whom was it said?: What is it » you want? (Club 150)
+		A:	He (Jesus) asked; to the mother of Zebedee’s sons. [M 20:21]
+
+SIT	619.	Who said it, to whom was it said?: Grant that » one of these two sons of mine may sit at your right and the other at your left in your kingdom. (Club 150)
+		A:	She (the mother of Zebedee’s sons) said; to Jesus. [M 20:21]
+
+CR	620.	According to Matthew chapter 20, I am going » to what?
+		A:	The cup I am going to drink. [M 20:22]
+
+CVR	621.	According to Matthew chapter 20 verse 22, drink » what?
+		A:	The cup I am going to drink. [M 20:22]
+
+INT	622.	Can you drink » what?
+		A:	The cup I am going to drink. [M 20:22]
+
+Q	623.	Quote Matthew 20:22.
+		A:	“You don’t know what you are asking,” Jesus said to them. “Can you drink the cup I am going to drink?” “We can,” they answered. [M 20:22]
+
+SIT	624.	Who said it?: Can you » drink the cup I am going to drink?
+		A:	Jesus. [M 20:22]
+
+CR	625.	According to Matthew chapter 20, you will » what? (Club 150)
+		A:	Indeed drink from my cup. [M 20:23]
+
+CVRMA	626.	According to Matthew chapter 20 verse 23, » sit where? (Club 150)
+		A:	At my right or left. [M 20:23]
+
+FT	627.	“You will indeed » drink from… (Club 150)
+		A:	my cup, but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared by my Father.” [M 20:23]
+
+INT	628.	These places » belong to whom? (Club 150)
+		A:	Those for whom they have been prepared by my Father. [M 20:23]
+
+INT	629.	To sit at » my right or left is what? (Club 150)
+		A:	Not for me to grant. [M 20:23]
+
+INT	630.	To sit at » my right or left is not for me to what? (Club 150)
+		A:	Grant. [M 20:23]
+
+INT	631.	These places » belong to whom? (Club 150)
+		A:	Those for whom they have been prepared by my Father. [M 20:23]
+
+Q	632.	Quote Matthew 20:23. (Club 150)
+		A:	Jesus said to them, “You will indeed drink from my cup, but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared by my Father.” [M 20:23]
+
+SIT	633.	Who said it?: You will indeed » drink from my cup, but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared by my Father. (Club 150)
+		A:	Jesus. [M 20:23]
+
+CR	634.	According to Matthew chapter 20, who were indignant? »
+		A:	The ten. [M 20:24]
+
+FTV	635.	When the ten » heard about…
+		A:	this, they were indignant with the two brothers. [M 20:24]
+
+INT	636.	When the ten » heard about this, they were indignant with whom?
+		A:	The two brothers. [M 20:24]
+
+INT	637.	Who heard about this? »
+		A:	The ten. [M 20:24]
+
+INT	638.	They were indignant with » the two brothers when?
+		A:	When the ten heard about this. [M 20:24]
+
+CR	639.	According to Matthew chapter 20, the rulers » of whom?
+		A:	The Gentiles. [M 20:25]
+
+CRMA	640.	According to Matthew chapter 20, you know » what?
+		A:	That the rulers of the Gentiles lord it over them, and their high officials exercise authority over them. [M 20:25]
+
+INT	641.	Who exercise » authority over them?
+		A:	Their high officials. [M 20:25]
+
+INT	642.	The rulers of the » Gentiles what?
+		A:	Lord it over them. [M 20:25]
+
+INT	643.	Lord it over » whom?
+		A:	Them (the Gentiles). [M 20:25]
+
+INT	644.	Who exercise » authority over them?
+		A:	Their high officials. [M 20:25]
+
+INT	645.	Exercise » what?
+		A:	Authority. [M 20:25]
+
+INT	646.	Who lord it over » them?
+		A:	The rulers of the Gentiles. [M 20:25]
+
+SIT	647.	Who said it?: You know that » the rulers of the Gentiles lord it over them, and their high officials exercise authority over them.
+		A:	Jesus. [M 20:25]
+
+CVR	648.	According to Matthew chapter 20 verse 26, whoever » wants to what? (Club 150)
+		A:	Become great among you. [M 20:26]
+
+CVR	649.	According to Matthew chapter 20 verse 26, wants » to what? (Club 150)
+		A:	Become great among you. [M 20:26]
+
+INT	650.	Instead, whoever » wants to become great among you must be what? (Club 150)
+		A:	Your servant. [M 20:26]
+
+INT	651.	Who must be your servant? » (Club 150)
+		A:	Whoever wants to become great among you. [M 20:26]
+
+QT	652.	Quote Matthew 20:26-27. (Club 150)
+		A:	Not so with you. Instead, whoever wants to become great among you must be your servant, and whoever wants to be first must be your slave— [M 20:26]
+
+CR	653.	According to Matthew chapter 20, wants to be » what? (Club 300)
+		A:	First. [M 20:27]
+
+CVR	654.	According to Matthew chapter 20 verse 27, wants » to what? (Club 300)
+		A:	Be first. [M 20:27]
+
+CVR	655.	According to Matthew chapter 20 verse 27, must » be what? (Club 300)
+		A:	Your slave. [M 20:27]
+
+INT	656.	Who must be your slave? » (Club 300)
+		A:	Whoever wants to be first. [M 20:27]
+
+CVR	657.	According to Matthew chapter 20 verse 28, Son » of whom? (Club 150)
+		A:	Man. [M 20:28]
+
+CVR	658.	According to Matthew chapter 20 verse 28, to give » what? (Club 150)
+		A:	His life. [M 20:28]
+
+FTV	659.	just as » the Son of… (Club 150)
+		A:	Man did not come to be served, but to serve, and to give his life as a ransom for many.” [M 20:28]
+
+INT	660.	A ransom » for whom? (Club 150)
+		A:	Many. [M 20:28]
+
+INT	661.	The Son of Man did » not come to be what? (Club 150)
+		A:	Served. [M 20:28]
+
+CR	662.	According to Matthew chapter 20, a large » what?
+		A:	Crowd. [M 20:29]
+
+CR	663.	According to Matthew chapter 20, a large » what?
+		A:	Crowd. [M 20:29]
+
+CR	664.	According to Matthew chapter 20, a large » crowd followed whom?
+		A:	Him (Jesus). [M 20:29]
+
+CVR	665.	According to Matthew chapter 20 verse 29, what » crowd?
+		A:	A large crowd. [M 20:29]
+
+MA	666.	Who were leaving Jericho? »
+		A:	Jesus and his disciples. [M 20:29]
+
+CR	667.	According to Matthew chapter 20, they heard » what?
+		A:	That Jesus was going by. [M 20:30]
+
+CRMA	668.	According to Matthew chapter 20, two blind » men what?
+		A:	Were sitting by the roadside, and when they heard that Jesus was going by, they shouted, “Lord, Son of David, have mercy on us.” [M 20:30]
+
+CVR	669.	According to Matthew chapter 20 verse 30, Son » of whom?
+		A:	David. [M 20:30]
+
+INT	670.	Who were sitting by » the roadside?
+		A:	Two blind men. [M 20:30]
+
+INT	671.	Who heard that Jesus » was going by?
+		A:	They (two blind men). [M 20:30]
+
+Q	672.	Quote Matthew 20:30.
+		A:	Two blind men were sitting by the roadside, and when they heard that Jesus was going by, they shouted, “Lord, Son of David, have mercy on us!” [M 20:30]
+
+CR	673.	According to Matthew chapter 20, who rebuked » them?
+		A:	The crowd. [M 20:31]
+
+CR	674.	According to Matthew chapter 20, they shouted all » the louder what?
+		A:	Lord, Son of David, have mercy on us. [M 20:31]
+
+CVR	675.	According to Matthew chapter 20 verse 31, Son » of whom?
+		A:	David. [M 20:31]
+
+CVR	676.	According to Matthew chapter 20 verse 31, told » them what?
+		A:	To be quiet. [M 20:31]
+
+CVR	677.	According to Matthew chapter 20 verse 31, have mercy » on whom?
+		A:	Us. [M 20:31]
+
+F2V	678.	Jesus stopped » and called them.…
+		A:	“What do you want me to do for you?” he asked. “Lord,” they answered, “we want our sight.” [M 20:32]
+
+INT	679.	Jesus stopped » and called whom?
+		A:	Them (two blind men). [M 20:32]
+
+INT	680.	Who stopped and » called them?
+		A:	Jesus. [M 20:32]
+
+SIT	681.	Who said it, to whom was it said, how was it said?: What do you want me » to do for you?
+		A:	Jesus stopped and called them (two blind men). [M 20:32]
+
+CR	682.	According to Matthew chapter 20, we want » what?
+		A:	Our sight. [M 20:33]
+
+CR	683.	According to Matthew chapter 20, Jesus had » what?
+		A:	Compassion on them. [M 20:34]
+
+CR	684.	According to Matthew chapter 20, who touched » their eyes?
+		A:	Jesus. [M 20:34]
+
+CR	685.	According to Matthew chapter 20, who had » compassion on them?
+		A:	Jesus. [M 20:34]
+
+CRMA	686.	According to Matthew chapter 20, immediately » they what?
+		A:	Received their sight and followed him. [M 20:34]
+
+CVR	687.	According to Matthew chapter 20 verse 34, received » what?
+		A:	Their sight. [M 20:34]
+

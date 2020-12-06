@@ -1,0 +1,3261 @@
+CR	1.	According to Matthew chapter 21, what Mount? »
+		A:	The Mount of Olives. [M 21:1]
+
+INT	2.	They approached » where?
+		A:	Jerusalem. [M 21:1]
+
+INT	3.	Who sent two » disciples?
+		A:	Jesus. [M 21:1]
+
+SIT	4.	Who said it, to whom was it said, when was it said?: Go to » the village ahead of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me.
+		A:	As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples, saying to them. [M 21:1]
+
+CR	5.	According to Matthew chapter 21, go to » where?
+		A:	The village ahead of you. [M 21:2]
+
+CR	6.	According to Matthew chapter 21, what village? »
+		A:	The village ahead of you. [M 21:2]
+
+CVR	7.	According to Matthew chapter 21 verse 2, go » where?
+		A:	To the village ahead of you. [M 21:2]
+
+CVR	8.	According to Matthew chapter 21 verse 2, whose » colt?
+		A:	Her (a donkey) colt. [M 21:2]
+
+FTN	9.	“Go to the village » ahead…
+		A:	of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me. If anyone says anything to you, say that the Lord needs them, and he will send them right away.” [M 21:2]
+
+INT	10.	Her colt » by whom?
+		A:	Her (a donkey). [M 21:2]
+
+INT	11.	If anyone says » anything to you, say that what?
+		A:	The Lord needs them. [M 21:3]
+
+CR	12.	According to Matthew chapter 21, spoken » through whom?
+		A:	The prophet. [M 21:4]
+
+CR	13.	According to Matthew chapter 21, this took » place why?
+		A:	To fulfill what was spoken through the prophet. [M 21:4]
+
+CR	14.	According to Matthew chapter 21, gentle » and what? (Club 150)
+		A:	Riding on a donkey, and on a colt, the foal of a donkey. [M 21:5]
+
+CR	15.	According to Matthew chapter 21, what Daughter? » (Club 150)
+		A:	Daughter Zion. [M 21:5]
+
+CVR	16.	According to Matthew chapter 21 verse 5, » say what? (Club 150)
+		A:	See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.. [M 21:5]
+
+INT	17.	The foal » of what? (Club 150)
+		A:	A donkey. [M 21:5]
+
+INT	18.	Say to Daughter » Zion what? (Club 150)
+		A:	See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey. [M 21:5]
+
+INT	19.	Say to Daughter » Zion, what? (Club 150)
+		A:	See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey. [M 21:5]
+
+MA	20.	Your king » comes to you how? (Club 150)
+		A:	Gentle and riding on a donkey, and on a colt, the foal of a donkey. [M 21:5]
+
+Q	21.	Quote Matthew 21:5. (Club 150)
+		A:	“Say to Daughter Zion, ‘See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.’” [M 21:5]
+
+SIT	22.	How was it said?: Say to Daughter » Zion, ‘See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.’ (Club 150)
+		A:	Spoken through the prophet. [M 21:5]
+
+INT	23.	The disciples went and did » what?
+		A:	As Jesus had instructed them. [M 21:6]
+
+INT	24.	Jesus had instructed » whom?
+		A:	Them (the disciples). [M 21:6]
+
+QT	25.	Quote Matthew 21:6-7.
+		A:	The disciples went and did as Jesus had instructed them. They brought the donkey and the colt and placed their cloaks on them for Jesus to sit on. [M 21:6]
+
+CRMA	26.	According to Matthew chapter 21, they brought » what?
+		A:	The donkey and the colt. [M 21:7]
+
+CRMA	27.	According to Matthew chapter 21, they brought » what?
+		A:	The donkey and the colt. [M 21:7]
+
+INT	28.	They brought the » donkey and the colt and what?
+		A:	Placed their cloaks on them for Jesus to sit on. [M 21:7]
+
+INT	29.	Who placed their » cloaks on them?
+		A:	They (the disciples). [M 21:7]
+
+INT	30.	Who brought the » donkey and the colt?
+		A:	They (the disciples). [M 21:7]
+
+MA	31.	They brought the » what?
+		A:	Donkey and the colt. [M 21:7]
+
+CVR	32.	According to Matthew chapter 21 verse 8, » what crowd?
+		A:	A very large crowd. [M 21:8]
+
+INT	33.	A very large » what?
+		A:	Crowd. [M 21:8]
+
+INT	34.	A very large » crowd spread their cloaks where?
+		A:	On the road. [M 21:8]
+
+INT	35.	Others cut » what?
+		A:	Branches. [M 21:8]
+
+INT	36.	Cut branches » from what?
+		A:	The trees. [M 21:8]
+
+CR	37.	According to Matthew chapter 21, the name » of whom? (Club 150)
+		A:	The Lord. [M 21:9]
+
+CR	38.	According to Matthew chapter 21, the highest » what? (Club 150)
+		A:	Heaven. [M 21:9]
+
+CR	39.	According to Matthew chapter 21, the name » of whom? (Club 150)
+		A:	The Lord. [M 21:9]
+
+CR	40.	According to Matthew chapter 21, blessed » is whom? (Club 150)
+		A:	He who comes in the name of the Lord. [M 21:9]
+
+CRMA	41.	According to Matthew chapter 21, who shouted? » (Club 150)
+		A:	The crowds that went ahead of him and those that followed. [M 21:9]
+
+CVR	42.	According to Matthew chapter 21 verse 9, the Son » of whom? (Club 150)
+		A:	David. [M 21:9]
+
+CVR	43.	According to Matthew chapter 21 verse 9, which Son? » (Club 150)
+		A:	The Son of David. [M 21:9]
+
+CVRMA	44.	According to Matthew chapter 21 verse 9, what » crowds? (Club 150)
+		A:	The crowds that went ahead of him and those that followed. [M 21:9]
+
+FTV	45.	The crowds that » went ahead… (Club 150)
+		A:	of him and those that followed shouted, “Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!” [M 21:9]
+
+INT	46.	Comes in » the name of whom? (Club 150)
+		A:	The Lord. [M 21:9]
+
+INT	47.	Hosanna in » what? (Club 150)
+		A:	The highest heaven. [M 21:9]
+
+SIT	48.	Who said it, how was it said?: Hosanna in » the highest heaven! (Club 150)
+		A:	The crowds that went ahead of him and those that followed shouted. [M 21:9]
+
+SIT	49.	Who said it, how was it said?: Blessed is he » who comes in the name of the Lord! (Club 150)
+		A:	The crowds that went ahead of him and those that followed shouted. [M 21:9]
+
+CR	50.	According to Matthew chapter 21, the whole » what?
+		A:	City. [M 21:10]
+
+CR	51.	According to Matthew chapter 21, the whole » what?
+		A:	City. [M 21:10]
+
+F2V	52.	When Jesus entered Jerusalem, » the…
+		A:	whole city was stirred and asked, “Who is this?” The crowds answered, “This is Jesus, the prophet from Nazareth in Galilee.” [M 21:10]
+
+INT	53.	Who entered Jerusalem? »
+		A:	Jesus. [M 21:10]
+
+INT	54.	The whole city » was what?
+		A:	Stirred. [M 21:10]
+
+CVR	55.	According to Matthew chapter 21 verse 11, what » prophet? (Club 300)
+		A:	Jesus, the prophet from Nazareth in Galilee. [M 21:11]
+
+CVR	56.	According to Matthew chapter 21 verse 11, this » is whom? (Club 300)
+		A:	Jesus, the prophet. [M 21:11]
+
+INT	57.	The prophet from » where? (Club 300)
+		A:	Nazareth in Galilee. [M 21:11]
+
+Q	58.	Quote Matthew 21:11. (Club 300)
+		A:	The crowds answered, “This is Jesus, the prophet from Nazareth in Galilee.” [M 21:11]
+
+CVR	59.	According to Matthew chapter 21 verse 12, who » entered the temple courts? (Club 300)
+		A:	Jesus. [M 21:12]
+
+INT	60.	What tables? » (Club 300)
+		A:	The tables of the money changers. [M 21:12]
+
+INT	61.	Who overturned » the tables of the money changers? (Club 300)
+		A:	He (Jesus). [M 21:12]
+
+INT	62.	The tables » of whom? (Club 300)
+		A:	The money changers. [M 21:12]
+
+INT	63.	Selling » what? (Club 300)
+		A:	Doves. [M 21:12]
+
+MA	64.	He overturned » what? (Club 300)
+		A:	The tables of the money changers and the benches of those selling doves. [M 21:12]
+
+QT	65.	Quote Matthew 21:12-13. (Club 300)
+		A:	Jesus entered the temple courts and drove out all who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves. “It is written,” he said to them, “‘My house will be called a house of prayer,’ but you are making it ‘a den of robbers.’” [M 21:12]
+
+CR	66.	According to Matthew chapter 21, will be called » what? (Club 150)
+		A:	A house of prayer. [M 21:13]
+
+CR	67.	According to Matthew chapter 21, what is written? » (Club 150)
+		A:	‘My house will be called a house of prayer.’ [M 21:13]
+
+CR	68.	According to Matthew chapter 21, what is written? » (Club 150)
+		A:	‘My house will be called a house of prayer,’ but you are making it ‘a den of robbers. [M 21:13]
+
+CRMA	69.	According to Matthew chapter 21, what house? » (Club 150)
+		A:	My house; a house of prayer. [M 21:13]
+
+INT	70.	A den » of what? (Club 150)
+		A:	Robbers. [M 21:13]
+
+INT	71.	You are making » it what? (Club 150)
+		A:	A den of robbers. [M 21:13]
+
+INT	72.	What den? » (Club 150)
+		A:	A den of robbers. [M 21:13]
+
+Q	73.	Quote Matthew 21:13. (Club 150)
+		A:	“It is written,” he said to them, “‘My house will be called a house of prayer,’ but you are making it ‘a den of robbers.’” [M 21:13]
+
+SIT	74.	Who said it?: It is written, ‘My » house will be called a house of prayer,’ but you are making it ‘a den of robbers.’ (Club 150)
+		A:	He (Jesus). [M 21:13]
+
+CR	75.	According to Matthew chapter 21, who healed » them?
+		A:	He (Jesus). [M 21:14]
+
+CRMA	76.	According to Matthew chapter 21, healed » whom?
+		A:	Them (the blind and the lame). [M 21:14]
+
+INT	77.	The blind and » the lame came to whom?
+		A:	Him (Jesus). [M 21:14]
+
+INT	78.	The blind and » the lame came to him where?
+		A:	At the temple. [M 21:14]
+
+CRMA	79.	According to Matthew chapter 21, who were indignant? »
+		A:	The chief priests and the teachers of the law. [M 21:15]
+
+CVR	80.	According to Matthew chapter 21 verse 15, Son » of whom?
+		A:	David. [M 21:15]
+
+CVR	81.	According to Matthew chapter 21 verse 15, what things? »
+		A:	The wonderful things he did. [M 21:15]
+
+CVR	82.	According to Matthew chapter 21 verse 15, what children? »
+		A:	The children shouting in the temple courts. [M 21:15]
+
+CVR	83.	According to Matthew chapter 21 verse 15, the Son » of whom?
+		A:	David. [M 21:15]
+
+CVR	84.	According to Matthew chapter 21 verse 15, they » were what?
+		A:	Indignant. [M 21:15]
+
+CVRMA	85.	According to Matthew chapter 21 verse 15, saw » what?
+		A:	The wonderful things he did and the children shouting in the temple courts. [M 21:15]
+
+MA	86.	Who saw the wonderful » things he did?
+		A:	The chief priests and the teachers of the law. [M 21:15]
+
+INT	87.	Do you hear » what? (Club 300)
+		A:	What these children are saying. [M 21:16]
+
+INT	88.	You, Lord, » have called forth what? (Club 300)
+		A:	Your praise. [M 21:16]
+
+MA	89.	The lips » of whom? (Club 300)
+		A:	Children and infants. [M 21:16]
+
+SIT	90.	Who said it, to whom was it said, about whom was it said?: Do you hear » what these children are saying? (Club 300)
+		A:	They (the chief priests and the teachers of the law) asked him (Jesus); about the children shouting in the temple courts. [M 21:16]
+
+SIT	91.	Who said it, to whom was it said?: Do you hear » what these children are saying? (Club 300)
+		A:	They (the chief priests and teachers of the law) asked him (Jesus). [M 21:16]
+
+SIT	92.	Who said it, to whom was it said?: Yes, have » you never read, ‘From the lips of children and infants you, Lord, have called forth your praise’? (Club 300)
+		A:	Jesus; to the chief priests and the teachers of the law. [M 21:16]
+
+CVR	93.	According to Matthew chapter 21 verse 17, » went where?
+		A:	Out of the city to Bethany. [M 21:17]
+
+INT	94.	He spent » what?
+		A:	The night. [M 21:17]
+
+INT	95.	Who spent » the night?
+		A:	He (Jesus). [M 21:17]
+
+CR	96.	According to Matthew chapter 21, he was hungry » when?
+		A:	Early in the morning, as Jesus was on his way back to the city. [M 21:18]
+
+CR	97.	According to Matthew chapter 21, he was hungry » when?
+		A:	Early in the morning, as Jesus was on his way back to the city. [M 21:18]
+
+CVR	98.	According to Matthew chapter 21 verse 18, » he was what?
+		A:	Hungry. [M 21:18]
+
+INT	99.	Who was on » his way back to the city?
+		A:	Jesus. [M 21:18]
+
+INT	100.	Jesus was on » his way back to the city when?
+		A:	Early in the morning. [M 21:18]
+
+CR	101.	According to Matthew chapter 21, immediately » what?
+		A:	The tree withered. [M 21:19]
+
+CR	102.	According to Matthew chapter 21, seeing » what?
+		A:	A fig tree. [M 21:19]
+
+INT	103.	The tree » withered when?
+		A:	Immediately. [M 21:19]
+
+INT	104.	Seeing a » fig tree where?
+		A:	By the road. [M 21:19]
+
+INT	105.	Found nothing » on it except what?
+		A:	Leaves. [M 21:19]
+
+INT	106.	May you » never what?
+		A:	Bear fruit again. [M 21:19]
+
+INT	107.	He went up to it » but found what?
+		A:	Nothing on it except leaves. [M 21:19]
+
+SIT	108.	Who said it, to whom was it said?: May you » never bear fruit again!
+		A:	He (Jesus) said to it (a fig tree). [M 21:19]
+
+CR	109.	According to Matthew chapter 21, how » did what?
+		A:	The fig tree wither so quickly. [M 21:20]
+
+CR	110.	According to Matthew chapter 21, they were amazed » when?
+		A:	When the disciples saw this. [M 21:20]
+
+CVR	111.	According to Matthew chapter 21 verse 20, they were » what?
+		A:	Amazed. [M 21:20]
+
+SIT	112.	Who said it, to whom was it said?: How did the » fig tree wither so quickly?
+		A:	The disciples; to Jesus. [M 21:20]
+
+CR	113.	According to Matthew chapter 21, do not » what? (Club 300)
+		A:	Doubt. [M 21:21]
+
+CR	114.	According to Matthew chapter 21, you have » what? (Club 300)
+		A:	Faith. [M 21:21]
+
+CR	115.	According to Matthew chapter 21, throw » yourself where? (Club 300)
+		A:	Into the sea. [M 21:21]
+
+CVR	116.	According to Matthew chapter 21 verse 21, truly » I tell you what? (Club 300)
+		A:	If you have faith and do not doubt, not only can you do what was done to the fig tree, but also you can say to this mountain, ‘Go, throw yourself into the sea,’ and it will be done. [M 21:21]
+
+CVR	117.	According to Matthew chapter 21 verse 21, I » tell you what? (Club 300)
+		A:	If you have faith and do not doubt, not only can you do what was done to the fig tree, but also you can say to this mountain, ‘Go, throw yourself into the sea,’ and it will be done. [M 21:21]
+
+INT	118.	Not only » can you do what was done to the fig tree, but also you can what? (Club 300)
+		A:	Say to this mountain, ‘Go, throw yourself into the sea,’ and it will be done. [M 21:21]
+
+SIT	119.	Who said it, to whom was it said?: Go, throw » yourself into the sea. (Club 300)
+		A:	You can say to this mountain. [M 21:21]
+
+INT	120.	You will receive » whatever you ask for in prayer when? (Club 150)
+		A:	If you believe. [M 21:22]
+
+CR	121.	According to Matthew chapter 21, what elders? »
+		A:	The elders of the people. [M 21:23]
+
+CVR	122.	According to Matthew chapter 21 verse 23, Jesus » entered where?
+		A:	The temple courts. [M 21:23]
+
+CVR	123.	According to Matthew chapter 21 verse 23, he » was what?
+		A:	Teaching. [M 21:23]
+
+CVR	124.	According to Matthew chapter 21 verse 23, came » to him when?
+		A:	While he was teaching. [M 21:23]
+
+CVRMA	125.	According to Matthew chapter 21 verse 23, » who came to him?
+		A:	The chief priests and the elders of the people. [M 21:23]
+
+INT	126.	Who was teaching? »
+		A:	He (Jesus). [M 21:23]
+
+MA	127.	Who discussed it » among themselves?
+		A:	They (the chief priests and the elders of the people). [M 21:23]
+
+CR	128.	According to Matthew chapter 21, John’s » what?
+		A:	Baptism. [M 21:25]
+
+CVR	129.	According to Matthew chapter 21 verse 25, if we say » what?
+		A:	From heaven. [M 21:25]
+
+CVR	130.	According to Matthew chapter 21 verse 25, what » origin?
+		A:	Human origin. [M 21:25]
+
+INT	131.	Whose baptism? »
+		A:	John’s baptism. [M 21:25]
+
+INT	132.	Was it » from where?
+		A:	Heaven. [M 21:25]
+
+CR	133.	According to Matthew chapter 21, they all » what?
+		A:	Hold that John was a prophet. [M 21:26]
+
+CVR	134.	According to Matthew chapter 21 verse 26, who » was a prophet?
+		A:	John. [M 21:26]
+
+CVR	135.	According to Matthew chapter 21 verse 26, if we say » what?
+		A:	‘Of human origin’. [M 21:26]
+
+INT	136.	We are afraid » of whom?
+		A:	The people. [M 21:26]
+
+INT	137.	We are afraid » of the people why?
+		A:	For they all hold that John was a prophet. [M 21:26]
+
+INT	138.	Hold that » John was what?
+		A:	A prophet. [M 21:26]
+
+INT	139.	John was » what?
+		A:	A prophet. [M 21:26]
+
+SIT	140.	Who said it?: Neither will » I tell you by what authority I am doing these things.
+		A:	Jesus. [M 21:27]
+
+CR	141.	According to Matthew chapter 21, go and » work where?
+		A:	In the vineyard. [M 21:28]
+
+CR	142.	According to Matthew chapter 21, what man? »
+		A:	A man who had two sons. [M 21:28]
+
+CVR	143.	According to Matthew chapter 21 verse 28, there » was who?
+		A:	A man who had two sons. [M 21:28]
+
+CVR	144.	According to Matthew chapter 21 verse 28, went » to whom?
+		A:	The first. [M 21:28]
+
+SIT	145.	Who said it, to whom was it said, how was it said?: Son, go » and work today in the vineyard.
+		A:	He (a man who had two sons) went to the first and said. [M 21:28]
+
+INT	146.	Who changed » his mind?
+		A:	He (the first). [M 21:29]
+
+INT	147.	He changed » his mind and went when?
+		A:	Later. [M 21:29]
+
+CVR	148.	According to Matthew chapter 21 verse 31, truly » I tell you what?
+		A:	The tax collectors and the prostitutes are entering the kingdom of God ahead of you. [M 21:31]
+
+CVR	149.	According to Matthew chapter 21 verse 31, truly » I tell you what?
+		A:	The tax collectors and the prostitutes are entering the kingdom of God ahead of you. [M 21:31]
+
+INT	150.	Which of the two did » what his father wanted?
+		A:	The first. [M 21:31]
+
+INT	151.	The prostitutes are » what?
+		A:	Entering the kingdom of God ahead of you. [M 21:31]
+
+CR	152.	According to Matthew chapter 21, for John » came why? (Club 150)
+		A:	To show you the way of righteousness. [M 21:32]
+
+CR	153.	According to Matthew chapter 21, John came » why? (Club 150)
+		A:	To show you the way of righteousness. [M 21:32]
+
+CRMA	154.	According to Matthew chapter 21, you did » not what? (Club 150)
+		A:	Believe him; repent and believe him. [M 21:32]
+
+INT	155.	You did not believe » whom? (Club 150)
+		A:	Him (John). [M 21:32]
+
+INT	156.	John came to » you to show you what? (Club 150)
+		A:	The way of righteousness. [M 21:32]
+
+MA	157.	And even after » you saw this, you did not what? (Club 150)
+		A:	Repent and believe him. [M 21:32]
+
+CR	158.	According to Matthew chapter 21, planted » what?
+		A:	A vineyard. [M 21:33]
+
+CR	159.	According to Matthew chapter 21, built » what?
+		A:	A watchtower. [M 21:33]
+
+CVR	160.	According to Matthew chapter 21 verse 33, there » was what?
+		A:	A landowner who planted a vineyard. [M 21:33]
+
+CVR	161.	According to Matthew chapter 21 verse 33, another » what?
+		A:	Parable. [M 21:33]
+
+INT	162.	Who planted a » vineyard?
+		A:	A landowner. [M 21:33]
+
+INT	163.	Dug » what?
+		A:	A winepress. [M 21:33]
+
+INT	164.	He rented » what?
+		A:	The vineyard. [M 21:33]
+
+INT	165.	He rented » the vineyard to whom?
+		A:	Some farmers. [M 21:33]
+
+INT	166.	Who put a wall » around it?
+		A:	He (a landowner who planted a vineyard). [M 21:33]
+
+INT	167.	Dug » what?
+		A:	A winepress. [M 21:33]
+
+INT	168.	Who rented » the vineyard?
+		A:	He (a landowner who planted a vineyard). [M 21:33]
+
+INT	169.	Moved » where?
+		A:	To another place. [M 21:33]
+
+CR	170.	According to Matthew chapter 21, he sent his servants » to whom?
+		A:	The tenants. [M 21:34]
+
+CR	171.	According to Matthew chapter 21, collect » what?
+		A:	His fruit. [M 21:34]
+
+CVR	172.	According to Matthew chapter 21 verse 34, what time? »
+		A:	The harvest time. [M 21:34]
+
+CVR	173.	According to Matthew chapter 21 verse 34, what approached? »
+		A:	The harvest time. [M 21:34]
+
+INT	174.	Sent his servants to the » tenants why?
+		A:	To collect his fruit. [M 21:34]
+
+INT	175.	Sent his servants to the » tenants when?
+		A:	When the harvest time approached. [M 21:34]
+
+CR	176.	According to Matthew chapter 21, who seized » his servants?
+		A:	The tenants. [M 21:35]
+
+INT	177.	Who beat » one?
+		A:	They (the tenants). [M 21:35]
+
+INT	178.	Who killed another? »
+		A:	They (the tenants). [M 21:35]
+
+CR	179.	According to Matthew chapter 21, more » than what?
+		A:	The first time. [M 21:36]
+
+CVR	180.	According to Matthew chapter 21 verse 36, » he sent whom?
+		A:	Other servants. [M 21:36]
+
+INT	181.	Who treated » them the same way?
+		A:	The tenants. [M 21:36]
+
+INT	182.	The tenants treated » them how?
+		A:	The same way. [M 21:36]
+
+CVR	183.	According to Matthew chapter 21 verse 37, » he sent whom? (Club 300)
+		A:	His son. [M 21:37]
+
+INT	184.	He sent his son » when? (Club 300)
+		A:	Last of all. [M 21:37]
+
+CRMA	185.	According to Matthew chapter 21, let’s » what? (Club 300)
+		A:	Kill him and take his inheritance. [M 21:38]
+
+INT	186.	The tenants saw » whom? (Club 300)
+		A:	The son. [M 21:38]
+
+INT	187.	Let’s kill » whom? (Club 300)
+		A:	The son. [M 21:38]
+
+CR	188.	According to Matthew chapter 21, they took » whom?
+		A:	Him (the son). [M 21:39]
+
+INT	189.	Who took him and » threw him out of the vineyard and killed him?
+		A:	They (the tenants). [M 21:39]
+
+CR	190.	According to Matthew chapter 21, the owner » of what?
+		A:	The vineyard. [M 21:40]
+
+CVR	191.	According to Matthew chapter 21 verse 41, » what time?
+		A:	Harvest time. [M 21:41]
+
+CVRMA	192.	According to Matthew chapter 21 verse 41, » he will what?
+		A:	Bring those wretches to a wretched end; rent the vineyard to other tenants. [M 21:41]
+
+INT	193.	His share » of what?
+		A:	The crop. [M 21:41]
+
+INT	194.	Who will give him his » share of the crop at harvest time?
+		A:	Other tenants. [M 21:41]
+
+INT	195.	A wretched » what?
+		A:	End. [M 21:41]
+
+INT	196.	Give him his » share of the crop when?
+		A:	At harvest time. [M 21:41]
+
+CVR	197.	According to Matthew chapter 21 verse 42, have you never read what? » (Club 150)
+		A:	The stone the builders rejected has become the cornerstone; the Lord has done this, and it is marvelous in our eyes. [M 21:42]
+
+CVR	198.	According to Matthew chapter 21 verse 42, what stone? » (Club 150)
+		A:	The stone the builders rejected. [M 21:42]
+
+CVR	199.	According to Matthew chapter 21 verse 42, have you never read what? » (Club 150)
+		A:	‘The stone the builders rejected has become the cornerstone; the Lord has done this, and it is marvelous in our eyes.’ [M 21:42]
+
+INT	200.	The stone the » builders rejected has become what? (Club 150)
+		A:	The cornerstone. [M 21:42]
+
+INT	201.	It is marvelous » where? (Club 150)
+		A:	In our eyes. [M 21:42]
+
+SIT	202.	Who said it?: Have you never read in » the Scriptures: ‘The stone the builders rejected has become the cornerstone; the Lord has done this, and it is marvelous in our eyes’? (Club 150)
+		A:	Jesus. [M 21:42]
+
+CR	203.	According to Matthew chapter 21, given » to whom? (Club 150)
+		A:	A people who will produce its fruit. [M 21:43]
+
+CR	204.	According to Matthew chapter 21, produce » what? (Club 150)
+		A:	Its (the kingdom of God) fruit. [M 21:43]
+
+CVR	205.	According to Matthew chapter 21 verse 43, what fruit? » (Club 150)
+		A:	Its (the kingdom of God) fruit. [M 21:43]
+
+INT	206.	Who will be broken » to pieces?
+		A:	Anyone who falls on this stone. [M 21:44]
+
+INT	207.	Anyone who falls » on this stone will be what?
+		A:	Broken to pieces. [M 21:44]
+
+INT	208.	They knew » he was talking about them when?
+		A:	When the chief priests and the Pharisees heard Jesus’ parables. [M 21:45]
+
+MA	209.	He was talking about » whom?
+		A:	Them (the chief priests and the Pharisees). [M 21:45]
+
+MA	210.	Who heard Jesus’ » parables?
+		A:	The chief priests and the Pharisees. [M 21:45]
+
+CVR	211.	According to Matthew chapter 21 verse 46, » they were what? (Club 150)
+		A:	Afraid of the crowd. [M 21:46]
+
+INT	212.	A way » to what? (Club 150)
+		A:	Arrest him. [M 21:46]
+
+INT	213.	Who looked for » a way to arrest him? (Club 150)
+		A:	They (the chief priests and the Pharisees). [M 21:46]
+
+INT	214.	Who were afraid » of the crowd? (Club 150)
+		A:	They (the chief priests and the Pharisees). [M 21:46]
+
+INT	215.	They were afraid » of the crowd why? (Club 150)
+		A:	Because the people held that he was a prophet. [M 21:46]
+
+INT	216.	The people held » what? (Club 150)
+		A:	That he was a prophet. [M 21:46]
+
+CR	217.	According to Matthew chapter 22, the kingdom » of heaven is like what?
+		A:	A king who prepared a wedding banquet for his son. [M 22:2]
+
+CR	218.	According to Matthew chapter 22, the kingdom » of heaven is like what?
+		A:	A king who prepared a wedding banquet for his son. [M 22:2]
+
+CR	219.	According to Matthew chapter 22, what is like a » king?
+		A:	The kingdom of heaven. [M 22:2]
+
+CVR	220.	According to Matthew chapter 22 verse 2, what banquet? »
+		A:	A wedding banquet. [M 22:2]
+
+FTV	221.	“The kingdom » of heaven is…
+		A:	like a king who prepared a wedding banquet for his son. [M 22:2]
+
+INT	222.	Prepared a » wedding banquet for whom?
+		A:	His son. [M 22:2]
+
+INT	223.	Who prepared a » wedding banquet for his son?
+		A:	A king who prepared a wedding banquet for his son. [M 22:2]
+
+CR	224.	According to Matthew chapter 22, he sent his servants » to whom?
+		A:	Those who had been invited to the banquet. [M 22:3]
+
+CR	225.	According to Matthew chapter 22, tell them » what?
+		A:	To come. [M 22:3]
+
+CVR	226.	According to Matthew chapter 22 verse 3, » he sent whom?
+		A:	His servants. [M 22:3]
+
+INT	227.	Invited to » what?
+		A:	The banquet. [M 22:3]
+
+INT	228.	They refused » to what?
+		A:	Come. [M 22:3]
+
+CR	229.	According to Matthew chapter 22, I have » what?
+		A:	Prepared my dinner. [M 22:4]
+
+CVR	230.	According to Matthew chapter 22 verse 4, he sent » whom?
+		A:	Some more servants. [M 22:4]
+
+CVR	231.	According to Matthew chapter 22 verse 4, prepared » what?
+		A:	My dinner. [M 22:4]
+
+CVR	232.	According to Matthew chapter 22 verse 4, what banquet? »
+		A:	The wedding banquet. [M 22:4]
+
+INT	233.	Tell those » who have been invited what?
+		A:	That I have prepared my dinner. [M 22:4]
+
+INT	234.	I have prepared » what?
+		A:	My dinner. [M 22:4]
+
+INT	235.	Who sent some » more servants?
+		A:	He (a king who prepared a wedding banquet for his son). [M 22:4]
+
+INT	236.	Who paid no » attention?
+		A:	They (those who have been invited). [M 22:5]
+
+MA	237.	But they paid » no attention and went off— where?
+		A:	One to his field, another to his business. [M 22:5]
+
+QT	238.	Quote Matthew 22:5-6.
+		A:	“But they paid no attention and went off—one to his field, another to his business. The rest seized his servants, mistreated them and killed them. [M 22:5]
+
+CR	239.	According to Matthew chapter 22, killed » whom?
+		A:	Them (his servants). [M 22:6]
+
+INT	240.	Who killed them? »
+		A:	The rest. [M 22:6]
+
+INT	241.	Mistreated » whom?
+		A:	Them (his servants). [M 22:6]
+
+CR	242.	According to Matthew chapter 22, the king was » what?
+		A:	Enraged. [M 22:7]
+
+CVR	243.	According to Matthew chapter 22 verse 7, » he sent whom?
+		A:	His army. [M 22:7]
+
+INT	244.	Burned » what?
+		A:	Their city. [M 22:7]
+
+INT	245.	Who was enraged? »
+		A:	The king. [M 22:7]
+
+INT	246.	Who sent his army? »
+		A:	He (the king). [M 22:7]
+
+INT	247.	Who destroyed » those murderers?
+		A:	He (the king). [M 22:7]
+
+MA	248.	He sent his army » and what?
+		A:	Destroyed those murderers and burned their city. [M 22:7]
+
+CVR	249.	According to Matthew chapter 22 verse 8, » what is ready?
+		A:	The wedding banquet. [M 22:8]
+
+FTN	250.	‘The wedding banquet is » ready,…
+		A:	but those I invited did not deserve to come. So go to the street corners and invite to the banquet anyone you find.’ [M 22:8]
+
+INT	251.	The wedding banquet is » what?
+		A:	Ready. [M 22:8]
+
+INT	252.	Those I » invited did not what?
+		A:	Deserve to come. [M 22:8]
+
+INT	253.	Did not deserve » to what?
+		A:	Come. [M 22:8]
+
+CR	254.	According to Matthew chapter 22, go » to where?
+		A:	The street corners. [M 22:9]
+
+CR	255.	According to Matthew chapter 22, what corners? »
+		A:	The street corners. [M 22:9]
+
+INT	256.	Invite » to the banquet whom?
+		A:	Anyone you find. [M 22:9]
+
+INT	257.	So go » to the street corners and invite to the banquet whom?
+		A:	Anyone you find. [M 22:9]
+
+CR	258.	According to Matthew chapter 22, filled » with what? (Club 300)
+		A:	Guests. [M 22:10]
+
+CVR	259.	According to Matthew chapter 22 verse 10, » gathered whom? (Club 300)
+		A:	All the people they could find. [M 22:10]
+
+INT	260.	The wedding hall » was what? (Club 300)
+		A:	Filled with guests. [M 22:10]
+
+INT	261.	Who gathered all » the people they could find? (Club 300)
+		A:	The servants. [M 22:10]
+
+INT	262.	The wedding hall » was what? (Club 300)
+		A:	Filled with guests. [M 22:10]
+
+INT	263.	The servants » went where? (Club 300)
+		A:	Out into the streets. [M 22:10]
+
+INT	264.	The servants » went out into what? (Club 300)
+		A:	The streets. [M 22:10]
+
+MA	265.	The servants » what? (Club 300)
+		A:	Went out into the streets and gathered all the people they could find. [M 22:10]
+
+Q	266.	Quote Matthew 22:10. (Club 300)
+		A:	So the servants went out into the streets and gathered all the people they could find, the bad as well as the good, and the wedding hall was filled with guests. [M 22:10]
+
+INT	267.	Who came in » to see the guests?
+		A:	The king. [M 22:11]
+
+INT	268.	Was not wearing » what?
+		A:	Wedding clothes. [M 22:11]
+
+INT	269.	Who noticed » a man there?
+		A:	He (the king). [M 22:11]
+
+INT	270.	He noticed » a man there when?
+		A:	When the king came in to see the guests. [M 22:11]
+
+CVR	271.	According to Matthew chapter 22 verse 12, » what clothes?
+		A:	Wedding clothes. [M 22:12]
+
+INT	272.	Who was speechless? »
+		A:	The man. [M 22:12]
+
+INT	273.	Who was speechless? »
+		A:	The man. [M 22:12]
+
+SIT	274.	Who said it, to whom was it said?: How did you » get in here without wedding clothes, friend?
+		A:	He (the king) asked; to a man there who was not wearing wedding clothes. [M 22:12]
+
+CR	275.	According to Matthew chapter 22, there will » be weeping and gnashing of teeth where?
+		A:	Outside, into the darkness. [M 22:13]
+
+CRMA	276.	According to Matthew chapter 22, there will » be what?
+		A:	Weeping and gnashing of teeth. [M 22:13]
+
+CRMA	277.	According to Matthew chapter 22, there will » be what?
+		A:	Weeping and gnashing of teeth. [M 22:13]
+
+MA	278.	Throw him » outside, into the darkness, where there will be what?
+		A:	Weeping and gnashing of teeth. [M 22:13]
+
+Q	279.	Quote Matthew 22:13.
+		A:	“Then the king told the attendants, ‘Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.’ [M 22:13]
+
+SIT	280.	Who said it, to whom was it said?: Tie » him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.
+		A:	The king told the attendants. [M 22:13]
+
+FTV	281.	“For many » are invited, but… (Club 150)
+		A:	few are chosen.” [M 22:14]
+
+INT	282.	Many are » what? (Club 150)
+		A:	Invited. [M 22:14]
+
+INT	283.	Who are invited? » (Club 150)
+		A:	Many. [M 22:14]
+
+INT	284.	To trap him » in what? (Club 150)
+		A:	His words. [M 22:15]
+
+INT	285.	Who went out and laid » plans to trap him in his words? (Club 150)
+		A:	The Pharisees. [M 22:15]
+
+CR	286.	According to Matthew chapter 22, the way » of whom? (Club 300)
+		A:	God. [M 22:16]
+
+CR	287.	According to Matthew chapter 22, in accordance » with what? (Club 300)
+		A:	The truth. [M 22:16]
+
+CR	288.	According to Matthew chapter 22, in accordance » with what? (Club 300)
+		A:	The truth. [M 22:16]
+
+CR	289.	According to Matthew chapter 22, the way » of whom? (Club 300)
+		A:	God. [M 22:16]
+
+CVR	290.	According to Matthew chapter 22 verse 16, you are » what? (Club 300)
+		A:	A man of integrity. [M 22:16]
+
+INT	291.	Who sent their » disciples to him? (Club 300)
+		A:	They (the Pharisees). [M 22:16]
+
+INT	292.	We know » that you are what? (Club 300)
+		A:	A man of integrity. [M 22:16]
+
+INT	293.	You pay » no attention to what? (Club 300)
+		A:	Who they are. [M 22:16]
+
+INT	294.	You aren’t » swayed by others, why? (Club 300)
+		A:	Because you pay no attention to who they are. [M 22:16]
+
+MA	295.	We know » what? (Club 300)
+		A:	That you are a man of integrity and that you teach the way of God in accordance with the truth. [M 22:16]
+
+Q	296.	Quote Matthew 22:16. (Club 300)
+		A:	They sent their disciples to him along with the Herodians. “Teacher,” they said, “we know that you are a man of integrity and that you teach the way of God in accordance with the truth. You aren’t swayed by others, because you pay no attention to who they are. [M 22:16]
+
+INT	297.	Is it right » to pay the imperial tax to whom?
+		A:	Caesar. [M 22:17]
+
+INT	298.	The imperial » what?
+		A:	Tax. [M 22:17]
+
+CR	299.	According to Matthew chapter 22, knowing » what?
+		A:	Their evil intent. [M 22:18]
+
+CR	300.	According to Matthew chapter 22, trying » to what?
+		A:	Trap me. [M 22:18]
+
+FTV	301.	But Jesus, knowing » their evil…
+		A:	intent, said, “You hypocrites, why are you trying to trap me? [M 22:18]
+
+INT	302.	What intent? »
+		A:	Their evil intent. [M 22:18]
+
+INT	303.	Whose evil intent? »
+		A:	Their (the Pharisees) evil intent. [M 22:18]
+
+CR	304.	According to Matthew chapter 22, they brought » him what?
+		A:	A denarius. [M 22:19]
+
+CR	305.	According to Matthew chapter 22, what coin? »
+		A:	The coin used for paying the tax. [M 22:19]
+
+INT	306.	Show me » what?
+		A:	The coin used for paying the tax. [M 22:19]
+
+INT	307.	Show me » what?
+		A:	The coin used for paying the tax. [M 22:19]
+
+INT	308.	Give back » to Caesar what is Caesar’s, and what?
+		A:	To God what is God’s. [M 22:21]
+
+INT	309.	Give back » to Caesar what?
+		A:	What is Caesar’s. [M 22:21]
+
+MA	310.	Give back » to whom?
+		A:	Caesar; God. [M 22:21]
+
+CVR	311.	According to Matthew chapter 22 verse 22, » they were what?
+		A:	Amazed. [M 22:22]
+
+Q	312.	Quote Matthew 22:22.
+		A:	When they heard this, they were amazed. So they left him and went away. [M 22:22]
+
+CR	313.	According to Matthew chapter 22, who came to » him?
+		A:	The Sadducees. [M 22:23]
+
+CR	314.	According to Matthew chapter 22, came to » him with what?
+		A:	A question. [M 22:23]
+
+CVR	315.	According to Matthew chapter 22 verse 23, » what day?
+		A:	That same day. [M 22:23]
+
+INT	316.	Who say there » is no resurrection?
+		A:	The Sadducees. [M 22:23]
+
+INT	317.	Who say there » is no resurrection?
+		A:	The Sadducees. [M 22:23]
+
+FTV	318.	“Teacher,” they » said, “Moses told…
+		A:	us that if a man dies without having children, his brother must marry the widow and raise up offspring for him. [M 22:24]
+
+INT	319.	A man dies » without what?
+		A:	Having children. [M 22:24]
+
+INT	320.	Dies » without what?
+		A:	Having children. [M 22:24]
+
+MA	321.	His brother must » what?
+		A:	Marry the widow and raise up offspring for him. [M 22:24]
+
+CR	322.	According to Matthew chapter 22, what brothers? »
+		A:	Seven brothers among us. [M 22:25]
+
+INT	323.	There were » seven brothers where?
+		A:	Among us. [M 22:25]
+
+INT	324.	Who had no » children?
+		A:	He (the first one). [M 22:25]
+
+INT	325.	He left his » wife to his brother why?
+		A:	Since he had no children. [M 22:25]
+
+CVRMA	326.	According to Matthew chapter 22 verse 26, » which brother?
+		A:	The second and third brother. [M 22:26]
+
+INT	327.	Right on » down to whom?
+		A:	The seventh. [M 22:26]
+
+MA	328.	The same thing happened » to whom?
+		A:	The second and third brother, right on down to the seventh. [M 22:26]
+
+CVR	329.	According to Matthew chapter 22 verse 27, » who died?
+		A:	The woman. [M 22:27]
+
+CVR	330.	According to Matthew chapter 22 verse 27, » who died?
+		A:	The woman. [M 22:27]
+
+INT	331.	Who were married » to her?
+		A:	All of them. [M 22:28]
+
+Q	332.	Quote Matthew 22:28.
+		A:	Now then, at the resurrection, whose wife will she be of the seven, since all of them were married to her?” [M 22:28]
+
+CR	333.	According to Matthew chapter 22, you do » not what? (Club 150)
+		A:	Know the Scriptures or the power of God. [M 22:29]
+
+INT	334.	The power » of whom? (Club 150)
+		A:	God. [M 22:29]
+
+INT	335.	You are in » error why? (Club 150)
+		A:	Because you do not know the Scriptures or the power of God. [M 22:29]
+
+MA	336.	You do not know » what? (Club 150)
+		A:	The Scriptures or the power of God. [M 22:29]
+
+Q	337.	Quote Matthew 22:29. (Club 150)
+		A:	Jesus replied, “You are in error because you do not know the Scriptures or the power of God. [M 22:29]
+
+SIT	338.	Who said it, to whom was it said?: You are in » error because you do not know the Scriptures or the power of God. (Club 150)
+		A:	Jesus replied; to the Sadducees. [M 22:29]
+
+SIT	339.	Who said it?: You are in » error because you do not know the Scriptures or the power of God. (Club 150)
+		A:	Jesus. [M 22:29]
+
+CR	340.	According to Matthew chapter 22, what angels? » (Club 300)
+		A:	The angels in heaven. [M 22:30]
+
+FTV	341.	At the » resurrection people will… (Club 300)
+		A:	neither marry nor be given in marriage; they will be like the angels in heaven. [M 22:30]
+
+INT	342.	People will » neither marry nor be given in marriage when? (Club 300)
+		A:	At the resurrection. [M 22:30]
+
+CVR	343.	According to Matthew chapter 22 verse 31, » what resurrection?
+		A:	The resurrection of the dead. [M 22:31]
+
+FTV	344.	But about » the resurrection of…
+		A:	the dead—have you not read what God said to you, [M 22:31]
+
+CR	345.	According to Matthew chapter 22, he is » not what? (Club 150)
+		A:	The God of the dead. [M 22:32]
+
+CRMA	346.	According to Matthew chapter 22, I am » what? (Club 150)
+		A:	The God of Abraham, the God of Isaac, and the God of Jacob. [M 22:32]
+
+FTV	347.	‘I am the » God of… (Club 150)
+		A:	Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead but of the living.” [M 22:32]
+
+INT	348.	Not the God » of the dead but of whom? (Club 150)
+		A:	The living. [M 22:32]
+
+INT	349.	Not the God » of the dead but of whom? (Club 150)
+		A:	The living. [M 22:32]
+
+SIT	350.	Who said it, to whom was it said?: I am the God » of Abraham, the God of Isaac, and the God of Jacob. (Club 150)
+		A:	God said to you. [M 22:32]
+
+CVR	351.	According to Matthew chapter 22 verse 33, who » heard this?
+		A:	The crowds. [M 22:33]
+
+INT	352.	They were astonished » at his teaching when?
+		A:	When the crowds heard this. [M 22:33]
+
+INT	353.	Who were astonished at » his teaching?
+		A:	They (the crowds). [M 22:33]
+
+INT	354.	Jesus had silenced » whom?
+		A:	The Sadducees. [M 22:34]
+
+INT	355.	Silenced » whom?
+		A:	The Sadducees. [M 22:34]
+
+CR	356.	According to Matthew chapter 22, who tested » him?
+		A:	An expert in the law. [M 22:35]
+
+CR	357.	According to Matthew chapter 22, tested » him how?
+		A:	With this question. [M 22:35]
+
+INT	358.	An expert » in what?
+		A:	The law. [M 22:35]
+
+INT	359.	Who tested him with » this question?
+		A:	One of them, an expert in the law. [M 22:35]
+
+SIT	360.	Who said it, how was it said?: Teacher, which » is the greatest commandment in the Law?
+		A:	An expert in the law tested him with this question. [M 22:35]
+
+CR	361.	According to Matthew chapter 22, the greatest » what? (Club 300)
+		A:	Commandment in the Law. [M 22:36]
+
+INT	362.	The greatest commandment » where? (Club 300)
+		A:	In the Law. [M 22:36]
+
+Q	363.	Quote Matthew 22:36. (Club 300)
+		A:	“Teacher, which is the greatest commandment in the Law?” [M 22:36]
+
+SIT	364.	Who said it, to whom was it said, how was it said?: Teacher, which » is the greatest commandment in the Law? (Club 300)
+		A:	One of them, an expert in the law, tested him (Jesus) with this question. [M 22:36]
+
+CVR	365.	According to Matthew chapter 22 verse 37, love » whom? (Club 150)
+		A:	The Lord your God. [M 22:37]
+
+CVR	366.	According to Matthew chapter 22 verse 37, love » whom? (Club 150)
+		A:	The Lord your God. [M 22:37]
+
+FT	367.	“‘Love the Lord » your God… (Club 150)
+		A:	with all your heart and with all your soul and with all your mind.’ [M 22:37]
+
+INT	368.	What is the first » and greatest commandment? (Club 150)
+		A:	This (Love the Lord your God with all your heart and with all your soul and with all your mind). [M 22:37]
+
+MA	369.	Love the Lord » your God with what? (Club 150)
+		A:	All your heart; all your soul; all your mind. [M 22:37]
+
+QT	370.	Quote Matthew 22:37-38. (Club 150)
+		A:	Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. [M 22:37]
+
+SIT	371.	Who said it, to whom was it said?: Love the Lord » your God with all your heart and with all your soul and with all your mind. (Club 150)
+		A:	Jesus replied; to one of them, an expert in the law. [M 22:37]
+
+SIT	372.	Who said it?: Love the » Lord your God with all your heart and with all your soul and with all your mind. (Club 150)
+		A:	Jesus. [M 22:37]
+
+CRMA	373.	According to Matthew chapter 22, this is » what? (Club 150)
+		A:	The first and greatest commandment. [M 22:38]
+
+CR	374.	According to Matthew chapter 22, love your » neighbor how? (Club 150)
+		A:	As yourself. [M 22:39]
+
+CVR	375.	According to Matthew chapter 22 verse 39, » love whom? (Club 150)
+		A:	Your neighbor. [M 22:39]
+
+FTV	376.	And the second » is like… (Club 150)
+		A:	it: ‘Love your neighbor as yourself.’ [M 22:39]
+
+INT	377.	What is like it? » (Club 150)
+		A:	The second. [M 22:39]
+
+INT	378.	And the second » is like it: what? (Club 150)
+		A:	Love your neighbor as yourself. [M 22:39]
+
+INT	379.	Hang » on what? (Club 150)
+		A:	These two commandments. [M 22:40]
+
+MA	380.	Which two commandments? » (Club 150)
+		A:	These (Love the Lord your God with all your heart and with all your soul and with all your mind; Love your neighbor as yourself.) [M 22:40]
+
+Q	381.	Quote Matthew 22:40. (Club 150)
+		A:	All the Law and the Prophets hang on these two commandments.” [M 22:40]
+
+INT	382.	Who were gathered » together?
+		A:	The Pharisees. [M 22:41]
+
+QT	383.	Quote Matthew 22:41-42.
+		A:	While the Pharisees were gathered together, Jesus asked them, “What do you think about the Messiah? Whose son is he?” “The son of David,” they replied. [M 22:41]
+
+CR	384.	According to Matthew chapter 22, the son » of whom?
+		A:	David. [M 22:42]
+
+CR	385.	According to Matthew chapter 22, speaking » how?
+		A:	By the Spirit. [M 22:43]
+
+CVR	386.	According to Matthew chapter 22 verse 43, who calls » him ‘Lord’?
+		A:	David. [M 22:43]
+
+FTN	387.	“How is it then » that…
+		A:	David, speaking by the Spirit, calls him ‘Lord’? For he says, “‘The Lord said to my Lord: “Sit at my right hand until I put your enemies under your feet.”’ [M 22:43]
+
+INT	388.	David, speaking » by the Spirit, calls him what?
+		A:	Lord. [M 22:43]
+
+CR	389.	According to Matthew chapter 22, whose enemies? »
+		A:	Your (my Lord) enemies. [M 22:44]
+
+CR	390.	According to Matthew chapter 22, whose feet? »
+		A:	Your (my Lord) feet. [M 22:44]
+
+INT	391.	The Lord said » to whom?
+		A:	My Lord. [M 22:44]
+
+INT	392.	I put your » enemies where?
+		A:	Under your feet. [M 22:44]
+
+INT	393.	What until I put » your enemies under your feet?
+		A:	Sit at my right hand. [M 22:44]
+
+CVR	394.	According to Matthew chapter 22 verse 45, who » calls him ‘Lord?’
+		A:	David. [M 22:45]
+
+CVR	395.	According to Matthew chapter 22 verse 45, calls » him what?
+		A:	Lord. [M 22:45]
+
+INT	396.	No one could say » what? (Club 300)
+		A:	A word in reply. [M 22:46]
+
+INT	397.	Who could say » a word in reply? (Club 300)
+		A:	No one. [M 22:46]
+
+INT	398.	Dared » to ask him what? (Club 300)
+		A:	Any more questions. [M 22:46]
+
+INT	399.	Who dared » to ask him any more questions? (Club 300)
+		A:	No one. [M 22:46]
+
+Q	400.	Quote Matthew 22:46. (Club 300)
+		A:	No one could say a word in reply, and from that day on no one dared to ask him any more questions. [M 22:46]
+
+CR	401.	According to Matthew chapter 26, Jesus had finished » saying what? (Club 150)
+		A:	All these things. [M 26:1]
+
+INT	402.	Who had finished saying all » these things? (Club 150)
+		A:	Jesus. [M 26:1]
+
+CR	403.	According to Matthew chapter 26, handed » over to what? (Club 150)
+		A:	Be crucified. [M 26:2]
+
+CR	404.	According to Matthew chapter 26, who will be handed » over? (Club 150)
+		A:	The Son of Man. [M 26:2]
+
+CRMA	405.	According to Matthew chapter 26, you know » what? (Club 150)
+		A:	The Passover is two days away—and the Son of Man will be handed over to be crucified. [M 26:2]
+
+CVR	406.	According to Matthew chapter 26 verse 2, the Son of Man » what? (Club 150)
+		A:	Will be handed over to be crucified. [M 26:2]
+
+CVR	407.	According to Matthew chapter 26 verse 2, the Son of whom? » (Club 150)
+		A:	Man. [M 26:2]
+
+FTV	408.	“As you know, » the Passover… (Club 150)
+		A:	is two days away—and the Son of Man will be handed over to be crucified.” [M 26:2]
+
+INT	409.	The Passover is » what? (Club 150)
+		A:	Two days away. [M 26:2]
+
+Q	410.	Quote Matthew 26:2. (Club 150)
+		A:	“As you know, the Passover is two days away—and the Son of Man will be handed over to be crucified.” [M 26:2]
+
+SIT	411.	Who said it, to whom was it said?: As you know, the » Passover is two days away—and the Son of Man will be handed over to be crucified. (Club 150)
+		A:	He (Jesus) said to his disciples. [M 26:2]
+
+CVR	412.	According to Matthew chapter 26 verse 3, which priest? »
+		A:	The high priest. [M 26:3]
+
+INT	413.	The palace » of the high priest, whose name was what?
+		A:	Caiaphas. [M 26:3]
+
+INT	414.	Whose palace? »
+		A:	The palace of the high priest. [M 26:3]
+
+QT	415.	Quote Matthew 26:3-4.
+		A:	Then the chief priests and the elders of the people assembled in the palace of the high priest, whose name was Caiaphas, and they schemed to arrest Jesus secretly and kill him. [M 26:3]
+
+CR	416.	According to Matthew chapter 26, kill » whom?
+		A:	Him (Jesus). [M 26:4]
+
+CVR	417.	According to Matthew chapter 26 verse 4, » arrest whom?
+		A:	Jesus. [M 26:4]
+
+INT	418.	Who schemed » to arrest Jesus secretly and kill him?
+		A:	They (the chief priests and the elders of the people). [M 26:4]
+
+INT	419.	To arrest Jesus » how?
+		A:	Secretly. [M 26:4]
+
+MA	420.	They schemed » to what?
+		A:	Arrest Jesus secretly and kill him. [M 26:4]
+
+INT	421.	There may » be what?
+		A:	A riot among the people. [M 26:5]
+
+INT	422.	A riot » where?
+		A:	Among the people. [M 26:5]
+
+CR	423.	According to Matthew chapter 26, which Simon? »
+		A:	Simon the Leper. [M 26:6]
+
+F2V	424.	While Jesus was in » Bethany…
+		A:	in the home of Simon the Leper, a woman came to him with an alabaster jar of very expensive perfume, which she poured on his head as he was reclining at the table. [M 26:6]
+
+INT	425.	The home of » whom?
+		A:	Simon the Leper. [M 26:6]
+
+INT	426.	Which Leper? »
+		A:	Simon the Leper. [M 26:6]
+
+CR	427.	According to Matthew chapter 26, whose head? » (Club 300)
+		A:	His (Jesus) head. [M 26:7]
+
+CVR	428.	According to Matthew chapter 26 verse 7, what perfume? » (Club 300)
+		A:	Very expensive perfume. [M 26:7]
+
+CVR	429.	According to Matthew chapter 26 verse 7, she poured » where? (Club 300)
+		A:	On his head. [M 26:7]
+
+INT	430.	She poured on » his head what? (Club 300)
+		A:	Very expensive perfume. [M 26:7]
+
+INT	431.	A woman came » to whom? (Club 300)
+		A:	Him (Jesus). [M 26:7]
+
+INT	432.	An alabaster » jar of what? (Club 300)
+		A:	Very expensive perfume. [M 26:7]
+
+INT	433.	She poured on » his head what? (Club 300)
+		A:	An alabaster jar of very expensive perfume. [M 26:7]
+
+Q	434.	Quote Matthew 26:7. (Club 300)
+		A:	A woman came to him with an alabaster jar of very expensive perfume, which she poured on his head as he was reclining at the table. [M 26:7]
+
+CR	435.	According to Matthew chapter 26, who were indignant? »
+		A:	They (the disciples). [M 26:8]
+
+CR	436.	According to Matthew chapter 26, they were indignant » when?
+		A:	When the disciples saw this. [M 26:8]
+
+CVR	437.	According to Matthew chapter 26 verse 8, » they were what?
+		A:	Indignant. [M 26:8]
+
+SIT	438.	Who said it?: Why this » waste? This perfume could have been sold at a high price and the money given to the poor.
+		A:	The disciples. [M 26:8]
+
+INT	439.	This perfume could » have been sold how?
+		A:	At a high price. [M 26:9]
+
+INT	440.	Could have » been sold how?
+		A:	At a high price. [M 26:9]
+
+INT	441.	What could have » been sold at a high price and the money given to the poor?
+		A:	This perfume. [M 26:9]
+
+INT	442.	This perfume could » have been what?
+		A:	Sold at a high price. [M 26:9]
+
+CVR	443.	According to Matthew chapter 26 verse 10, she has done » what?
+		A:	A beautiful thing to me. [M 26:10]
+
+INT	444.	You will always » have with you whom? (Club 150)
+		A:	The poor. [M 26:11]
+
+INT	445.	The poor you » will always have with you, but what? (Club 150)
+		A:	You will not always have me. [M 26:11]
+
+Q	446.	Quote Matthew 26:11. (Club 150)
+		A:	The poor you will always have with you, but you will not always have me. [M 26:11]
+
+CVR	447.	According to Matthew chapter 26 verse 12, » she poured what? (Club 300)
+		A:	This perfume. [M 26:12]
+
+FTV	448.	When she » poured this perfume… (Club 300)
+		A:	on my body, she did it to prepare me for burial. [M 26:12]
+
+INT	449.	When she » poured this perfume on my body, she did it why? (Club 300)
+		A:	To prepare me for burial. [M 26:12]
+
+INT	450.	She did » it to prepare me for burial when? (Club 300)
+		A:	When she poured this perfume on my body. [M 26:12]
+
+INT	451.	She did » it to prepare me for what? (Club 300)
+		A:	Burial. [M 26:12]
+
+INT	452.	Prepare me » for what? (Club 300)
+		A:	Burial. [M 26:12]
+
+CR	453.	According to Matthew chapter 26, throughout » where?
+		A:	The world. [M 26:13]
+
+CVR	454.	According to Matthew chapter 26 verse 13, truly » I tell you what?
+		A:	Wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her. [M 26:13]
+
+INT	455.	This gospel » is what?
+		A:	Preached. [M 26:13]
+
+INT	456.	What is preached? »
+		A:	This gospel. [M 26:13]
+
+INT	457.	Wherever this » gospel is preached throughout the world, what?
+		A:	What she has done will also be told, in memory of her. [M 26:13]
+
+INT	458.	In memory » of whom?
+		A:	Her (this woman). [M 26:13]
+
+Q	459.	Quote Matthew 26:13.
+		A:	Truly I tell you, wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her.” [M 26:13]
+
+CR	460.	According to Matthew chapter 26, went to » whom?
+		A:	The chief priests. [M 26:14]
+
+CVR	461.	According to Matthew chapter 26 verse 14, » which one of the Twelve?
+		A:	The one called Judas Iscariot. [M 26:14]
+
+CVR	462.	According to Matthew chapter 26 verse 14, » which Judas?
+		A:	Judas Iscariot. [M 26:14]
+
+SIT	463.	Who said it, to whom was it said?: What are » you willing to give me if I deliver him over to you?
+		A:	Judas Iscariot to the chief priests. [M 26:14]
+
+CR	464.	According to Matthew chapter 26, what pieces » of silver?
+		A:	Thirty pieces of silver. [M 26:15]
+
+INT	465.	They counted » out for him what?
+		A:	Thirty pieces of silver. [M 26:15]
+
+INT	466.	Who counted » out for him thirty pieces of silver?
+		A:	They (the chief priests). [M 26:15]
+
+INT	467.	Willing to give » whom?
+		A:	Me (one of the Twelve—the one called Judas Iscariot). [M 26:15]
+
+FTV	468.	From then » on Judas watched…
+		A:	for an opportunity to hand him over. [M 26:16]
+
+INT	469.	From then » on Judas what?
+		A:	Watched for an opportunity to hand him over. [M 26:16]
+
+INT	470.	From then » on what?
+		A:	Judas watched for an opportunity to hand him over. [M 26:16]
+
+INT	471.	An opportunity » to what?
+		A:	Hand him over. [M 26:16]
+
+CR	472.	According to Matthew chapter 26, the first » day of what?
+		A:	The Festival of Unleavened Bread. [M 26:17]
+
+CR	473.	According to Matthew chapter 26, who came to Jesus? »
+		A:	The disciples. [M 26:17]
+
+CR	474.	According to Matthew chapter 26, the disciples came » to Jesus when?
+		A:	On the first day of the Festival of Unleavened Bread. [M 26:17]
+
+CVR	475.	According to Matthew chapter 26 verse 17, what Bread? »
+		A:	Unleavened Bread. [M 26:17]
+
+CVR	476.	According to Matthew chapter 26 verse 17, what day? »
+		A:	The first day of the Festival of Unleavened Bread. [M 26:17]
+
+INT	477.	Unleavened » what?
+		A:	Bread. [M 26:17]
+
+INT	478.	Preparations » for you to eat what?
+		A:	The Passover. [M 26:17]
+
+CVR	479.	According to Matthew chapter 26 verse 18, what man? »
+		A:	A certain man. [M 26:18]
+
+CVR	480.	According to Matthew chapter 26 verse 18, what time? »
+		A:	My appointed time. [M 26:18]
+
+INT	481.	My appointed » time is what?
+		A:	Near. [M 26:18]
+
+INT	482.	Celebrate » the Passover with whom?
+		A:	My disciples. [M 26:18]
+
+INT	483.	Celebrate » the Passover with whom?
+		A:	My disciples. [M 26:18]
+
+INT	484.	What is near? »
+		A:	My appointed time. [M 26:18]
+
+INT	485.	What is near? »
+		A:	My appointed time. [M 26:18]
+
+INT	486.	My appointed » time is what?
+		A:	Near. [M 26:18]
+
+CR	487.	According to Matthew chapter 26, prepared » what?
+		A:	The Passover. [M 26:19]
+
+INT	488.	Who prepared the » Passover?
+		A:	The disciples. [M 26:19]
+
+INT	489.	The disciples did » what?
+		A:	As Jesus had directed them. [M 26:19]
+
+Q	490.	Quote Matthew 26:19.
+		A:	So the disciples did as Jesus had directed them and prepared the Passover. [M 26:19]
+
+CR	491.	According to Matthew chapter 26, when evening » came what?
+		A:	Jesus was reclining at the table with the Twelve. [M 26:20]
+
+CVR	492.	According to Matthew chapter 26 verse 20, Jesus » was what?
+		A:	Reclining at the table. [M 26:20]
+
+CVR	493.	According to Matthew chapter 26 verse 20, who » was reclining at the table?
+		A:	Jesus. [M 26:20]
+
+INT	494.	Reclining at the table with » whom?
+		A:	The Twelve. [M 26:20]
+
+INT	495.	Jesus was reclining » at the table when?
+		A:	When evening came. [M 26:20]
+
+CVR	496.	According to Matthew chapter 26 verse 21, they » were what? (Club 300)
+		A:	Eating. [M 26:21]
+
+CVR	497.	According to Matthew chapter 26 verse 21, truly » I tell you what? (Club 300)
+		A:	One of you will betray me. [M 26:21]
+
+Q	498.	Quote Matthew 26:21. (Club 300)
+		A:	And while they were eating, he said, “Truly I tell you, one of you will betray me.” [M 26:21]
+
+CVR	499.	According to Matthew chapter 26 verse 22, they » were what?
+		A:	Very sad. [M 26:22]
+
+CVR	500.	According to Matthew chapter 26 verse 22, surely » you don’t mean whom?
+		A:	Me. [M 26:22]
+
+FTV	501.	They were » very sad and…
+		A:	began to say to him one after the other, “Surely you don’t mean me, Lord?” [M 26:22]
+
+INT	502.	They were very » sad and began to say to him one after the other, what?
+		A:	Surely you don’t mean me, Lord. [M 26:22]
+
+CVR	503.	According to Matthew chapter 26 verse 23, » who will betray me?
+		A:	The one who has dipped his hand into the bowl with me. [M 26:23]
+
+INT	504.	Dipped » what?
+		A:	His hand. [M 26:23]
+
+SIT	505.	Who said it, to whom was it said, about whom was it said?: The one who has dipped » his hand into the bowl with me will betray me. The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.
+		A:	Jesus replied; to the Twelve; about Judas. [M 26:23]
+
+SIT	506.	Who said it?: The one who » has dipped his hand into the bowl with me will betray me.
+		A:	Jesus. [M 26:23]
+
+CR	507.	According to Matthew chapter 26, woe » to whom?
+		A:	That man who betrays the Son of Man. [M 26:24]
+
+CR	508.	According to Matthew chapter 26, woe » to whom?
+		A:	That man who betrays the Son of Man. [M 26:24]
+
+CVR	509.	According to Matthew chapter 26 verse 24, Son » of whom?
+		A:	Man. [M 26:24]
+
+CVR	510.	According to Matthew chapter 26 verse 24, will go » how?
+		A:	Just as it is written about him. [M 26:24]
+
+INT	511.	Betrays » whom?
+		A:	The Son of Man. [M 26:24]
+
+INT	512.	It is written about » whom?
+		A:	Him (the Son of Man). [M 26:24]
+
+Q	513.	Quote Matthew 26:24.
+		A:	The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.” [M 26:24]
+
+CVR	514.	According to Matthew chapter 26 verse 25, » surely you don’t mean whom?
+		A:	Me (Judas). [M 26:25]
+
+INT	515.	Who would betray » him?
+		A:	Judas. [M 26:25]
+
+INT	516.	Then Judas, » the one who would betray him, said, what?
+		A:	Surely you don’t mean me, Rabbi. [M 26:25]
+
+CR	517.	According to Matthew chapter 26, he broke » what? (Club 150)
+		A:	It (bread). [M 26:26]
+
+CR	518.	According to Matthew chapter 26, he broke » what? (Club 150)
+		A:	It (the bread). [M 26:26]
+
+CVR	519.	According to Matthew chapter 26 verse 26, Jesus took » what? (Club 150)
+		A:	Bread. [M 26:26]
+
+CVR	520.	According to Matthew chapter 26 verse 26, who » had given thanks? (Club 150)
+		A:	He (Jesus). [M 26:26]
+
+CVRMA	521.	According to Matthew chapter 26 verse 26, » when he had given thanks, he what? (Club 150)
+		A:	Broke it and gave it to his disciples. [M 26:26]
+
+INT	522.	Who gave it to his » disciples? (Club 150)
+		A:	He (Jesus). [M 26:26]
+
+INT	523.	Take and » eat why? (Club 150)
+		A:	This is my body. [M 26:26]
+
+INT	524.	He broke it » when? (Club 150)
+		A:	When he had given thanks. [M 26:26]
+
+Q	525.	Quote Matthew 26:26. (Club 150)
+		A:	While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.” [M 26:26]
+
+SIT	526.	Who said it, when was it said, how was it said?: Take and » eat; this is my body. (Club 150)
+		A:	While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples. [M 26:26]
+
+CVR	527.	According to Matthew chapter 26 verse 27, he took » what? (Club 300)
+		A:	A cup. [M 26:27]
+
+CVR	528.	According to Matthew chapter 26 verse 27, he took » what? (Club 300)
+		A:	A cup. [M 26:27]
+
+INT	529.	Who took a » cup? (Club 300)
+		A:	He (Jesus). [M 26:27]
+
+Q	530.	Quote Matthew 26:27. (Club 300)
+		A:	Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you. [M 26:27]
+
+QT	531.	Quote Matthew 26:27-28. (Club 300)
+		A:	Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins. [M 26:27]
+
+SIT	532.	Who said it, when was it said, how was it said?: Drink from it, » all of you. (Club 300)
+		A:	When he (Jesus) had given thanks, he gave it to them, saying. [M 26:27]
+
+CR	533.	According to Matthew chapter 26, what blood? » (Club 150)
+		A:	My blood of the covenant. [M 26:28]
+
+CVR	534.	According to Matthew chapter 26 verse 28, » this is what? (Club 150)
+		A:	My blood of the covenant. [M 26:28]
+
+INT	535.	The forgiveness » of what? (Club 150)
+		A:	Sins. [M 26:28]
+
+INT	536.	What is poured » out for many? (Club 150)
+		A:	My blood of the covenant. [M 26:28]
+
+INT	537.	My blood » of what? (Club 150)
+		A:	The covenant. [M 26:28]
+
+INT	538.	Poured out » for whom? (Club 150)
+		A:	Many. [M 26:28]
+
+Q	539.	Quote Matthew 26:28. (Club 150)
+		A:	This is my blood of the covenant, which is poured out for many for the forgiveness of sins. [M 26:28]
+
+CR	540.	According to Matthew chapter 26, I will not » what?
+		A:	Drink from this fruit of the vine. [M 26:29]
+
+CVR	541.	According to Matthew chapter 26 verse 29, what day? »
+		A:	That day when I drink it new with you. [M 26:29]
+
+CVR	542.	According to Matthew chapter 26 verse 29, what day? »
+		A:	That day when I drink it new with you in my Father’s kingdom. [M 26:29]
+
+FTV	543.	I tell you, I » will…
+		A:	not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.” [M 26:29]
+
+INT	544.	This fruit » of what?
+		A:	The vine. [M 26:29]
+
+INT	545.	I will not drink » from what?
+		A:	This fruit of the vine. [M 26:29]
+
+CR	546.	According to Matthew chapter 26, when they » had what?
+		A:	Sung a hymn. [M 26:30]
+
+CR	547.	According to Matthew chapter 26, what Mount? »
+		A:	The Mount of Olives. [M 26:30]
+
+CR	548.	According to Matthew chapter 26, what Mount? »
+		A:	The Mount of Olives. [M 26:30]
+
+INT	549.	When they had sung » a hymn, they went where?
+		A:	Out to the Mount of Olives. [M 26:30]
+
+INT	550.	They had sung » what?
+		A:	A hymn. [M 26:30]
+
+CR	551.	According to Matthew chapter 26, what sheep? » (Club 150)
+		A:	The sheep of the flock. [M 26:31]
+
+CVR	552.	According to Matthew chapter 26 verse 31, this » very night what? (Club 150)
+		A:	You will all fall away on account of me. [M 26:31]
+
+CVR	553.	According to Matthew chapter 26 verse 31, what is » written? (Club 150)
+		A:	I will strike the shepherd, and the sheep of the flock will be scattered. [M 26:31]
+
+CVR	554.	According to Matthew chapter 26 verse 31, I » will what? (Club 150)
+		A:	Strike the shepherd. [M 26:31]
+
+FT	555.	‘I will strike » the shepherd,… (Club 150)
+		A:	and the sheep of the flock will be scattered.’ [M 26:31]
+
+INT	556.	You will all » fall away on account of me when? (Club 150)
+		A:	This very night. [M 26:31]
+
+INT	557.	I will strike » the shepherd, and what? (Club 150)
+		A:	The sheep of the flock will be scattered. [M 26:31]
+
+INT	558.	I will strike » whom? (Club 150)
+		A:	The shepherd. [M 26:31]
+
+INT	559.	The sheep » of the flock will be what? (Club 150)
+		A:	Scattered. [M 26:31]
+
+INT	560.	What will be scattered? » (Club 150)
+		A:	The sheep of the flock. [M 26:31]
+
+INT	561.	What will be scattered? » (Club 150)
+		A:	The sheep of the flock. [M 26:31]
+
+Q	562.	Quote Matthew 26:31. (Club 150)
+		A:	Then Jesus told them, “This very night you will all fall away on account of me, for it is written: “‘I will strike the shepherd, and the sheep of the flock will be scattered.’ [M 26:31]
+
+CVR	563.	According to Matthew chapter 26 verse 32, I will » what?
+		A:	Go ahead of you into Galilee. [M 26:32]
+
+INT	564.	I will go » ahead of you into Galilee when?
+		A:	After I have risen. [M 26:32]
+
+CVR	565.	According to Matthew chapter 26 verse 33, even » if what?
+		A:	All fall away on account of you. [M 26:33]
+
+INT	566.	Even if all » fall away why?
+		A:	On account of you. [M 26:33]
+
+Q	567.	Quote Matthew 26:33.
+		A:	Peter replied, “Even if all fall away on account of you, I never will.” [M 26:33]
+
+SIT	568.	Who said it, to whom was it said?: Even if all » fall away on account of you, I never will.
+		A:	Peter replied; to Jesus. [M 26:33]
+
+SIT	569.	Who said it?: Even if all » fall away on account of you, I never will.
+		A:	Peter. [M 26:33]
+
+CVR	570.	According to Matthew chapter 26 verse 34, this very night » what? (Club 300)
+		A:	Before the rooster crows, you will disown me three times. [M 26:34]
+
+CVR	571.	According to Matthew chapter 26 verse 34, truly » I tell you what? (Club 300)
+		A:	This very night, before the rooster crows, you will disown me three times. [M 26:34]
+
+CVR	572.	According to Matthew chapter 26 verse 34, before the rooster what? » (Club 300)
+		A:	Crows. [M 26:34]
+
+CVR	573.	According to Matthew chapter 26 verse 34, what crows? » (Club 300)
+		A:	The rooster crows. [M 26:34]
+
+CVR	574.	According to Matthew chapter 26 verse 34, I » tell you what? (Club 300)
+		A:	This very night, before the rooster crows, you will disown me three times. [M 26:34]
+
+FTV	575.	“Truly I tell you,” Jesus » … (Club 300)
+		A:	answered, “this very night, before the rooster crows, you will disown me three times.” [M 26:34]
+
+SIT	576.	Who said it, to whom was it said?: Truly I tell you, this » very night, before the rooster crows, you will disown me three times. (Club 300)
+		A:	Jesus answered; to Peter. [M 26:34]
+
+CVR	577.	According to Matthew chapter 26 verse 35, » even if what? (Club 300)
+		A:	I have to die with you. [M 26:35]
+
+Q	578.	Quote Matthew 26:35. (Club 300)
+		A:	But Peter declared, “Even if I have to die with you, I will never disown you.” And all the other disciples said the same. [M 26:35]
+
+SIT	579.	Who said it?: Even if I » have to die with you, I will never disown you. (Club 300)
+		A:	Peter. [M 26:35]
+
+CR	580.	According to Matthew chapter 26, Jesus went » where? (Club 300)
+		A:	To a place called Gethsemane. [M 26:36]
+
+CR	581.	According to Matthew chapter 26, a place » called what? (Club 300)
+		A:	Gethsemane. [M 26:36]
+
+FTV	582.	Then Jesus went » with his… (Club 300)
+		A:	disciples to a place called Gethsemane, and he said to them, “Sit here while I go over there and pray.” [M 26:36]
+
+INT	583.	Jesus went with » whom? (Club 300)
+		A:	His disciples. [M 26:36]
+
+INT	584.	Who went with his » disciples? (Club 300)
+		A:	Jesus. [M 26:36]
+
+MA	585.	Sit here » while I what? (Club 300)
+		A:	Go over there and pray. [M 26:36]
+
+SIT	586.	Who said it, to whom was it said, where was it said?: Sit here » while I go over there and pray. (Club 300)
+		A:	Then Jesus went with his disciples to a place called Gethsemane, and he said to them. [M 26:36]
+
+CR	587.	According to Matthew chapter 26, which sons? » (Club 300)
+		A:	The two sons of Zebedee. [M 26:37]
+
+CVRMA	588.	According to Matthew chapter 26 verse 37, » he took whom? (Club 300)
+		A:	Peter and the two sons of Zebedee. [M 26:37]
+
+INT	589.	Who began to be » sorrowful and troubled? (Club 300)
+		A:	He (Jesus). [M 26:37]
+
+INT	590.	The two sons » of whom? (Club 300)
+		A:	Zebedee. [M 26:37]
+
+MA	591.	He began to be » what? (Club 300)
+		A:	Sorrowful and troubled. [M 26:37]
+
+Q	592.	Quote Matthew 26:37. (Club 300)
+		A:	He took Peter and the two sons of Zebedee along with him, and he began to be sorrowful and troubled. [M 26:37]
+
+CVR	593.	According to Matthew chapter 26 verse 38, keep watch with » whom? (Club 300)
+		A:	Me. [M 26:38]
+
+FT	594.	“My soul » is overwhelmed with… (Club 300)
+		A:	sorrow to the point of death. Stay here and keep watch with me.” [M 26:38]
+
+INT	595.	Stay here » and what? (Club 300)
+		A:	Keep watch with me. [M 26:38]
+
+INT	596.	My soul » is what? (Club 300)
+		A:	Overwhelmed with sorrow to the point of death. [M 26:38]
+
+INT	597.	My soul » is overwhelmed with what? (Club 300)
+		A:	Sorrow. [M 26:38]
+
+INT	598.	Overwhelmed » with what? (Club 300)
+		A:	Sorrow. [M 26:38]
+
+SIT	599.	Who said it, to whom was it said?: My soul » is overwhelmed with sorrow to the point of death. Stay here and keep watch with me. (Club 300)
+		A:	He (Jesus) said to them (Peter and the two sons of Zebedee). [M 26:38]
+
+CVR	600.	According to Matthew chapter 26 verse 39, » going where? (Club 150)
+		A:	A little farther. [M 26:39]
+
+INT	601.	Yet not as » I will, but what? (Club 150)
+		A:	As you will. [M 26:39]
+
+INT	602.	He fell » how? (Club 150)
+		A:	With his face to the ground. [M 26:39]
+
+INT	603.	May this » cup what? (Club 150)
+		A:	Be taken from me. [M 26:39]
+
+INT	604.	If it is possible, » what? (Club 150)
+		A:	May this cup be taken from me. [M 26:39]
+
+Q	605.	Quote Matthew 26:39. (Club 150)
+		A:	Going a little farther, he fell with his face to the ground and prayed, “My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.” [M 26:39]
+
+CVR	606.	According to Matthew chapter 26 verse 40, who found » them sleeping?
+		A:	He (Jesus). [M 26:40]
+
+CVR	607.	According to Matthew chapter 26 verse 40, keep watch with me when? »
+		A:	For one hour. [M 26:40]
+
+INT	608.	Who returned to his » disciples?
+		A:	He (Jesus). [M 26:40]
+
+INT	609.	Couldn’t you » men what?
+		A:	Keep watch with me for one hour. [M 26:40]
+
+SIT	610.	Who said it, to whom was it said?: Couldn’t » you men keep watch with me for one hour?
+		A:	He (Jesus) asked Peter. [M 26:40]
+
+CR	611.	According to Matthew chapter 26, fall into » what? (Club 150)
+		A:	Temptation. [M 26:41]
+
+INT	612.	What is weak? » (Club 150)
+		A:	The flesh. [M 26:41]
+
+INT	613.	You will not fall » into what? (Club 150)
+		A:	Temptation. [M 26:41]
+
+INT	614.	What is weak? » (Club 150)
+		A:	The flesh. [M 26:41]
+
+INT	615.	Watch and » pray why? (Club 150)
+		A:	So that you will not fall into temptation. [M 26:41]
+
+INT	616.	The flesh » is what? (Club 150)
+		A:	Weak. [M 26:41]
+
+Q	617.	Quote Matthew 26:41. (Club 150)
+		A:	“Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.” [M 26:41]
+
+FTV	618.	He went » away a second…
+		A:	time and prayed, “My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.” [M 26:42]
+
+INT	619.	If it is not possible » for what?
+		A:	This cup to be taken away unless I drink it. [M 26:42]
+
+INT	620.	Not possible » for this cup to be taken away unless what?
+		A:	I drink it. [M 26:42]
+
+INT	621.	May your » will be what?
+		A:	Done. [M 26:42]
+
+CVR	622.	According to Matthew chapter 26 verse 43, found them what? »
+		A:	Sleeping. [M 26:43]
+
+CVR	623.	According to Matthew chapter 26 verse 43, found them sleeping when? »
+		A:	When he came back. [M 26:43]
+
+INT	624.	He again » found them sleeping when?
+		A:	When he came back. [M 26:43]
+
+INT	625.	What were heavy? »
+		A:	Their eyes. [M 26:43]
+
+CRMA	626.	According to Matthew chapter 26, so he » what?
+		A:	Left them and went away once more and prayed the third time. [M 26:44]
+
+CVR	627.	According to Matthew chapter 26 verse 44, prayed » when?
+		A:	The third time. [M 26:44]
+
+CVR	628.	According to Matthew chapter 26 verse 44, saying » what?
+		A:	The same thing. [M 26:44]
+
+CR	629.	According to Matthew chapter 26, what has come? »
+		A:	The hour. [M 26:45]
+
+CR	630.	According to Matthew chapter 26, delivered » into what?
+		A:	The hands of sinners. [M 26:45]
+
+CRMA	631.	According to Matthew chapter 26, are you still » what?
+		A:	Sleeping and resting. [M 26:45]
+
+CVR	632.	According to Matthew chapter 26 verse 45, he returned » to whom?
+		A:	The disciples. [M 26:45]
+
+CVR	633.	According to Matthew chapter 26 verse 45, which Son? »
+		A:	The Son of Man. [M 26:45]
+
+INT	634.	Who is delivered » into the hands of sinners?
+		A:	The Son of Man. [M 26:45]
+
+INT	635.	The hour » has what?
+		A:	Come. [M 26:45]
+
+QT	636.	Quote Matthew 26:45-46.
+		A:	Then he returned to the disciples and said to them, “Are you still sleeping and resting? Look, the hour has come, and the Son of Man is delivered into the hands of sinners. Rise! Let us go! Here comes my betrayer!” [M 26:45]
+
+CR	637.	According to Matthew chapter 26, a large » what? (Club 300)
+		A:	Crowd. [M 26:47]
+
+CR	638.	According to Matthew chapter 26, a large » what? (Club 300)
+		A:	Crowd. [M 26:47]
+
+CR	639.	According to Matthew chapter 26, a large » what? (Club 300)
+		A:	Crowd. [M 26:47]
+
+CVR	640.	According to Matthew chapter 26 verse 47, what crowd? » (Club 300)
+		A:	A large crowd armed with swords and clubs. [M 26:47]
+
+INT	641.	With him was » who? (Club 300)
+		A:	A large crowd armed with swords and clubs. [M 26:47]
+
+INT	642.	Judas, one » of the Twelve, arrived when? (Club 300)
+		A:	While he was still speaking. [M 26:47]
+
+MA	643.	With him was » a large crowd armed with what? (Club 300)
+		A:	Swords and clubs. [M 26:47]
+
+MA	644.	Sent from » whom? (Club 300)
+		A:	The chief priests and the elders of the people. [M 26:47]
+
+Q	645.	Quote Matthew 26:47. (Club 300)
+		A:	While he was still speaking, Judas, one of the Twelve, arrived. With him was a large crowd armed with swords and clubs, sent from the chief priests and the elders of the people. [M 26:47]
+
+CVR	646.	According to Matthew chapter 26 verse 48, » arrest whom?
+		A:	Him (the one I kiss). [M 26:48]
+
+INT	647.	Arranged » what?
+		A:	A signal. [M 26:48]
+
+INT	648.	Who had arranged » a signal with them?
+		A:	The betrayer. [M 26:48]
+
+INT	649.	Arranged » a signal with them: what?
+		A:	The one I kiss is the man. [M 26:48]
+
+INT	650.	Kissed » whom?
+		A:	Him (Jesus). [M 26:49]
+
+QT	651.	Quote Matthew 26:49-50.
+		A:	Going at once to Jesus, Judas said, “Greetings, Rabbi!” and kissed him. Jesus replied, “Do what you came for, friend.” Then the men stepped forward, seized Jesus and arrested him. [M 26:49]
+
+SIT	652.	Who said it, to whom was it said?: Greetings, Rabbi! »
+		A:	Going at once to Jesus, Judas said. [M 26:49]
+
+SIT	653.	Who said it, to whom was it said?: Greetings, Rabbi! »
+		A:	Judas to Jesus. [M 26:49]
+
+CR	654.	According to Matthew chapter 26, seized » whom?
+		A:	Jesus. [M 26:50]
+
+CRMA	655.	According to Matthew chapter 26, the men » what?
+		A:	Stepped forward, seized Jesus and arrested him. [M 26:50]
+
+FTN	656.	Then the men » stepped forward,…
+		A:	seized Jesus and arrested him. With that, one of Jesus’ companions reached for his sword, drew it out and struck the servant of the high priest, cutting off his ear. [M 26:50]
+
+INT	657.	Who stepped forward? »
+		A:	The men. [M 26:50]
+
+INT	658.	Who seized Jesus? »
+		A:	The men. [M 26:50]
+
+INT	659.	The men stepped » where?
+		A:	Forward. [M 26:50]
+
+SIT	660.	Who said it, to whom was it said?: Do what you » came for, friend.
+		A:	Jesus; to Judas. [M 26:50]
+
+CVR	661.	According to Matthew chapter 26 verse 51, struck » whom?
+		A:	The servant of the high priest. [M 26:51]
+
+CVR	662.	According to Matthew chapter 26 verse 51, which servant? »
+		A:	The servant of the high priest. [M 26:51]
+
+INT	663.	Who reached for » his sword, drew it out and struck the servant of the high priest?
+		A:	One of Jesus’ companions. [M 26:51]
+
+INT	664.	Cutting » off what?
+		A:	His (the servant of the high priest) ear. [M 26:51]
+
+INT	665.	The servant of » whom?
+		A:	The high priest. [M 26:51]
+
+INT	666.	Who drew » it out?
+		A:	One of Jesus’ companions. [M 26:51]
+
+INT	667.	Who struck the » servant of the high priest?
+		A:	One of Jesus’ companions. [M 26:51]
+
+MA	668.	One of Jesus’ » companions what?
+		A:	Reached for his sword, drew it out and struck the servant of the high priest. [M 26:51]
+
+CVR	669.	According to Matthew chapter 26 verse 52, » die how? (Club 300)
+		A:	By the sword. [M 26:52]
+
+FTV	670.	“Put » your sword back in… (Club 300)
+		A:	its place,” Jesus said to him, “for all who draw the sword will die by the sword. [M 26:52]
+
+INT	671.	Draw » what? (Club 300)
+		A:	The sword. [M 26:52]
+
+INT	672.	All who draw » the sword will what? (Club 300)
+		A:	Die by the sword. [M 26:52]
+
+SIT	673.	Who said it, to whom was it said?: Put » your sword back in its place, for all who draw the sword will die by the sword. (Club 300)
+		A:	Jesus said to him (one of Jesus’ companions). [M 26:52]
+
+INT	674.	Put at » my disposal what? (Club 300)
+		A:	More than twelve legions of angels. [M 26:53]
+
+INT	675.	Twelve legions » of what? (Club 300)
+		A:	Angels. [M 26:53]
+
+INT	676.	He will at » once what? (Club 300)
+		A:	Put at my disposal more than twelve legions of angels. [M 26:53]
+
+INT	677.	He will at » once put at my disposal what? (Club 300)
+		A:	More than twelve legions of angels. [M 26:53]
+
+INT	678.	More than twelve » what? (Club 300)
+		A:	Legions of angels. [M 26:53]
+
+INT	679.	Who will at » once put at my disposal more than twelve legions of angels? (Club 300)
+		A:	He (my Father). [M 26:53]
+
+Q	680.	Quote Matthew 26:53. (Club 300)
+		A:	Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels? [M 26:53]
+
+CR	681.	According to Matthew chapter 26, what Scriptures? » (Club 300)
+		A:	The Scriptures…that say it must happen in this way. [M 26:54]
+
+FTV	682.	But how » then would the… (Club 300)
+		A:	Scriptures be fulfilled that say it must happen in this way?” [M 26:54]
+
+CR	683.	According to Matthew chapter 26, you did » not what?
+		A:	Arrest me. [M 26:55]
+
+CR	684.	According to Matthew chapter 26, you did » not what?
+		A:	Arrest me. [M 26:55]
+
+CVR	685.	According to Matthew chapter 26 verse 55, » you have what?
+		A:	Come out with swords and clubs to capture me. [M 26:55]
+
+FTV	686.	In that » hour Jesus said…
+		A:	to the crowd, “Am I leading a rebellion, that you have come out with swords and clubs to capture me? Every day I sat in the temple courts teaching, and you did not arrest me. [M 26:55]
+
+INT	687.	I sat » where?
+		A:	In the temple courts. [M 26:55]
+
+INT	688.	I sat » in the temple courts when?
+		A:	Every day. [M 26:55]
+
+INT	689.	Leading » what?
+		A:	A rebellion. [M 26:55]
+
+INT	690.	Am I leading » a rebellion, that you have what?
+		A:	Come out with swords and clubs to capture me. [M 26:55]
+
+MA	691.	Come out with » what?
+		A:	Swords and clubs. [M 26:55]
+
+SIT	692.	Who said it, to whom was it said, when was it said?: “Am » I leading a rebellion, that you have come out with swords and clubs to capture me?”
+		A:	In that hour Jesus said to the crowd. [M 26:55]
+
+INT	693.	Who deserted » him and fled?
+		A:	All the disciples. [M 26:56]
+
+INT	694.	All the disciples » deserted whom?
+		A:	Him (Jesus). [M 26:56]
+
+INT	695.	This has all » taken place why?
+		A:	That the writings of the prophets might be fulfilled. [M 26:56]
+
+INT	696.	Taken place » why?
+		A:	That the writings of the prophets might be fulfilled. [M 26:56]
+
+INT	697.	That the writings » of the prophets might be what?
+		A:	Fulfilled. [M 26:56]
+
+INT	698.	Who deserted » him and fled?
+		A:	All the disciples. [M 26:56]
+
+CR	699.	According to Matthew chapter 26, took him » where?
+		A:	To Caiaphas the high priest. [M 26:57]
+
+INT	700.	Those who had arrested » Jesus took him where?
+		A:	To Caiaphas the high priest. [M 26:57]
+
+INT	701.	Who took him to Caiaphas? »
+		A:	Those who had arrested Jesus. [M 26:57]
+
+MA	702.	Who had assembled? »
+		A:	The teachers of the law and the elders. [M 26:57]
+
+CR	703.	According to Matthew chapter 26, who sat down? »
+		A:	Peter. [M 26:58]
+
+CR	704.	According to Matthew chapter 26, who followed » him?
+		A:	Peter. [M 26:58]
+
+CVR	705.	According to Matthew chapter 26 verse 58, » what courtyard?
+		A:	The courtyard of the high priest. [M 26:58]
+
+INT	706.	Sat down with » whom?
+		A:	The guards. [M 26:58]
+
+INT	707.	Sat down with » the guards why?
+		A:	To see the outcome. [M 26:58]
+
+INT	708.	Who followed him at » a distance?
+		A:	Peter. [M 26:58]
+
+INT	709.	The courtyard of » whom?
+		A:	The high priest. [M 26:58]
+
+Q	710.	Quote Matthew 26:58.
+		A:	But Peter followed him at a distance, right up to the courtyard of the high priest. He entered and sat down with the guards to see the outcome. [M 26:58]
+
+CR	711.	According to Matthew chapter 26, the whole » what? (Club 150)
+		A:	Sanhedrin. [M 26:59]
+
+CR	712.	According to Matthew chapter 26, the whole » what? (Club 150)
+		A:	Sanhedrin. [M 26:59]
+
+CVR	713.	According to Matthew chapter 26 verse 59, » false what? (Club 150)
+		A:	Evidence. [M 26:59]
+
+INT	714.	Looking for false » evidence against whom? (Club 150)
+		A:	Jesus. [M 26:59]
+
+INT	715.	False evidence » against whom? (Club 150)
+		A:	Jesus. [M 26:59]
+
+Q	716.	Quote Matthew 26:59. (Club 150)
+		A:	The chief priests and the whole Sanhedrin were looking for false evidence against Jesus so that they could put him to death. [M 26:59]
+
+CVR	717.	According to Matthew chapter 26 verse 60, what witnesses? »
+		A:	False witnesses. [M 26:60]
+
+CVR	718.	According to Matthew chapter 26 verse 60, false » what?
+		A:	Witnesses. [M 26:60]
+
+INT	719.	Two came » forward when?
+		A:	Finally. [M 26:60]
+
+MA	720.	Who came forward? »
+		A:	Many false witnesses; two. [M 26:60]
+
+CVR	721.	According to Matthew chapter 26 verse 61, what » temple?
+		A:	The temple of God. [M 26:61]
+
+CVR	722.	According to Matthew chapter 26 verse 61, three » what?
+		A:	Days. [M 26:61]
+
+INT	723.	This fellow said, » what?
+		A:	I am able to destroy the temple of God and rebuild it in three days. [M 26:61]
+
+INT	724.	Rebuild » it when?
+		A:	In three days. [M 26:61]
+
+CR	725.	According to Matthew chapter 26, what testimony? »
+		A:	This testimony that these men are bringing against you. [M 26:62]
+
+INT	726.	Who stood up? »
+		A:	The high priest. [M 26:62]
+
+Q	727.	Quote Matthew 26:62.
+		A:	Then the high priest stood up and said to Jesus, “Are you not going to answer? What is this testimony that these men are bringing against you?” [M 26:62]
+
+SIT	728.	Who said it, to whom was it said?: Are you not going » to answer? What is this testimony that these men are bringing against you?
+		A:	The high priest; to Jesus. [M 26:62]
+
+CR	729.	According to Matthew chapter 26, if you » are whom?
+		A:	The Messiah, the Son of God. [M 26:63]
+
+CVR	730.	According to Matthew chapter 26 verse 63, Son » of whom?
+		A:	God. [M 26:63]
+
+FTV	731.	But Jesus remained » silent. The…
+		A:	high priest said to him, “I charge you under oath by the living God: Tell us if you are the Messiah, the Son of God.” [M 26:63]
+
+INT	732.	Who remained silent? »
+		A:	Jesus. [M 26:63]
+
+INT	733.	I charge » you how?
+		A:	Under oath by the living God. [M 26:63]
+
+INT	734.	Who remained silent? »
+		A:	Jesus. [M 26:63]
+
+INT	735.	I charge » you under oath by whom?
+		A:	The living God. [M 26:63]
+
+CR	736.	According to Matthew chapter 26, you will see » what? (Club 150)
+		A:	The Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven. [M 26:64]
+
+CR	737.	According to Matthew chapter 26, I say » to whom? (Club 150)
+		A:	All of you. [M 26:64]
+
+CVR	738.	According to Matthew chapter 26 verse 64, Son of whom? » (Club 150)
+		A:	Man. [M 26:64]
+
+CVR	739.	According to Matthew chapter 26 verse 64, you will » what? (Club 150)
+		A:	See the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven. [M 26:64]
+
+CVR	740.	According to Matthew chapter 26 verse 64, sitting » where? (Club 150)
+		A:	At the right hand of the Mighty One. [M 26:64]
+
+FTV	741.	“You have said » so,” Jesus… (Club 150)
+		A:	replied. “But I say to all of you: From now on you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.” [M 26:64]
+
+INT	742.	From now on you » will see what? (Club 150)
+		A:	The Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven. [M 26:64]
+
+INT	743.	You will see the » Son of Man sitting where? (Club 150)
+		A:	At the right hand of the Mighty One. [M 26:64]
+
+INT	744.	You will see the » Son of Man when? (Club 150)
+		A:	From now on. [M 26:64]
+
+INT	745.	The right hand » of whom? (Club 150)
+		A:	The Mighty One. [M 26:64]
+
+SIT	746.	Who said it?: From now » on you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven. (Club 150)
+		A:	Jesus. [M 26:64]
+
+CR	747.	According to Matthew chapter 26, you have heard » what?
+		A:	The blasphemy. [M 26:65]
+
+INT	748.	He has spoken » what?
+		A:	Blasphemy. [M 26:65]
+
+INT	749.	Who tore » his clothes?
+		A:	The high priest. [M 26:65]
+
+CR	750.	According to Matthew chapter 26, he is » what?
+		A:	Worthy of death. [M 26:66]
+
+INT	751.	Who is worthy » of death?
+		A:	He (Jesus). [M 26:66]
+
+INT	752.	He is worthy » of what?
+		A:	Death. [M 26:66]
+
+CR	753.	According to Matthew chapter 26, struck him » how?
+		A:	With their fists. [M 26:67]
+
+INT	754.	Who slapped » him?
+		A:	Others. [M 26:67]
+
+INT	755.	Prophesy to » us, who?
+		A:	Messiah. [M 26:68]
+
+CR	756.	According to Matthew chapter 26, she said » what?
+		A:	You also were with Jesus of Galilee. [M 26:69]
+
+CVR	757.	According to Matthew chapter 26 verse 69, who » came to him?
+		A:	A servant girl. [M 26:69]
+
+CVR	758.	According to Matthew chapter 26 verse 69, sitting » where?
+		A:	Out in the courtyard. [M 26:69]
+
+CVR	759.	According to Matthew chapter 26 verse 69, came » to whom?
+		A:	Him (Peter). [M 26:69]
+
+CVR	760.	According to Matthew chapter 26 verse 69, Jesus » of where?
+		A:	Galilee. [M 26:69]
+
+INT	761.	Peter was » sitting where?
+		A:	Out in the courtyard. [M 26:69]
+
+INT	762.	A servant girl » came to whom?
+		A:	Him (Peter). [M 26:69]
+
+INT	763.	You also were » with whom?
+		A:	Jesus of Galilee. [M 26:69]
+
+QT	764.	Quote Matthew 26:69-70.
+		A:	Now Peter was sitting out in the courtyard, and a servant girl came to him. “You also were with Jesus of Galilee,” she said. But he denied it before them all. “I don’t know what you’re talking about,” he said. [M 26:69]
+
+CVR	765.	According to Matthew chapter 26 verse 71, he » went where?
+		A:	Out to the gateway. [M 26:71]
+
+CVR	766.	According to Matthew chapter 26 verse 71, he » went where?
+		A:	Out to the gateway. [M 26:71]
+
+INT	767.	Another servant » girl saw whom?
+		A:	Him (Peter). [M 26:71]
+
+INT	768.	This fellow was » with whom?
+		A:	Jesus of Nazareth. [M 26:71]
+
+SIT	769.	Who said it, to whom was it said, about whom was it said?: This fellow was » with Jesus of Nazareth.
+		A:	Another servant girl; to the people there; about Peter. [M 26:71]
+
+SIT	770.	Who said it, to whom was it said, how was it said?: This fellow was » with Jesus of Nazareth.
+		A:	Another servant girl saw him and said to the people there. [M 26:71]
+
+CVR	771.	According to Matthew chapter 26 verse 72, he denied » it how?
+		A:	With an oath. [M 26:72]
+
+CVR	772.	According to Matthew chapter 26 verse 72, I » don’t know whom?
+		A:	The man. [M 26:72]
+
+INT	773.	Who denied it again, » with an oath?
+		A:	He (Peter). [M 26:72]
+
+CR	774.	According to Matthew chapter 26, went up » to whom?
+		A:	Peter. [M 26:73]
+
+F2V	775.	After a » little while, those…
+		A:	standing there went up to Peter and said, “Surely you are one of them; your accent gives you away.” Then he began to call down curses, and he swore to them, “I don’t know the man!” Immediately a rooster crowed. [M 26:73]
+
+INT	776.	Those standing there went » up to whom?
+		A:	Peter. [M 26:73]
+
+INT	777.	Surely you are » what?
+		A:	One of them. [M 26:73]
+
+SIT	778.	Who said it, to whom was it said, when was it said?: Surely you are » one of them; your accent gives you away.
+		A:	After a little while, those standing there went up to Peter and said. [M 26:73]
+
+CR	779.	According to Matthew chapter 26, immediately » what?
+		A:	A rooster crowed. [M 26:74]
+
+INT	780.	What crowed? »
+		A:	A rooster. [M 26:74]
+
+INT	781.	Who began to call » down curses?
+		A:	He (Peter). [M 26:74]
+
+INT	782.	A rooster » crowed when?
+		A:	Immediately. [M 26:74]
+
+INT	783.	Call down » what?
+		A:	Curses. [M 26:74]
+
+CVR	784.	According to Matthew chapter 26 verse 75, he » went where? (Club 150)
+		A:	Outside. [M 26:75]
+
+CVR	785.	According to Matthew chapter 26 verse 75, before » what? (Club 150)
+		A:	The rooster crows. [M 26:75]
+
+CVR	786.	According to Matthew chapter 26 verse 75, he » went where? (Club 150)
+		A:	Outside. [M 26:75]
+
+FTV	787.	Then Peter remembered » the word… (Club 150)
+		A:	Jesus had spoken: “Before the rooster crows, you will disown me three times.” And he went outside and wept bitterly. [M 26:75]
+
+INT	788.	Who went outside » and wept bitterly? (Club 150)
+		A:	He (Peter). [M 26:75]
+
+INT	789.	Who went outside? » (Club 150)
+		A:	He (Peter). [M 26:75]
+
+INT	790.	Peter remembered » the word Jesus had spoken: what? (Club 150)
+		A:	Before the rooster crows, you will disown me three times. [M 26:75]
+
+INT	791.	Who wept » bitterly? (Club 150)
+		A:	He (Peter). [M 26:75]
+
+INT	792.	Who remembered » the word Jesus had spoken? (Club 150)
+		A:	Peter. [M 26:75]
+
+INT	793.	Wept » how? (Club 150)
+		A:	Bitterly. [M 26:75]
+
+CR	794.	According to Matthew chapter 27, early » in the morning what? (Club 300)
+		A:	All the chief priests and the elders of the people made their plans how to have Jesus executed. [M 27:1]
+
+MA	795.	Who made their » plans how to have Jesus executed? (Club 300)
+		A:	All the chief priests and the elders of the people. [M 27:1]
+
+Q	796.	Quote Matthew 27:1. (Club 300)
+		A:	Early in the morning, all the chief priests and the elders of the people made their plans how to have Jesus executed. [M 27:1]
+
+CR	797.	According to Matthew chapter 27, bound » whom?
+		A:	Him (Jesus). [M 27:2]
+
+CVR	798.	According to Matthew chapter 27 verse 2, handed him over to whom?
+		A:	Pilate the governor. [M 27:2]
+
+FTV	799.	When Judas, » who had betrayed…
+		A:	him, saw that Jesus was condemned, he was seized with remorse and returned the thirty pieces of silver to the chief priests and the elders. [M 27:3]
+
+INT	800.	Judas, who » had betrayed him, saw what?
+		A:	That Jesus was condemned. [M 27:3]
+
+INT	801.	Seized with » what?
+		A:	Remorse. [M 27:3]
+
+INT	802.	Who saw that Jesus » was condemned?
+		A:	Judas. [M 27:3]
+
+INT	803.	Who was seized » with remorse?
+		A:	He (Judas). [M 27:3]
+
+MA	804.	When Judas, » who had betrayed him, saw that Jesus was condemned, he what?
+		A:	Was seized with remorse and returned the thirty pieces of silver to the chief priests and the elders. [M 27:3]
+
+CVRMA	805.	According to Matthew chapter 27 verse 4, I have what? (Club 150)
+		A:	Sinned; betrayed innocent blood. [M 27:4]
+
+INT	806.	That's » what? (Club 150)
+		A:	Your responsibility. [M 27:4]
+
+Q	807.	Quote Matthew 27:4. (Club 150)
+		A:	“I have sinned,” he said, “for I have betrayed innocent blood.” “What is that to us?” they replied. “That’s your responsibility.” [M 27:4]
+
+SIT	808.	Who said it, to whom was it said?: What is that » to us? That’s your responsibility. (Club 150)
+		A:	They (the chief priests and the elders) replied; to Judas. [M 27:4]
+
+SIT	809.	Who said it?: I have sinned, » for I have betrayed innocent blood. (Club 150)
+		A:	Judas. [M 27:4]
+
+CVR	810.	According to Matthew chapter 27 verse 5, » who went away?
+		A:	He (Judas). [M 27:5]
+
+INT	811.	Judas threw » the money where?
+		A:	Into the temple. [M 27:5]
+
+CR	812.	According to Matthew chapter 27, picked » up what?
+		A:	The coins. [M 27:6]
+
+CVR	813.	According to Matthew chapter 27 verse 6, » what money?
+		A:	Blood money. [M 27:6]
+
+CVRMA	814.	According to Matthew chapter 27 verse 6, » it is what?
+		A:	Against the law; blood money. [M 27:6]
+
+INT	815.	Against the law » to put this into the treasury why?
+		A:	Since it is blood money. [M 27:6]
+
+INT	816.	The chief priests picked » up what?
+		A:	The coins. [M 27:6]
+
+INT	817.	A burial » place for whom?
+		A:	Foreigners. [M 27:7]
+
+INT	818.	They decided » to use the money to buy the potter’s field as what?
+		A:	A burial place for foreigners. [M 27:7]
+
+CR	819.	According to Matthew chapter 27, that is why what?
+		A:	It has been called the Field of Blood to this day. [M 27:8]
+
+CR	820.	According to Matthew chapter 27, what was fulfilled? »
+		A:	What was spoken by Jeremiah the prophet; “They took the thirty pieces of silver, the price set on him by the people of Israel, and they used them to buy the potter’s field, as the Lord commanded me". [M 27:9]
+
+CVR	821.	According to Matthew chapter 27 verse 9, » they took what?
+		A:	The thirty pieces of silver. [M 27:9]
+
+CVR	822.	According to Matthew chapter 27 verse 9, » what people?
+		A:	The people of Israel. [M 27:9]
+
+INT	823.	Spoken by » whom?
+		A:	Jeremiah the prophet. [M 27:9]
+
+INT	824.	The price » set on him by whom?
+		A:	The people of Israel [M 27:9]
+
+CVR	825.	According to Matthew chapter 27 verse 11, » what king? (Club 300)
+		A:	The king of the Jews. [M 27:11]
+
+FTV	826.	Meanwhile » Jesus stood before the… (Club 300)
+		A:	governor, and the governor asked him, “Are you the king of the Jews?” “You have said so,” Jesus replied. [M 27:11]
+
+INT	827.	Who stood before » the governor? (Club 300)
+		A:	Jesus. [M 27:11]
+
+SIT	828.	Who said it, to whom was it said?: Are you the king » of the Jews? (Club 300)
+		A:	The governor asked him (Jesus). [M 27:11]
+
+CVR	829.	According to Matthew chapter 27 verse 12, » he was what? (Club 300)
+		A:	Accused. [M 27:12]
+
+INT	830.	He gave no » answer when? (Club 300)
+		A:	When he was accused by the chief priests and the elders. [M 27:12]
+
+MA	831.	Accused » by whom? (Club 300)
+		A:	The chief priests and the elders. [M 27:12]
+
+Q	832.	Quote Matthew 27:12. (Club 300)
+		A:	When he was accused by the chief priests and the elders, he gave no answer. [M 27:12]
+
+CR	833.	According to Matthew chapter 27, what testimony? »
+		A:	The testimony they are bringing against you. [M 27:13]
+
+INT	834.	Don't you hear » what?
+		A:	The testimony they are bringing against you. [M 27:13]
+
+FTV	835.	But Jesus made » no reply,… (Club 150)
+		A:	not even to a single charge—to the great amazement of the governor. [M 27:14]
+
+INT	836.	The great amazement » of whom? (Club 150)
+		A:	The governor. [M 27:14]
+
+CVR	837.	According to Matthew chapter 27 verse 15, » what prisoner?
+		A:	A prisoner chosen by the crowd. [M 27:15]
+
+INT	838.	Chosen by » whom?
+		A:	The crowd. [M 27:15]
+
+INT	839.	It was the » governor's custom at the festival to what?
+		A:	Release a prisoner chosen by the crowd. [M 27:15]
+
+CR	840.	According to Matthew chapter 27, at that time » what?
+		A:	They had a well-known prisoner whose name was Jesus Barabbas. [M 27:16]
+
+CVR	841.	According to Matthew chapter 27 verse 16, » what Jesus?
+		A:	Jesus Barabbas. [M 27:16]
+
+INT	842.	A well-known » prisoner whose name was what?
+		A:	Jesus Barabbas. [M 27:16]
+
+INT	843.	A well-known » prisoner whose name was what?
+		A:	Jesus Barabbas. [M 27:16]
+
+CR	844.	According to Matthew chapter 27, the crowd had » what?
+		A:	Gathered. [M 27:17]
+
+INT	845.	It was out » of self-interest that they had what?
+		A:	Handed Jesus over to him. [M 27:18]
+
+INT	846.	What was out » of self-interest?
+		A:	That they had handed Jesus over to him. [M 27:18]
+
+Q	847.	Quote Matthew 27:18.
+		A:	For he knew it was out of self-interest that they had handed Jesus over to him. [M 27:18]
+
+CVR	848.	According to Matthew chapter 27 verse 19, » I have what? (Club 300)
+		A:	Suffered a great deal today in a dream. [M 27:19]
+
+CVR	849.	According to Matthew chapter 27 verse 19, » what man? (Club 300)
+		A:	That innocent man. [M 27:19]
+
+INT	850.	His wife sent » him what? (Club 300)
+		A:	This message. [M 27:19]
+
+INT	851.	I have suffered » a great deal today how? (Club 300)
+		A:	In a dream. [M 27:19]
+
+INT	852.	Pilate was » sitting where? (Club 300)
+		A:	On the judge's seat. [M 27:19]
+
+INT	853.	What seat? » (Club 300)
+		A:	The judge's seat. [M 27:19]
+
+Q	854.	Quote Matthew 27:19. (Club 300)
+		A:	While Pilate was sitting on the judge’s seat, his wife sent him this message: “Don’t have anything to do with that innocent man, for I have suffered a great deal today in a dream because of him.” [M 27:19]
+
+FTV	855.	But the chief » priests and… (Club 300)
+		A:	the elders persuaded the crowd to ask for Barabbas and to have Jesus executed. [M 27:20]
+
+INT	856.	Persuaded » the crowd to ask for whom? (Club 300)
+		A:	Barabbas. [M 27:20]
+
+MA	857.	Persuaded » the crowd to what? (Club 300)
+		A:	Ask for Barabbas and to have Jesus executed. [M 27:20]
+
+SIT	858.	Who said it?: Which of the two do » you want me to release to you?
+		A:	The governor. [M 27:21]
+
+INT	859.	They all answered, » what? (Club 300)
+		A:	Crucify him! [M 27:22]
+
+Q	860.	Quote Matthew 27:22. (Club 300)
+		A:	“What shall I do, then, with Jesus who is called the Messiah?” Pilate asked. They all answered, “Crucify him!” [M 27:22]
+
+SIT	861.	Who said it?: What shall I » do, then, with Jesus who is called the Messiah? (Club 300)
+		A:	Pilate. [M 27:22]
+
+CR	862.	According to Matthew chapter 27, they shouted » all the louder what?
+		A:	Crucify him. [M 27:23]
+
+SIT	863.	Who said it?: Why? What » crime has he committed?
+		A:	Pilate. [M 27:23]
+
+CR	864.	According to Matthew chapter 27, he took » what? (Club 300)
+		A:	Water. [M 27:24]
+
+FTV	865.	When Pilate » saw that he… (Club 300)
+		A:	was getting nowhere, but that instead an uproar was starting, he took water and washed his hands in front of the crowd. “I am innocent of this man’s blood,” he said. “It is your responsibility!” [M 27:24]
+
+INT	866.	Pilate saw » that he was what? (Club 300)
+		A:	Getting nowhere. [M 27:24]
+
+INT	867.	Washed » his hands where? (Club 300)
+		A:	In front of the crowd. [M 27:24]
+
+INT	868.	Who saw that he » was getting nowhere? (Club 300)
+		A:	Pilate. [M 27:24]
+
+INT	869.	Who was getting » nowhere? (Club 300)
+		A:	He (Pilate). [M 27:24]
+
+MA	870.	Pilate saw » what? (Club 300)
+		A:	That he was getting nowhere, but that instead an uproar was starting. [M 27:24]
+
+SIT	871.	Who said it, when was it said?: I am innocent » of this man’s blood. It is your responsibility! (Club 300)
+		A:	When Pilate saw that he was getting nowhere, but that instead an uproar was starting, he said. [M 27:24]
+
+FT	872.	“His blood » is on us… (Club 150)
+		A:	and on our children!” [M 27:25]
+
+MA	873.	His blood » is on whom? (Club 150)
+		A:	Us and on our children. [M 27:25]
+
+SIT	874.	Who said it, about whom was it said?: His blood » is on us and on our children! (Club 150)
+		A:	All the people answered; about Jesus. [M 27:25]
+
+INT	875.	Who had Jesus » flogged? (Club 300)
+		A:	He (Pilate). [M 27:26]
+
+INT	876.	Who released » Barabbas? (Club 300)
+		A:	He (Pilate). [M 27:26]
+
+CVR	877.	According to Matthew chapter 27 verse 27, » the governor's what? (Club 300)
+		A:	Soldiers. [M 27:27]
+
+INT	878.	Who took Jesus » into the Praetorium? (Club 300)
+		A:	The governor's soldiers. [M 27:27]
+
+CVR	879.	According to Matthew chapter 27 verse 28, » what robe?
+		A:	A scarlet robe. [M 27:28]
+
+INT	880.	A scarlet » what?
+		A:	Robe. [M 27:28]
+
+INT	881.	A crown » of what?
+		A:	Thorns. [M 27:29]
+
+INT	882.	Hail, » whom?
+		A:	King of the Jews. [M 27:29]
+
+INT	883.	Twisted » together a crown of thorns and set it where?
+		A:	On his head. [M 27:29]
+
+INT	884.	Twisted » together what?
+		A:	A crown of thorns. [M 27:29]
+
+CR	885.	According to Matthew chapter 27, struck » him how?
+		A:	On the head. [M 27:30]
+
+INT	886.	Took the staff » and what?
+		A:	Struck him on the head again and again. [M 27:30]
+
+MA	887.	Struck him on » the head when?
+		A:	Again and again. [M 27:30]
+
+CR	888.	According to Matthew chapter 27, after they » had what?
+		A:	Mocked him. [M 27:31]
+
+FTV	889.	After they had mocked » him,…
+		A:	they took off the robe and put his own clothes on him. Then they led him away to crucify him. [M 27:31]
+
+INT	890.	Put his » own clothes where?
+		A:	On him (Jesus). [M 27:31]
+
+INT	891.	A man from » where? (Club 300)
+		A:	Cyrene. [M 27:32]
+
+INT	892.	Forced » him to carry what? (Club 300)
+		A:	The cross. [M 27:32]
+
+CR	893.	According to Matthew chapter 27, a place » called what?
+		A:	Golgotha. [M 27:33]
+
+INT	894.	Golgotha » which means what?
+		A:	The place of the skull. [M 27:33]
+
+INT	895.	The place of » what?
+		A:	The skull. [M 27:33]
+
+INT	896.	After tasting » what?
+		A:	It (wine to drink, mixed with gall). [M 27:34]
+
+INT	897.	Mixed » with what?
+		A:	Gall. [M 27:34]
+
+INT	898.	What mixed » with gall?
+		A:	Wine. [M 27:34]
+
+CR	899.	According to Matthew chapter 27, casting » what?
+		A:	Lots. [M 27:35]
+
+INT	900.	They divided » up his clothes how?
+		A:	By casting lots. [M 27:35]
+
+INT	901.	Sitting down, » they what?
+		A:	Kept watch over him. [M 27:36]
+
+CVR	902.	According to Matthew chapter 27 verse 37, » the king of whom? (Club 150)
+		A:	The Jews. [M 27:37]
+
+CVR	903.	According to Matthew chapter 27 verse 37, » what charge? (Club 150)
+		A:	The written charge against him. [M 27:37]
+
+INT	904.	Above his head » they placed the written charge against him: what? (Club 150)
+		A:	THIS IS JESUS, THE KING OF THE JEWS. [M 27:37]
+
+Q	905.	Quote Matthew 27:37. (Club 150)
+		A:	Above his head they placed the written charge against him: THIS IS JESUS, THE KING OF THE JEWS. [M 27:37]
+
+MA	906.	Two rebels » were crucified with him, where?
+		A:	One on his right and one on his left. [M 27:38]
+
+F2V	907.	Those who passed » by hurled… (Club 300)
+		A:	insults at him, shaking their heads and saying, “You who are going to destroy the temple and build it in three days, save yourself! Come down from the cross, if you are the Son of God!” [M 27:39]
+
+INT	908.	Hurled » what? (Club 300)
+		A:	Insults. [M 27:39]
+
+INT	909.	Shaking » what? (Club 300)
+		A:	Their heads. [M 27:39]
+
+SIT	910.	Who said it, how was it said.: You who » are going to destroy the temple and build it in three days, save yourself! Come down from the cross, if you are the Son of God! (Club 300)
+		A:	Those who passed by hurled insults at him, shaking their heads and saying. [M 27:39]
+
+CR	911.	According to Matthew chapter 27, if you » are the Son of God, what?
+		A:	Come down from the cross. [M 27:40]
+
+CR	912.	According to Matthew chapter 27, you who » are what?
+		A:	Going to destroy the temple and build it in three days. [M 27:40]
+
+INT	913.	Come down from » the cross when?
+		A:	If you are the Son of God. [M 27:40]
+
+INT	914.	Going to destroy » what?
+		A:	The temple. [M 27:40]
+
+CVRMA	915.	According to Matthew chapter 27 verse 41, » who mocked him?
+		A:	The chief priests, the teachers of the law and the elders. [M 27:41]
+
+CVR	916.	According to Matthew chapter 27 verse 42, » the king of whom? (Club 300)
+		A:	Israel. [M 27:42]
+
+CVR	917.	According to Matthew chapter 27 verse 42, » what king? (Club 300)
+		A:	The king of Israel. [M 27:42]
+
+Q	918.	Quote Matthew 27:42. (Club 300)
+		A:	“He saved others,” they said, “but he can’t save himself! He’s the king of Israel! Let him come down now from the cross, and we will believe in him." [M 27:42]
+
+INT	919.	Let God » rescue him now if he wants him, for he said, what? (Club 300)
+		A:	I am the Son of God. [M 27:43]
+
+INT	920.	Heaped » insults on whom?
+		A:	Him (Jesus). [M 27:44]
+
+Q	921.	Quote Matthew 27:44.
+		A:	In the same way the rebels who were crucified with him also heaped insults on him. [M 27:44]
+
+INT	922.	From noon » until three in the afternoon what?
+		A:	Darkness came over all the land. [M 27:45]
+
+INT	923.	From noon » until when?
+		A:	Three in the afternoon. [M 27:45]
+
+CR	924.	According to Matthew chapter 27, about » three in the afternoon what? (Club 150)
+		A:	Jesus cried out in a loud voice. [M 27:46]
+
+INT	925.	Jesus cried » out in a loud voice when? (Club 150)
+		A:	About three in the afternoon. [M 27:46]
+
+INT	926.	What means "My » God, my God, why have you forsaken me"? (Club 150)
+		A:	Eli, Eli, lema sabachthani. [M 27:46]
+
+Q	927.	Quote Matthew 27:46. (Club 150)
+		A:	About three in the afternoon Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” (which means “My God, my God, why have you forsaken me?”). [M 27:46]
+
+SIT	928.	Who said it, when was it said, how was it said?: Eli, » Eli, lema sabachthani? (Club 150)
+		A:	About three in the afternoon Jesus cried out in a loud voice. [M 27:46]
+
+CR	929.	According to Matthew chapter 27, who heard » this?
+		A:	Some of those standing there. [M 27:47]
+
+INT	930.	He filled » it with wine vinegar, put it on a staff, and what?
+		A:	Offered it to Jesus to drink. [M 27:48]
+
+INT	931.	What vinegar? »
+		A:	Wine vinegar. [M 27:48]
+
+INT	932.	Jesus had cried » out again how?
+		A:	In a loud voice. [M 27:50]
+
+INT	933.	Who gave up » his spirit?
+		A:	He (Jesus). [M 27:50]
+
+Q	934.	Quote Matthew 27:50.
+		A:	And when Jesus had cried out again in a loud voice, he gave up his spirit. [M 27:50]
+
+CR	935.	According to Matthew chapter 27, what shook? » (Club 300)
+		A:	The earth. [M 27:51]
+
+F2V	936.	At that moment » the curtain… (Club 300)
+		A:	of the temple was torn in two from top to bottom. The earth shook, the rocks split and the tombs broke open. The bodies of many holy people who had died were raised to life. [M 27:51]
+
+INT	937.	The earth shook, » the rocks split and what? (Club 300)
+		A:	The tombs broke open. [M 27:51]
+
+INT	938.	The rocks » what? (Club 300)
+		A:	Split. [M 27:51]
+
+INT	939.	What was torn » in two from top to bottom? (Club 300)
+		A:	The curtain of the temple. [M 27:51]
+
+CVR	940.	According to Matthew chapter 27 verse 52, » what people? (Club 300)
+		A:	Many holy people who had died. [M 27:52]
+
+INT	941.	The bodies » of many holy people who had died were what? (Club 300)
+		A:	Raised to life. [M 27:52]
+
+CR	942.	According to Matthew chapter 27, what city? »
+		A:	The holy city. [M 27:53]
+
+MA	943.	They came out of » the tombs after Jesus’ resurrection and what?
+		A:	Went into the holy city and appeared to many people. [M 27:53]
+
+CR	944.	According to Matthew chapter 27, they were terrified » when? (Club 150)
+		A:	When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened. [M 27:54]
+
+INT	945.	Guarding » whom? (Club 150)
+		A:	Jesus. [M 27:54]
+
+INT	946.	Surely he » was what? (Club 150)
+		A:	The Son of God. [M 27:54]
+
+MA	947.	Who saw the earthquake » and all that had happened? (Club 150)
+		A:	The centurion and those with him who were guarding Jesus. [M 27:54]
+
+INT	948.	Watching » from where?
+		A:	A distance. [M 27:55]
+
+INT	949.	Who had followed » Jesus from Galilee?
+		A:	They (many women). [M 27:55]
+
+CR	950.	According to Matthew chapter 27, whose sons? »
+		A:	Zebedee's sons. [M 27:56]
+
+CRMA	951.	According to Matthew chapter 27, the mother » of whom?
+		A:	James and Joseph; Zebedee's sons. [M 27:56]
+
+CVRMA	952.	According to Matthew chapter 27 verse 56, » what Mary?
+		A:	Mary Magdalene, Mary the mother of James and Joseph. [M 27:56]
+
+MA	953.	Mary the » mother of whom?
+		A:	James and Joseph. [M 27:56]
+
+CVR	954.	According to Matthew chapter 27 verse 57, » what man?
+		A:	A rich man from Arimathea, named Joseph. [M 27:57]
+
+INT	955.	A rich » man from where?
+		A:	Arimathea. [M 27:57]
+
+INT	956.	There came » a rich man from Arimathea when?
+		A:	As evening approached. [M 27:57]
+
+INT	957.	Going to Pilate, » he what?
+		A:	Asked for Jesus’ body. [M 27:58]
+
+INT	958.	Pilate ordered » what?
+		A:	That it be given to him. [M 27:58]
+
+INT	959.	Joseph took » what?
+		A:	The body. [M 27:59]
+
+INT	960.	Who took the body? »
+		A:	Joseph. [M 27:59]
+
+CVR	961.	According to Matthew chapter 27 verse 60, » what tomb?
+		A:	His own new tomb that he had cut out of the rock. [M 27:60]
+
+CVR	962.	According to Matthew chapter 27 verse 60, » who went away?
+		A:	He (Joseph). [M 27:60]
+
+INT	963.	A big » what?
+		A:	Stone. [M 27:60]
+
+INT	964.	He rolled » a big stone where?
+		A:	In front of the entrance to the tomb. [M 27:60]
+
+INT	965.	Who placed it » in his own new tomb?
+		A:	Joseph. [M 27:60]
+
+INT	966.	Who rolled a » big stone in front of the entrance to the tomb?
+		A:	He (Joseph). [M 27:60]
+
+MA	967.	Who went to Pilate? »
+		A:	The chief priests and the Pharisees. [M 27:62]
+
+INT	968.	After three » days I will what?
+		A:	Rise again. [M 27:63]
+
+INT	969.	I will rise » again when?
+		A:	After three days. [M 27:63]
+
+SIT	970.	Who said it, when was it said?: After three » days I will rise again.
+		A:	While he was still alive that deceiver said. [M 27:63]
+
+CR	971.	According to Matthew chapter 27, worse » than what?
+		A:	The first. [M 27:64]
+
+INT	972.	Otherwise, » what?
+		A:	His disciples may come and steal the body and tell the people that he has been raised from the dead. [M 27:64]
+
+INT	973.	So give the » order for the tomb to be made secure until when?
+		A:	The third day. [M 27:64]
+
+INT	974.	What will be worse » than the first?
+		A:	This last deception. [M 27:64]
+
+MA	975.	Otherwise, » his disciples may what?
+		A:	Come and steal the body and tell the people that he has been raised from the dead. [M 27:64]
+
+CR	976.	According to Matthew chapter 27, take » what?
+		A:	A guard. [M 27:65]
+
+INT	977.	As secure » as what?
+		A:	You know how. [M 27:65]
+
+SIT	978.	Who said it, to whom was it said?: Take a » guard. Go, make the tomb as secure as you know how.
+		A:	Pilate answered; to the chief priests and the Pharisees [M 27:65]
+
+CVRMA	979.	According to Matthew chapter 27 verse 66, » so they what?
+		A:	Went and made the tomb secure by putting a seal on the stone and posting the guard. [M 27:66]
+
+INT	980.	Putting » a seal where?
+		A:	On the stone. [M 27:66]
+
+INT	981.	They went and made » the tomb what?
+		A:	Secure. [M 27:66]
+
+MA	982.	They went and made » the tomb secure how?
+		A:	By putting a seal on the stone and posting the guard. [M 27:66]
+
+CR	983.	According to Matthew chapter 28, the first » what? (Club 150)
+		A:	Day of the week. [M 28:1]
+
+CRMA	984.	According to Matthew chapter 28, which Mary? » (Club 150)
+		A:	Mary Magdalene and the other Mary. [M 28:1]
+
+CVR	985.	According to Matthew chapter 28 verse 1, » what day? (Club 150)
+		A:	The first day of the week. [M 28:1]
+
+FTV	986.	After the Sabbath, » at dawn… (Club 150)
+		A:	on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb. [M 28:1]
+
+INT	987.	Went to look » at what? (Club 150)
+		A:	The tomb. [M 28:1]
+
+INT	988.	Went to look » at the tomb when? (Club 150)
+		A:	After the Sabbath, at dawn on the first day of the week. [M 28:1]
+
+MA	989.	Who went to look » at the tomb? (Club 150)
+		A:	Mary Magdalene and the other Mary. [M 28:1]
+
+CR	990.	According to Matthew chapter 28, there was » what?
+		A:	A violent earthquake. [M 28:2]
+
+CR	991.	According to Matthew chapter 28, there was » what?
+		A:	A violent earthquake. [M 28:2]
+
+CVR	992.	According to Matthew chapter 28 verse 2, » what angel?
+		A:	An angel of the Lord. [M 28:2]
+
+INT	993.	A violent » what?
+		A:	Earthquake. [M 28:2]
+
+INT	994.	There was a violent » earthquake why?
+		A:	For an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. [M 28:2]
+
+INT	995.	Who rolled back » the stone and sat on it?
+		A:	An angel of the Lord. [M 28:2]
+
+INT	996.	Who sat on » it?
+		A:	An angel of the Lord. [M 28:2]
+
+Q	997.	Quote Matthew 28:2.
+		A:	There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. [M 28:2]
+
+CR	998.	According to Matthew chapter 28, white » as what?
+		A:	Snow. [M 28:3]
+
+INT	999.	His appearance » was like what?
+		A:	Lightning. [M 28:3]
+
+INT	1000.	What were white » as snow?
+		A:	His clothes. [M 28:3]
+
+INT	1001.	What was like » lightning?
+		A:	His (an angel of the Lord) appearance. [M 28:3]
+
+INT	1002.	Whose clothes were white » as snow?
+		A:	His (an angel of the Lord) clothes. [M 28:3]
+
+CR	1003.	According to Matthew chapter 28, what men? »
+		A:	Dead men. [M 28:4]
+
+FTV	1004.	The guards » were so afraid…
+		A:	of him that they shook and became like dead men. [M 28:4]
+
+INT	1005.	The guards were » what?
+		A:	So afraid of him that they shook and became like dead men. [M 28:4]
+
+INT	1006.	Who were so afraid » of him?
+		A:	The guards. [M 28:4]
+
+CR	1007.	According to Matthew chapter 28, looking » for whom?
+		A:	Jesus. [M 28:5]
+
+INT	1008.	I know » what?
+		A:	That you are looking for Jesus, who was crucified. [M 28:5]
+
+INT	1009.	You are looking » for whom?
+		A:	Jesus. [M 28:5]
+
+SIT	1010.	Who said it, to whom was it said?: Do not be afraid, for » I know that you are looking for Jesus, who was crucified.
+		A:	The angel said to the women. [M 28:5]
+
+CR	1011.	According to Matthew chapter 28, just » as what? (Club 150)
+		A:	He said. [M 28:6]
+
+CVR	1012.	According to Matthew chapter 28 verse 6, » he has what? (Club 150)
+		A:	Risen. [M 28:6]
+
+INT	1013.	Come and see » what? (Club 150)
+		A:	The place where he lay. [M 28:6]
+
+INT	1014.	Who is not here? » (Club 150)
+		A:	He (Jesus). [M 28:6]
+
+Q	1015.	Quote Matthew 28:6. (Club 150)
+		A:	He is not here; he has risen, just as he said. Come and see the place where he lay. [M 28:6]
+
+CR	1016.	According to Matthew chapter 28, who has risen from » the dead? (Club 300)
+		A:	He (Jesus). [M 28:7]
+
+CVR	1017.	According to Matthew chapter 28 verse 7, I » have » what? (Club 300)
+		A:	Told you. [M 28:7]
+
+CVR	1018.	According to Matthew chapter 28 verse 7, he » has what? (Club 300)
+		A:	Risen from the dead. [M 28:7]
+
+CVR	1019.	According to Matthew chapter 28 verse 7, going » where? (Club 300)
+		A:	Ahead of you into Galilee. [M 28:7]
+
+FTV	1020.	Then go » quickly and tell… (Club 300)
+		A:	his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.” [M 28:7]
+
+INT	1021.	You will see him » where? (Club 300)
+		A:	There (Galilee). [M 28:7]
+
+CR	1022.	According to Matthew chapter 28, filled » with what?
+		A:	Joy. [M 28:8]
+
+CR	1023.	According to Matthew chapter 28, filled » with what?
+		A:	Joy. [M 28:8]
+
+INT	1024.	Who hurried » away from the tomb, afraid yet filled with joy?
+		A:	The women. [M 28:8]
+
+INT	1025.	Ran to » tell whom?
+		A:	His disciples. [M 28:8]
+
+INT	1026.	Who ran to » tell his disciples?
+		A:	The women. [M 28:8]
+
+MA	1027.	The women hurried » away from the tomb how?
+		A:	Afraid yet filled with joy. [M 28:8]
+
+Q	1028.	Quote Matthew 28:8.
+		A:	So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. [M 28:8]
+
+CR	1029.	According to Matthew chapter 28, who came to him? » (Club 300)
+		A:	They (the women). [M 28:9]
+
+CR	1030.	According to Matthew chapter 28, whose feet? » (Club 300)
+		A:	His (Jesus) feet. [M 28:9]
+
+INT	1031.	Jesus met » whom? (Club 300)
+		A:	Them (the women). [M 28:9]
+
+INT	1032.	Jesus met » them how? (Club 300)
+		A:	Suddenly. [M 28:9]
+
+Q	1033.	Quote Matthew 28:9. (Club 300)
+		A:	Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. [M 28:9]
+
+CR	1034.	According to Matthew chapter 28, they will » what?
+		A:	See me. [M 28:10]
+
+INT	1035.	Go and tell » my brothers to go where?
+		A:	To Galilee. [M 28:10]
+
+INT	1036.	Go and tell » my brothers what?
+		A:	To go to Galilee. [M 28:10]
+
+INT	1037.	They will see me » where?
+		A:	There (Galilee). [M 28:10]
+
+CR	1038.	According to Matthew chapter 28, some of » whom?
+		A:	The guards. [M 28:11]
+
+FTV	1039.	While the women » were on…
+		A:	their way, some of the guards went into the city and reported to the chief priests everything that had happened. [M 28:11]
+
+INT	1040.	The women were » what?
+		A:	On their way. [M 28:11]
+
+INT	1041.	Who reported to » the chief priests everything that had happened?
+		A:	Some of the guards. [M 28:11]
+
+INT	1042.	Reported to » whom?
+		A:	The chief priests. [M 28:11]
+
+CR	1043.	According to Matthew chapter 28, a large » what?
+		A:	Sum of money. [M 28:12]
+
+CR	1044.	According to Matthew chapter 28, a large » what?
+		A:	Sum of money. [M 28:12]
+
+INT	1045.	The chief priests had » met with whom?
+		A:	The elders. [M 28:12]
+
+INT	1046.	Who had met » with the elders?
+		A:	The chief priests. [M 28:12]
+
+INT	1047.	A large sum » of what?
+		A:	Money. [M 28:12]
+
+INT	1048.	Who gave the » soldiers a large sum of money?
+		A:	They (the chief priests). [M 28:12]
+
+MA	1049.	The chief priests had » what?
+		A:	Met with the elders and devised a plan. [M 28:12]
+
+INT	1050.	What gets » to the governor?
+		A:	This report. [M 28:14]
+
+INT	1051.	We will satisfy » whom?
+		A:	Him (the governor). [M 28:14]
+
+CVR	1052.	According to Matthew chapter 28 verse 15, » what day?
+		A:	This very day. [M 28:15]
+
+INT	1053.	This story » has been widely circulated among the Jews when?
+		A:	To this very day. [M 28:15]
+
+INT	1054.	The soldiers took » what?
+		A:	The money. [M 28:15]
+
+INT	1055.	The soldiers took » the money and did what?
+		A:	As they were instructed. [M 28:15]
+
+INT	1056.	This story » has been what?
+		A:	Widely circulated among the Jews. [M 28:15]
+
+INT	1057.	Circulated » how?
+		A:	Widely. [M 28:15]
+
+INT	1058.	Widely » circulated among the Jews when?
+		A:	To this very day. [M 28:15]
+
+MA	1059.	So the soldiers » what?
+		A:	Took the money and did as they were instructed. [M 28:15]
+
+CR	1060.	According to Matthew chapter 28, which mountain? »
+		A:	The mountain where Jesus had told them to go. [M 28:16]
+
+CVR	1061.	According to Matthew chapter 28 verse 16, » which disciples?
+		A:	The eleven disciples. [M 28:16]
+
+INT	1062.	The eleven » what?
+		A:	Disciples. [M 28:16]
+
+INT	1063.	Who went to Galilee? »
+		A:	The eleven disciples. [M 28:16]
+
+Q	1064.	Quote Matthew 28:16.
+		A:	Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. [M 28:16]
+
+CR	1065.	According to Matthew chapter 28, they saw » whom? (Club 300)
+		A:	Him (Jesus). [M 28:17]
+
+INT	1066.	Who doubted? » (Club 300)
+		A:	Some. [M 28:17]
+
+INT	1067.	They worshiped » whom? (Club 300)
+		A:	Him (Jesus). [M 28:17]
+
+Q	1068.	Quote Matthew 28:17. (Club 300)
+		A:	When they saw him, they worshiped him; but some doubted. [M 28:17]
+
+CR	1069.	According to Matthew chapter 28, what authority? » (Club 150)
+		A:	All authority in heaven and on earth. [M 28:18]
+
+FT	1070.	“All authority » in heaven and… (Club 150)
+		A:	on earth has been given to me. [M 28:18]
+
+INT	1071.	What has been given to » me? (Club 150)
+		A:	All authority in heaven and on earth. [M 28:18]
+
+INT	1072.	All authority » in heaven and on earth has been given to whom? (Club 150)
+		A:	Me (Jesus). [M 28:18]
+
+SIT	1073.	Who said it, to whom was it said?: All authority » in heaven and on earth has been given to me. (Club 150)
+		A:	Jesus; to them (the eleven disciples). [M 28:18]
+
+SIT	1074.	Who said it, to whom was it said?: All authority » in heaven and on earth has been given to me. (Club 150)
+		A:	Jesus to the eleven disciples. [M 28:18]
+
+CRMA	1075.	According to Matthew chapter 28, in the » name of whom? (Club 150)
+		A:	The Father and of the Son and of the Holy Spirit. [M 28:19]
+
+CRMA	1076.	According to Matthew chapter 28, the name » of whom? (Club 150)
+		A:	The Father and of the Son and of the Holy Spirit. [M 28:19]
+
+FTV	1077.	Therefore go » and make disciples… (Club 150)
+		A:	of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, [M 28:19]
+
+INT	1078.	Baptizing them » how? (Club 150)
+		A:	In the name of the Father and of the Son and of the Holy Spirit. [M 28:19]
+
+MA	1079.	Go and make » disciples of all nations, how? (Club 150)
+		A:	Baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. [M 28:19]
+
+Q	1080.	Quote Matthew 28:19. (Club 150)
+		A:	Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, [M 28:19]
+
+CR	1081.	According to Matthew chapter 28, I am » what? (Club 150)
+		A:	With you. [M 28:20]
+
+CR	1082.	According to Matthew chapter 28, I am » what? (Club 150)
+		A:	With you always, to the very end of the age. [M 28:20]
+
+CR	1083.	According to Matthew chapter 28, surely » what? (Club 150)
+		A:	I am with you always, to the end of the age. [M 28:20]
+
+INT	1084.	Teaching them » to obey what? (Club 150)
+		A:	Everything I have commanded you. [M 28:20]
+
+INT	1085.	Teaching them » to obey what? (Club 150)
+		A:	Everything I have commanded you. [M 28:20]
+
+INT	1086.	I am with » you when? (Club 150)
+		A:	Always. [M 28:20]
+
+Q	1087.	Quote Matthew 28:20. (Club 150)
+		A:	And teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.” [M 28:20]
+
