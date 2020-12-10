@@ -55,7 +55,11 @@ client.on('message', message => {
         } 
         else if (msg === 'moshi mosh') {
             message.channel.send('Daijoubu deska?');
-        } else if (msg === 'Red sus. Red suuuus. I said red, sus, hahahahaha. Why arent you laughing? I just made a reference to the popular video game "Among Us"! How can you not laugh at it? Emergeny meeting! Guys, this here guy doesnt laugh at my funny Among Us memes! Lets beat him to death! Dead body reported! Skip! Skip! Vote blue! Blue was not an impostor. Among us in a nutshell hahahaha. What?! Youre still not laughing? I made SEVERAL funny references to Among Us and YOU STILL ARENT LAUGHING??!!! Bruh. Ya hear that? Wooooooosh. Whats woooosh? Oh, nothing. Just the sound of a joke flying over your head. Whats that? You think im annoying? Kinda sus, bro. Hahahaha! Anyway, yea, gotta go do tasks. Hahahaha!') {
+        }
+        if (msg.includes("fool")) {
+            message.channel.send('Look who is in danger of the fire of hell tsk tsk');
+            count++;
+        } else if (msg.includes("Red sus. Red suuuus. I said red, sus, hahahahaha. Why arent you laughing? I just made a reference to the popular video game \"Among Us\"! How can you not laugh at it? Emergeny meeting! Guys, this here guy doesnt laugh at my funny Among Us memes! Lets beat him to death! Dead body reported! Skip! Skip! Vote blue! Blue was not an impostor. Among us in a nutshell hahahaha. What?! Youre still not laughing? I made SEVERAL funny references to Among Us and YOU STILL ARENT LAUGHING??!!! Bruh. Ya hear that? Wooooooosh. Whats woooosh? Oh, nothing. Just the sound of a joke flying over your head. Whats that? You think im annoying? Kinda sus, bro. Hahahaha! Anyway, yea, gotta go do tasks. Hahahaha!")) {
             var rand = Math.floor(Math.random() * 7);
             if (rand == 0) {
                 message.channel.send('would you kindly');
@@ -121,10 +125,6 @@ client.on('message', message => {
                 message.channel.send('I bet your parents regretted giving birth to you :P');
             }
         }
-        if (msg.includes("fool")) {
-            message.channel.send('Look who is in danger of the fire of hell tsk tsk');
-            count++;
-        } 
         if (msg.includes("swear")) {
             message.channel.send('Anything beyond yes or no comes from the evil one blasphemous man');
             count++;
@@ -170,6 +170,8 @@ client.on('message', message => {
             }
             message.channel.send("LIFE COULD BE DREAM WE ARE");
             message.channel.send("nunununununuNUNUNUNUNUNUNUNUNununUNUNUNuNUNUnuNUUNUUUU");
+        } else if (msg.includes("hehe")) {
+            message.channel.send("https://tenor.com/view/paimon-gif-18680170");
         }
         if (count >= 5) {
             let role = message.guild.roles.cache.find(r => r.name === "Scum");
