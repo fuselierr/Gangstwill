@@ -59,7 +59,7 @@ client.on('message', message => {
         if (msg.includes("fool")) {
             message.channel.send('Look who is in danger of the fire of hell tsk tsk');
             count++;
-        } else if (msg.includes("Red sus. Red suuuus. I said red, sus, hahahahaha. Why arent you laughing? I just made a reference to the popular video game \"Among Us\"! How can you not laugh at it? Emergeny meeting! Guys, this here guy doesnt laugh at my funny Among Us memes! Lets beat him to death! Dead body reported! Skip! Skip! Vote blue! Blue was not an impostor. Among us in a nutshell hahahaha. What?! Youre still not laughing? I made SEVERAL funny references to Among Us and YOU STILL ARENT LAUGHING??!!! Bruh. Ya hear that? Wooooooosh. Whats woooosh? Oh, nothing. Just the sound of a joke flying over your head. Whats that? You think im annoying? Kinda sus, bro. Hahahaha! Anyway, yea, gotta go do tasks. Hahahaha!")) {
+        } else if (msg.includes("Red sus. Red suuuus. I said red, sus, hahahahaha. Why arent you laughing? I just made a reference to the popular video game \"Among Us\"! How can you not laugh at it?")) {
             var rand = Math.floor(Math.random() * 7);
             if (rand == 0) {
                 message.channel.send('would you kindly');
