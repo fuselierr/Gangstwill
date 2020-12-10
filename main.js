@@ -11,10 +11,6 @@ let pc = [];
 let contr = [];
 let cash = 0n;
 
-var logger = fs.createWriteStream('economy.txt', {
-    flags: 'a' // 'a' means appending (old data will be preserved)
-})
-
 client.once('ready', () => {
     console.log('Gangstwill is online');
     var interval = setInterval (function () {
@@ -56,7 +52,8 @@ client.on('message', message => {
         } else if (msg === 'eren') {
             var attach = new Discord.MessageAttachment('');
             message.channel.send('kono baka des');
-        } else if (msg === 'moshi mosh') {
+        } 
+        else if (msg === 'moshi mosh') {
             message.channel.send('Daijoubu deska?');
         } else if (msg === 'Red sus. Red suuuus. I said red, sus, hahahahaha. Why arent you laughing? I just made a reference to the popular video game "Among Us"! How can you not laugh at it? Emergeny meeting! Guys, this here guy doesnt laugh at my funny Among Us memes! Lets beat him to death! Dead body reported! Skip! Skip! Vote blue! Blue was not an impostor. Among us in a nutshell hahahaha. What?! Youre still not laughing? I made SEVERAL funny references to Among Us and YOU STILL ARENT LAUGHING??!!! Bruh. Ya hear that? Wooooooosh. Whats woooosh? Oh, nothing. Just the sound of a joke flying over your head. Whats that? You think im annoying? Kinda sus, bro. Hahahaha! Anyway, yea, gotta go do tasks. Hahahaha!') {
             var rand = Math.floor(Math.random() * 7);
@@ -123,6 +120,7 @@ client.on('message', message => {
             } else if (rand == 6) {
                 message.channel.send('I bet your parents regretted giving birth to you :P');
             }
+        }
         if (msg.includes("fool")) {
             message.channel.send('Look who is in danger of the fire of hell tsk tsk');
             count++;
