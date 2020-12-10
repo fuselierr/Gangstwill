@@ -56,7 +56,73 @@ client.on('message', message => {
         } else if (msg === 'eren') {
             var attach = new Discord.MessageAttachment('');
             message.channel.send('kono baka des');
-        }
+        } else if (msg === 'moshi mosh') {
+            message.channel.send('Daijoubu deska?');
+        } else if (msg === 'Red sus. Red suuuus. I said red, sus, hahahahaha. Why arent you laughing? I just made a reference to the popular video game "Among Us"! How can you not laugh at it? Emergeny meeting! Guys, this here guy doesnt laugh at my funny Among Us memes! Lets beat him to death! Dead body reported! Skip! Skip! Vote blue! Blue was not an impostor. Among us in a nutshell hahahaha. What?! Youre still not laughing? I made SEVERAL funny references to Among Us and YOU STILL ARENT LAUGHING??!!! Bruh. Ya hear that? Wooooooosh. Whats woooosh? Oh, nothing. Just the sound of a joke flying over your head. Whats that? You think im annoying? Kinda sus, bro. Hahahaha! Anyway, yea, gotta go do tasks. Hahahaha!') {
+            var rand = Math.floor(Math.random() * 7);
+            if (rand == 0) {
+                message.channel.send('would you kindly');
+            } else if (rand == 1) {
+                message.channel.send('could ya');
+            } else if (rand == 2) {
+                message.channel.send('may this sir');
+            } else if (rand == 3) {
+                message.channel.send('do you want to');
+            } else if (rand == 4) {
+                message.channel.send('Is it not hard to');
+            } else if (rand == 5) {
+                message.channel.send('heeeeEEEYYYYY. I am coming to your house right now to quickly ask you to');
+            } else if (rand == 6) {
+                message.channel.send('Rintaro. Hory cow! So I said we should');
+            }
+            rand = Math.floor(Math.random() * 7);
+            if (rand == 0) {
+                message.channel.send('just stfu');
+            } else if (rand == 1) {
+                message.channel.send('shut yer fatty trap');
+            } else if (rand == 2) {
+                message.channel.send('please not speak out of turn');
+            } else if (rand == 3) {
+                message.channel.send('die');
+            } else if (rand == 4) {
+                message.channel.send('go play getting over it or something');
+            } else if (rand == 5) {
+                message.channel.send('uuurruUUUUSAIIIII');
+            } else if (rand == 6) {
+                message.channel.send('play us a sad song on the worlds smallest violin');
+            }
+            rand = Math.floor(Math.random() * 7);
+            if (rand == 0) {
+                message.channel.send('as I could easily see japanese shaman girls but am forced to stay here due to you');
+            } else if (rand == 1) {
+                message.channel.send('do you really have nothing better to do than send these retrded copypastas');
+            } else if (rand == 2) {
+                message.channel.send('what do you expect me to say, "you do you"?');
+            } else if (rand == 3) {
+                message.channel.send('I am sad that I live in the same planet as you');
+            } else if (rand == 4) {
+                message.channel.send('I wish I could chop off those dirty fingers until they move no more');
+            } else if (rand == 5) {
+                message.channel.send('yeah @Moderator  you gotta help me man my wife is tryna kill me');
+            } else if (rand == 6) {
+                message.channel.send('mans literally an addict');
+            }
+            rand = Math.floor(Math.random() * 7);
+            if (rand == 0) {
+                message.channel.send('dont be a literal incantation of a baka mitai');
+            } else if (rand == 1) {
+                message.channel.send('among us is a dead game and we all know it');
+            } else if (rand == 2) {
+                message.channel.send('please escort yourself back to the social recluse you came from');
+            } else if (rand == 3) {
+                message.channel.send('~Tu tu ru~ Mayushii desu そして私はあなたに死ぬように命じます');
+            } else if (rand == 4) {
+                message.channel.send('ill call upon the mixsy gods and throw you out of this area');
+            } else if (rand == 5) {
+                message.channel.send('talk about this more and I might have to give you the scum rank');
+            } else if (rand == 6) {
+                message.channel.send('I bet your parents regretted giving birth to you :P');
+            }
         if (msg.includes("fool")) {
             message.channel.send('Look who is in danger of the fire of hell tsk tsk');
             count++;
